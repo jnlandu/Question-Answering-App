@@ -1,0 +1,1256 @@
+__paragraph__
+The employees of the defendant-company (Valco) were members of the Industrial and Commercial Workers Union of the Trades Union Congress of Ghana (I.C.U.). A collective agreement (exhibit A) negotiated by I.C.U. and Valco under the Industrial Relations Act, 1965 (Act 299), inter alia, provided by article 14 that in the event of Valco undertaking a redundancy exercise to lay off workers, length of service should be the determining factor, and where a less senior worker was to be retained because of his ability or skill I.C.U. should be informed. Article 14 (e) further provided for two months' notice or two months' salary in lieu thereof for determination of appointments. Article 1 proscribed the entry by any employee into any contract outside exhibit A affecting his service conditions or bonding him to Valco without prior discussion with I.C.U. Valco received electricity for its manufacturing operations from the Volta River Authority (V.R.A.) hydro-electric dam at Akosombo. Following a prolonged drought in the country which affected the generation of electricity from Akosombo, the supply of electricity to Valco was reduced in three stages until Valco had to shut down its production line. Meanwhile in the wake of the power reduction Valco had negotiated with its local union of I.C.U. and the workers defence committee (W.D.C.) a programme called "Leave of absence without pay/recall programme" (L.O.A.) under which staff in excess of Valco's labour requirements were to be disengaged for periods of up to fourteen months on condition that if at the end of the period a worker had not been re-engaged he should consider himself redundant with effect from twelve months retrospectively. Each worker was also, inter alia, to be given a farm loan equivalent to what he would have been entitled to under a normal redundancy exercise. In pursuance of the L.O.A., three batches of workers were sent home on 1 November 1982, 7 February 1983 and 31 December 1983 in response to the successive reduction of electricity to Valco. When the plaintiffs, numbering 463 were not recalled after their fourteen months' lay off they brought action against Valco for: (a) damages for wrongful termination of employment; (b) a declaration that the purported termination of their employment was null and void; and (c) arrears of all salary, allowances and benefits due them, on the ground that Valco did not comply with the provisions of exhibit A in dispensing with their services. They contended \[p.343\] that only the I.C.U. could, under exhibit A, negotiate on their behalf and since the L.O.A. was negotiated by the local union and the W.D.C. who lacked capacity to act on their behalf, the L.O.A. was void and they were not bound by it. Valco denied liability and in its defence contended that both the local union and W.D.C. were accredited representatives of the workers and had negotiated the L.O.A. with the full knowledge and consent of all the workers and therefore the plaintiffs were bound by the L.O.A. They furthermore contended that since the L.O.A. gave the plaintiffs more then they would have been entitled to under exhibit A, their action should be dismissed. The trial judge held that a redundancy situation arose at Valco and since Valco had breached the redundancy provisions of article 14 of exhibit A in dispensing with the services of the plaintiffs, their dismissals were wrongful and Valco was liable to pay the plaintiffs damages equivalent to 28 months' salary each�less the farm loans they had taken under the L.O.A.�made up of two months' salary in lieu of notice, salary for the fourteen months they were entitled to stay at home and salary for twelve months which he reckoned as the reasonable period within which they could obtain employment elsewhere. He also granted them all their benefits under exhibit A. He however dismissed, inter alia, their claims for benefits like food packages and X'mas party which they enjoyed outside exhibit A and also their claim for a declaration that the termination of their appointment was a nullity. On appeal by the plaintiffs and a cross-appeal by the defendants, the Court of Appeal by its decision (see Nartey-Tokoli v. Volta Aluminium Co. Ltd. \[1987-88\] 2 G.L.R. 532 C.A.), allowed the plaintiffs' appeal in part and dismissed the defendants' cross-appeal. It confirmed, inter alia, the High Court's refusal to declare the plaintiffs' termination as a nullity and by a majority decision upheld the award of two months' salary in lieu of notice but reduced the award of damage for unlawful dismissal from twelve months to four months. By the instant proceedings the plaintiffs appealed and the defendants also cross-appealed to the Supreme Court from the decision of the Court of Appeal.
+
+__paragraph__
+Held, allowing the plaintiffs' appeal in part and dismissing the defendants cross-appeal: (per Taylor J.S.C., Francois, Osei-Hwere JJ.S.C. and Ofori-Boateng J.A.): (1) under the provisions of the Industrial Relations Act, 1965 (Act 299), ss. 5, 6-7 and 10 the agreement (L.O.A.) was, in relation to the collective agreement, invalid and null and void because: (i) the parties who entered into it had no legal capacity to negotiate any employment terms or redundancy conditions for Valco and its employees; (ii) section 10 (2) and (4) of Act 299 specifically and mandatorily denied a right to an employee covered by a collective agreement to waive such rights for new ones; and (iii) in purporting to declare redundancy the defendants did not follow the procedural machinery set up under the collective agreement in breach of section 10 of Act 299. The plaintiffs were therefore entitled to a declaration that the purported termination of their employment was null and void and of no effect. Stevenson v. United Road Transport Union \[1977\] 2 All E.R. 941, C.A. and Ghana Cocoa Marketing Board v. Agbettoh \[1984-86\] 1 G.L.R. 122, C.A. applied.
+
+__paragraph__
+Per Taylor J.S.C. (i) When the legislature ... has devised mandatory and imperative provisions for the protection of any employee or any person, an argument that the provisions can be lawfully ignored and another provision said to be beneficial to the employee or person substituted at the discretion of the court or any person is one that a common law judge should not countenance. It is an invidious and dangerous argument subversive of the legal order. Dictum of Lord Loreburn L.C. in Attorney-General v. Birmingham, Tame and Rea Drainage Board \[1912\] A.C. 788 at 795, H.L. cited.
+
+__paragraph__
+\[p.344\]
+
+__paragraph__
+(ii) It was a serious matter certainly not conducive to industrial peace, where the machinery which the legislature had carefully devised to give fair hearing to employees and to promote harmony between the employee and the employer was unilaterally ignored by the employer in blatant disregard of the rules of natural justice enshrined in the audi alteram partem principle.
+
+__paragraph__
+Per Amua-Sekyi J.S.C. dissenting. But a look at section 10 (4) of Act 299 shows that the provision was intended to protect workers from exploitation by their employers; so that if the variation of the collective agreement was to give the worker more rights and benefits than he would have had under the collective agreement, it would be the height of irony if such an agreement were to be declared unlawful. In such a case I believe practical considerations and commonsense would override the strict interpretation of the law.
+
+__paragraph__
+(2) The measure of damages for wrongful dismissal from employment was not to be confined to only loss of wages or salary but in addition the employee was to receive his entitlements under the contract of employment. The plaintiffs were therefore entitled to receive their salaries from the dates they ceased to receive them to the dates of their respective de facto termination, including an additional twelve months' salary (as awarded by the High Court in the exercise of its discretion) as damages for wrongful dismissal as at the respective dates of the de facto termination of their employment. As the termination of their employment was held to be void and of no legal effect they remained employees de jure and would therefore, be entitled to earned leave allowances, bonus, long service awards, including food packages and all other benefits said to be enjoyed on a so-called gentleman agreement basis; all of which should be converted into cash if feasible as at the respective dates of the plaintiffs' de facto dismissal. They were also to receive their entitlement under article 40 of the collective agreement. However, in calculating their entitlements, account should be taken of any period within which any employee had obtained employment within the relevant period covered by the award. Hemans v. Ghana National Trading Corporation \[1978\] G.L.R. 4 at 10, C.A. and Ghana Cocoa Marketing Board v. Agbettoh (supra) cited. Hatley v. Haman (1840) 3 E.R. 617 and Lavarack v. Woods \[1967\] 1 Q.B. 278 C.A. not followed.
+
+__paragraph__
+Per Amua-Sekyi J.S.C. dissenting. I need hardly say that I am unable to go along with \[the awards made by the majority\] . . . I have never known a gentleman's agreement to be enforced in a court of law.
+
+__paragraph__
+EDITORIAL NOTE: Decision of the Court of Appeal in Nartey-Tokoli v. Volta Aluminium Co. Ltd. \[1987-88\] 2 G.L.R. 532, C.A. affirmed in part.
+
+__paragraph__
+CASES REFERRED TO
+
+__paragraph__
+(1) Fosuhene v. Pomaa \[1987-88\] 2 G.L.R. 105, S.C.
+
+__paragraph__
+(2) Northern Securities Co. v. United States, 193 U.S. 197.
+
+__paragraph__
+(3) Bimpong v. The Republic \[1989-90\] 2 G.L.R. 252, S.C.
+
+__paragraph__
+(4) Krah (Decd.), In re; Yankyeraah v. Osei-Tutu \[1989-90\] 1 G.L.R. 638, S.C.
+
+__paragraph__
+(5) Edwards v. Skyways Ltd. \[1964\] 1 W.L.R. 349; \[1964\] 1 All E.R. 494.
+
+__paragraph__
+(6) Barnes v. Richards (1902) 46 S.J. 298; 71 L.J.K.B. 341; 86 L.T. 231.
+
+__paragraph__
+(7) I.C.I. Ltd. v. Shatwell \[1965\] A.C. 656; \[1964\] 3 W.L.R. 329; \[1964\] 2 All E.R. 999, H.L.
+
+__paragraph__
+\[p.345\]
+
+__paragraph__
+(8) Attorney-General v. Birmingham, Tame and Rea District Drainage Board \[1912\] A.C. 788; 82 L.J.C.H. 45; 107 L.T. 353, H.L.
+
+__paragraph__
+(9) Ridge v. Baldwin \[1964\] A.C. 40; \[1963\] 2 W.L.R. 935; \[1963\] 2 All E.R. 66, H.L.
+
+__paragraph__
+(10) Malloch v. Aberdeen Corporation \[1971\] 1 W.L.R. 1578; \[1971\] 2 All E.R. 1278, H.L.
+
+__paragraph__
+(11) Automatic Fire Sprinklers Proprietary Ltd. v. Watson (1946) 72 C.L.R. 435.
+
+__paragraph__
+(12) R. v. British Broadcasting Corp; Ex parte Lavelle \[1983\] 1 W.L.R. 23; affirmed \[1983\] 1 W.L.R. 1302, C.A..
+
+__paragraph__
+(13) Stevenson v. United Road Transport Union \[1976\] 3 All E.R. 29; on appeal (1977) I.C.R. 893; \[1977\] 2 All E.R. 941, C.A.
+
+__paragraph__
+(14) Durayappah v. Fernando \[1967\] 2 A.C. 337; \[1967\] 3 W.L.R. 289; \[1967\] 2 All E.R. 152, P.C.
+
+__paragraph__
+(15) Ghana Cocoa Marketing Board v. Agbettoh \[1984-86\] 1G.L.R. 122, C.A.
+
+__paragraph__
+(16) Irani v. Southampton and South West Hampshire Health Authority (1985) I.C.R. 318.
+
+__paragraph__
+(17) Browne v. Dunn (1893) 6 R. 67, H.L.
+
+__paragraph__
+(18) Hadley v. Baxendale (1854) 9 Exch. 347; 23 L.J.Ex. 179; 18 Jur. 358.
+
+__paragraph__
+(19) Hobbs v. London and South Western Rly. (1875) 10 Q.B. 111.
+
+__paragraph__
+(20) Lavarack v. Woods \[1967\] 1 Q.B. 278; \[1966\] 3 W.L.R. 706, \[1966\] 3 All E.R. 683, C.A.
+
+__paragraph__
+(21) Maw v. Jones (1890) 63 L.T. 347.
+
+__paragraph__
+(22) Ellwood v. Liverpool Victoria Legal Friendly Soc. (1880) 42 L.T. 694; 44 J.P. 508.
+
+__paragraph__
+(23) Addis v. Gramophone Co. Ltd. \[1909\] A.C. 488; \[1908-10\] 8 All E.R. Rep. 1; 78 L.J.K.B.1122; 101 L.T. 466, H.L.
+
+__paragraph__
+(24) Austwick v. Midland Rly. Co. Ltd. (1990) 25 T.L.R. 728.
+
+__paragraph__
+(25) De Stempel v. Dunkels \[1938\] 1 All E.R. 238; 158 L.T. 85; 54 T.L.R. 289, C.A.
+
+__paragraph__
+(26) Hemans v. Ghana National Trading Corporation \[1978\] G.L.R. 4, C.A.
+
+__paragraph__
+(27) Hartley v. Harman (1840) 3 E.R. 617; 9 L.J.Q.B. 179.
+
+__paragraph__
+(28) Cox v. Phillips Industries \[1975\] I.C.R. 344.
+
+__paragraph__
+(29) Bliss v. South Eastern Thames Regional Health Authority \[1987\] I.C.R. 700.
+
+__paragraph__
+(30) Vine v. National Dock Labour Board \[1957\] A.C. 488; \[1956\] 3 All E.R. 939; \[1956\] 2 Lloyd's Rep. 657, H.L.
+
+__paragraph__
+(31) Bank of Ghana v. Nyarko \[1973\] 2 G.L.R. 265, C.A.
+
+__paragraph__
+\[p.346\]
+
+__paragraph__
+NATURE OF PROCEEDINGS
+
+__paragraph__
+APPEAL by the plaintiffs and a CROSS-APPEAL by the defendants from the decision of the Court of Appeal delivered on 20 December 1988, allowing in part the plaintiffs' appeal and dismissing the defendants' cross-appeal from the decision of the High Court, Accra in an action for, inter alia, wrongful termination of appointment. The facts are sufficiently set out in the judgments of Taylor and Amua Sekyi JJ.S.C.
+
+__paragraph__
+COUNSEL
+
+__paragraph__
+Jones-Mensah (with him D. K. Letsa) for the appellants.
+
+__paragraph__
+H. E. Bannerman (with him George Thompson) for the respondents.
+
+__paragraph__
+JUDGMENT OF TAYLOR J.S.C
+
+__paragraph__
+I wish to preface this judgment by making some remarks, even if it is considered to be unnecessary, about the rational foundation of our system of justice. The beauty of the judicial system which we have operated in this country for over 100 years, even before our Supreme Court Ordinance of 1876 came into force, is that we do not cause parties before us to suffer in their person or pocket without assigning what in our honest view are adequate and convincing reasons why they should be so damnified. And in order to ensure that we do this properly a system of appeals to courts in ascending order of authority has been devised so that, seeing that to err is human, mistakes made by our courts are corrected.
+
+__paragraph__
+So ingrained, indeed, is this desire to do justice and eliminate human error that as recently as 26 November 1987, in a landmark decision in Fosuhene v. Pomaa \[1987-88\] 2 G.L.R. 105, S.C. which is considered in some quarters as revolutionary, we spelled out the circumstances under which we in the very top hierarchy of our judiciary were willing to review even our own errors. I have adverted to this matter because the judgment of the High Court in the case before us was neither fully confirmed by the Court of Appeal nor unanimously rejected by that court. And the eternal search for justice which brings the case now before us as a final appellate court is best vindicated no matter our decision if the consideration which animates our task and dominates our reasoning is fully appreciated by all who appear before us. Justice in our system is best administered when the considered decisions of judges which are challenged, are exposed to the scrutiny of other judicial minds equally conversant with the legal principles at stake.
+
+__paragraph__
+The case before us now is a dispute involving the duties, liabilities and obligations attaching by law to the master-servant relationship. Its regrettable feature is that through no fault of the master or the servant, a situation has arisen which has generated grievances and led the master and the servant to the law courts. Without a deep appreciation \[p.347\] of the law on the matter and a firm grasp of the facts in issue, it is difficult to imagine, given the arguments of the parties, in what manner the judicial process can operate to do substantial justice to all the parties.
+
+__paragraph__
+This is a hard case, and it leads me to reflect on what the great American judge and jurist, Holmes J., must have had in mind when in his dissenting opinion in Northern Securities Company v. United States 193 U.S. 197 at 400, he observed that "hard cases make bad law." The case is intriguingly simple and yet paradoxically it is intrinsically complex, for this reason it appears to me that, the first step in a rational resolution of the matters in controversy between the parties demands a narration in appropriate details of the facts and circumstances which are at the centre of the dispute. In that exercise, I propose to refer to the servants as plaintiffs and the master as the defendant or defendants.
+
+__paragraph__
+And so I proceed now to what I consider the relevant facts. The defendants herein, the Volta Aluminium Co. are a limited liability company operating in Tema and relying extensively on electricity generated by the Volta River Authority for smelting alumina into aluminium. The plaintiffs are employees of the defendants who are popularly referred to as Valco. Their conditions of employment are spelt out in a collective agreement with Valco entered into on their behalf by their mother union, the Industrial and Commercial Workers Union (I.C.U.), in accordance with the provisions of the Industrial Relations Act, 1965 (Act 299). The proximate facts leading to the instant litigation arose because the low level of water in the Volta lake following the severe droughts in the country in 1982 led to a fall in the electricity supply in the whole country. In the circumstances the defendants averred that the electricity suppliers, the Volta River Authority, by reducing their supply in order to conserve electricity compelled them in or about the first week of October 1982 to close down two out of their five pot-lines by 1 November 1982. This meant a 40 per cent loss of income to the defendants and a reduction in their aluminium production. The situation saddled the defendant-company with an excess labour force and compelled them in the last few weeks before 18 October 1982 to deliberate on ways and means of shedding their excess labour force if the company were to survive. Under the pressure of these events, the company apparently requested a meeting with the local union and representatives of the Valco Workers Defence Committee at their conference room on 18 October 1982 and put forward before them a six-point proposal to solve the problem of, as the company put it, "the excess employees that the company would not have jobs for as a result of . . . the 40 per cent cut back in \[p.348\] production capacity." The company's six-point proposals are as follows:
+
+__paragraph__
+�1. Valco agrees to loan to these employees an amount of money equal to 200 per cent of their monthly base pay for each completed year of service.
+
+__paragraph__
+2\. Place each of these employees on leave of absence from 1 November 1982.
+
+__paragraph__
+3\. During the period, these employees will be encouraged to use the loan for farming or other profitable ventures in the national interest.
+
+__paragraph__
+4\. Employees on leave of absence will be given first opportunity for re-employment at Valco. Re-employment opportunity will be based on Valco's ability to return to production and article 14 (b) of the 1980-83 contract between Valco and I.C.U..
+
+__paragraph__
+5\. Re-employed employees will be required to repay the loan over five years at eight per cent interest beginning from the date of re-employment and continue to accumulate services less the period of leave of absence.
+
+__paragraph__
+6\. If Valco is not able to re-employ these employees by 1 January 1984, they will be considered redundant effective from 1 November 1982 and the loan amount converted to redundancy payment in accordance with article 40 (d) of the 1980-83 agreement between Valco and I.C.U.."
+
+__paragraph__
+On the basis of these proposals, the tripartite group of the Valco management, the representatives of the local union and representatives of the Valco Workers Defence Committee agreed on 29 October 1982 to an arrangement described as "Valco leave of absence without pay/recall programme." The programme was worked out at four meetings of the tripartite group held on 18, 19, 28 and 29 October 1982, respectively. This programme L.O.A. as it has been called in these proceedings which the Valco management considered to be very generous and beneficial to the employees and which all the employees accepted rather than face immediate redundancy under the collective agreement process, has been trenchantly condemned by the plaintiffs.
+
+__paragraph__
+On their behalf it was urged before us that the L.O.A. programme was an ingenious device motivated by the desire to circumvent the provisions of the collective agreement relating to redundancy and was calculated to give Valco a free hand in selecting for redundancy employees they considered undesirable. It was also bluntly argued before us, that the stark motive of Valco was to avoid paying a higher terminal benefit which was soon to fall due under an impending \[p.349\] collective agreement by which an employee's terminal benefit would be calculated by reference to a multiplier of 700 per cent as against 200 per cent under the then substituting collective agreement. It is the submission proceeds, for these reasons that Valco cleverly attempted to abrogate and indeed purported to substitute a new employment contract, for the collective agreement.
+
+__paragraph__
+On behalf of the plaintiffs, bad faith was furthermore attributed to Valco and Valco's bona fides was questioned. I have no doubt, speaking for myself, that Valco's proposals were calculated to ameliorate the traumatic effect of the redundancy forced on them by the power cut and to minimise its effect on their employees; but in the law of contract, the motive for entering into a contract is, as a general proposition, quite irrelevant as far as its validity is concerned and for this reason, I do not think it is necessary for us to make any pronouncement as to whether these charges against Valco are true or false, nor do I think we should react to these acrimonious fulminations even if they are true. The document containing the L.O.A. programme was tendered in evidence and because, motive or no motive, it is the essential material upon which the litigation is founded, I consider the setting down herein of all its provisions to be very necessary indeed. Under the programme, it is provided as follows:
+
+__paragraph__
+"For the excess employees that will not have jobs as a result of the shut down of two pot lines:
+
+__paragraph__
+1\. Valco agrees to loan to these employees an amount of money equal to 200 per cent of their monthly base pay for each completed year of service less outstanding financial obligations to the company. The initial payment will be considered an advance against their farm loan or redundancy payment.
+
+__paragraph__
+(a) Employees will have the option to convert the advance to redundancy anytime between 1 November 1982 and 31 December 1982.
+
+__paragraph__
+(b) If the employee does not return to the plant to sign the necessary documents for the farm loan scheme by 31 December 1982, he will be considered to have taken the redundancy option and to be declared redundant accordingly.
+
+__paragraph__
+(c) Subject to obtaining necessary approval, an employee on this programme at one time can convert up to �1,500 of his loan amount to purchase the following equipment:
+
+__paragraph__
+fertilizer chain saw
+
+__paragraph__
+fence wire outboard motor
+
+__paragraph__
+\[p.350\]
+
+__paragraph__
+roofing sheet fishing net
+
+__paragraph__
+cement mechanised and electrical tools
+
+__paragraph__
+poultry food portable welding machine
+
+__paragraph__
+portable water pump water hose.
+
+__paragraph__
+The duty and shipping cost to be borne by the employee. Employees to exercise this option by 31 December 1982.
+
+__paragraph__
+(d) Employees recalled will be required to repay the loan at one per cent interest over five years beginning from the date of recall and continue to accumulate service less the period of leave of absence.
+
+__paragraph__
+2 Benefits that employees on leave of absence will receive are subject to Valco's continued operations.
+
+__paragraph__
+(a) 10/12 of the 1982 bonus or if employed less than one year a pro rata amount.
+
+__paragraph__
+(b) Employees on leave of absence will be eligible to purchase the November food package and December supplementary food package, in addition to receiving the December 1982 free food package. Employees will be eligible to purchase one food package every quarter (March, June, September and December of 1983).
+
+__paragraph__
+(c) Employees will be eligible to receive the cloth for December 1982.
+
+__paragraph__
+(d) Hospital benefits for employees on leave of absence and dependants will be continued until December 1983, provided during this period the employee is pursuing projects for which the loan was granted and have not secured job with another employer. There will be no additional dependants added during this period except for new born babies of registered wives as of 31 October 1982.
+
+__paragraph__
+(e) Employees will be allowed to convert their incentive points as of 31 October 1982 for V.I.P. goods or convert them to cash by 31 December 1982.
+
+__paragraph__
+(f) Affected employees' children under Valco scholarship will continue to enjoy the award until the award's period is exhausted. However the determining factor should be the child's academic capability.
+
+__paragraph__
+3 . Employees will be placed on leave of absence from 1 November 1982.
+
+__paragraph__
+(a) Affected employees with less than one year service will be given two months base pay.
+
+__paragraph__
+(b) Employees on leave of absence will be given first opportunity for recall to Valco. Recall opportunity will be based on Valco's ability to return to production.
+
+__paragraph__
+\[p.351\]
+
+__paragraph__
+4\. If Valco is not able to recall these employees by 1 January 1984, they will be considered redundant effective from 1 November 1982, and the loan amount converted to redundancy payment in accordance with article 40 (d) of the 1980-83 agreement between Valco and I.C.U.
+
+__paragraph__
+5\. In the event of the death of an employee on leave of absence, the company shall donate �2,000 to his previously designated beneficiary to assist the bereaved family in meeting the funeral expenses. The company shall bear the cost of mortuary bill for up to two (2) weeks period. In addition the company shall provide a pick up to convey the deceased from Valco Hospital to his hometown in Ghana."
+
+__paragraph__
+As at the date, 29 October 1982, when this scheme for laying off some of Valco's employees was devised, the record of proceedings would seem to indicate that no one outside management apparently knew precisely the identities of all the employees to be affected by the exercise. However, on 1 November 1982 the employees who reported for work were given pieces of paper on which was written that they should check their names on the notice board and any person whose name appeared there should not report at the plant or his usual office. The pieces of paper were headed "special notice to all regular employees" and the notice dated Sunday 31 October 1982 reads:
+
+__paragraph__
+"Names of employees on the leave of absence without pay/recall programmes are posted by badge Nos on special bulletin board at the Palm Court.
+
+__paragraph__
+All employees reporting for work to check the posting. If your name is on the list please proceed to the pay booth to collect your entitlement and relevant documents pertaining to the programme. Please review the instruction sheet contained in your envelope."
+
+__paragraph__
+The envelope given to the affected employee contained a letter, and that letter it would seem was the first hint which all the affected plaintiffs who attended work on 1 November 1982 had, that they were being declared redundant with immediate effect. I reproduce the letter hereunder for its effect to be appreciated. It is as follows:
+
+__paragraph__
+"Dear employee,
+
+__paragraph__
+As you may be aware, the Volta River Authority (V.R.A.) has notified Valco that there is a shortage of water in the Volta Lake. Due to this shortage, the V.R.A. has declared a force majeure effective 1 November 1982, under the power contract with Valco. This means that V.R.A. must reduce the power available to \[p.352\] Valco and requires us to shut down two of our five pot lines on 1 November.
+
+__paragraph__
+As a result of the power curtailment a number of our employees are in excess of our needs and must be placed on leave of absence. I regret to have to inform you that you are one of the people who have to be placed on leave of absence.
+
+__paragraph__
+The details of the leave of absence are described in the leave of absence without pay/recall programme, a copy of which is enclosed. This programme was jointly worked out with the Workers' Defence Committee (W.D.C.) and the local union. Briefly our objective was to try to minimise the effect on you, while providing you with the opportunity to be recalled.
+
+__paragraph__
+I wish you every success in your new venture.
+
+__paragraph__
+Yours sincerely,
+
+__paragraph__
+(Sgd.) H. Goulter
+
+__paragraph__
+Works Manager."
+
+__paragraph__
+Included in the envelope is an instruction sheet, it is perhaps worth noting its contents and I also reproduce it hereunder:
+
+__paragraph__
+"Instruction Sheet
+
+__paragraph__
+1\. You are welcome to keep the safety equipment (shoes, pants, shirts, safety glasses and hat) that you have in your possession or in your locket.
+
+__paragraph__
+2\. An IR-8 is enclosed explaining the calculation of the advance check which is enclosed.
+
+__paragraph__
+3\. You can return any time after 8 November to collect your final pay check.
+
+__paragraph__
+4\. When you return to collect your final pay check, you can make your choice of award under the Valco incentive programme or secure the cash equivalent.
+
+__paragraph__
+5\. A blank loan agreement is enclosed. You should read this later and bring it back to the personnel office to execute by 31 December 1982. You may want to sign the loan agreement when you pick up your final check.
+
+__paragraph__
+6\. Be sure and leave your current address with the personnel office. If your address changes during your leave of absence, notify the personnel office."
+
+__paragraph__
+And so it came to pass that on 1 November 1982 a first batch of Valco employees included in the 463 plaintiffs herein were shut out of the plant, workshop and offices of their employer compulsorily and were offered an attenuated redundancy under the collective agreement or the qualified and abnormal redundancy under the L.O.A. programme.
+
+__paragraph__
+\[p.353\]
+
+__paragraph__
+On 7 February and 16 November 1983, with no preliminary negotiations with any entity whatsoever, Valco repeated the exercise by notifying a second and third batches of employees of their inclusion in the L.O.A. programme. The general notice to the third batch, to be referred to later in this judgment dated 16 November 1983 requested them to go home on that date and return to the plant on or after Tuesday 22 November to collect their entitlement. The appointments of the third batch therefore, were clearly purportedly terminated on 16 November 1983.
+
+__paragraph__
+Valco has maintained in these proceedings that it gave the employees it sent home a choice of being declared redundant under the collective agreement, or becoming redundant under the L.O.A. It seems to me that on the facts led in evidence that contention is clearly untenable. Redundancy under the collective agreement as I hope to demonstrate later in this opinion, is preceded by agreed procedural steps. The redundancy the employees were subjected to however was instant redundancy albeit a dismissal completely outside the collective agreement. The proffered so-called choice is to be exercised within two months later, after a fait accompli, when the employee had in fact already been declared redundant and paid some of his entitlement. A choice given after the event is no choice.
+
+__paragraph__
+It would seem also that the L.O.A. agreement was specifically devised for the first batch of employees sent home on 1 November 1982. In the very first instance of the L.O.A. document it is stated that the programme was "For the excess of employees that will not have jobs as a result of the shut down of two pot lines." Other provisions in the document overwhelmingly confirmed this. Consider the fact that under paragraph 1 (a) of the L.O.A. as worked out by the tripartite group the option "to convert the advance to redundancy", whatever that meant, is restricted to the period from 1 November to 31 December 1982. Furthermore, under paragraph 1 (b) it is only in cases where the employee did not return to the plant by 31 December 1982 to sign the L.O.A. document that he was declared redundant. Moreover under paragraph 4, in case Valco was unable to recall the redundant employees by 1 January 1984, they were to be considered redundant with effect from 1 November 1982. And in any case, at the tripartite negotiations provision was not made reserving to Valco the right to apply the L.O.A. to subsequent dismissals or future declarations of redundancy.
+
+__paragraph__
+Faced with the apparently inadvertent or unanticipated contingency in the events that occurred, when other pot-lines were closed down, Valco unilaterally amended the L.O.A. programme mutatis mutandis to apply to the second and third batches of employees which it also slated for redundancy. In the case of the second batch sent \[p.354\] away on 7 February 1983 the relevant amendment reads, inter alia, "if Valco is not able to recall these employees by 6 February 1984, they will be considered redundant effective 7 February 1983 . . ." With regard to the third batch, the notice posted on the premises dated 16 November 1986 reads:
+
+__paragraph__
+"Names of employees on leave of absence without pay-recall programme are posted by badge numbers on special bulletin boards at the parking lot.
+
+__paragraph__
+All employees reporting for work today 16 November 1983 should check the positing. If your name is on the list, please go home and return to the plant on or after Tuesday 22 November 1983 to collect your entitlement and relevant documents relating to the programme.
+
+__paragraph__
+If you have any questions on your mind please contact Nee Amartey in the personnel building."
+
+__paragraph__
+In the light of this it is not unreasonable even in the absence of the amended L.O.A. covering the third batch to make an intelligent assumption that the relevant amendment in their case reads mutatis mutatis as follows: "If Valco is not able to recall these employees by 15 November 1984 they will be considered redundant effective from 16 November 1983 . . ."
+
+__paragraph__
+Be that as it may, on 19 June 1987 the plaintiffs in the three batches numbering 463 commenced this action by the issue of a writ of summons against their employer Valco. They claim:
+
+__paragraph__
+"(1) Damages for wrongful termination of employment.
+
+__paragraph__
+(2) Declaration that the purported termination of their employment is null and void, is of no legal effect and ought to be vacated.
+
+__paragraph__
+(3) Arrears of all salary, all allowances and all benefits due to the plaintiffs from their respective dates of wrongful termination to date of judgment."
+
+__paragraph__
+I must remark that the strategy of the 463 plaintiffs, a truly impressive number of persons taking a joint action against the defendant-company, is unfortunate and certainly not realistic. Admittedly, the vaunted justification for doing this is reflected in the first paragraph of the statement of claim in which it was averred that: "The plaintiffs have a common grievance and common cause of action in which they agitate common grounds in law and in fact against the defendant-company." But an examination of the evidence led, though supportive of common ground in law, reveals a variety of facts, circumstances and unexamined facts that may affect the nature of damages recoverable by a successful plaintiff. For instance in \[p.355\] paragraph 22 of the defendant's pleadings, a defence admittedly vague was put forward "that some of the plaintiffs have been re-engaged, some others have found employment elsewhere while one had died." These persons were not specified, but I apprehend that if they had purported to give evidence, cross-examination would have revealed the nature of the measure of damages applicable to them, if they were successful.
+
+__paragraph__
+In the present case when the practical difficulty engendered by such a large number of persons pursuing a common claim became clear, counsel accommodated themselves by consenting to the following procedure:
+
+__paragraph__
+"The court should deal with only the issues as to whether or not they were rightly terminated, as well as their entitlements. The detailed benefits will be determined later. It is also agreed that the evidence given by the witness on the conditions of employment and the exhibits tendered apply to all the plaintiffs. It is agreed also that the witnesses may be recalled for further cross-examination.�
+
+__paragraph__
+In my opinion this last minute attempt to rationalise the procedure adopted is not satisfactory. In fact both counsel and the court appeared to have forgotten this reservation for the determination of the benefits. In the situation revealed here, the conventional approach of the legal profession, an approach sanctioned by generations of common law judges is the technique of mounting a test case with those plaintiffs who typify in their claims the interests sought to be protected. In the instant case, one or two plaintiffs selected from each of the three batches exemplifying the interests of persons declared redundant and laid off on 1 November 1983, 7 February 1983 and 16 November 1983 respectively plus one or two trainee-plaintiffs would have ensured a smooth trial capable of securing a definitive pronouncement of the interests of all the litigants. I am afraid, for reasons inexplicable and regretfully hard for me to fathom, the legal advisers of the plaintiffs did not use this time-honoured machinery of the well-known conventional practice in our procedure system. The unfortunate failure to do this carries the potential of a multiplicity of legal processes with the inevitable consequence that finality in litigation must of necessity elude the parties in the instant contest.
+
+__paragraph__
+Be that as it may, the trial judge Benin J. after hearing six of the 463 plaintiffs and two witnesses for the defendant with one witness who gave evidence-in-chief both for the plaintiffs and the defendant-company, delivered judgment in which he held after a careful and anxious consideration of the evidence led by the parties, that most of \[p.356\] the plaintiffs were wrongfully dismissed by the defendant-company. There were also some plaintiffs, their number was not clearly identified, but in whose case some tendentious piece of evidence, with slight probative value, was belatedly offered by the defendants in an attempt to show that they were not employees and were consequently not covered by the collective agreement. The judge accepted that position and accordingly dismissed their claim.
+
+__paragraph__
+With regard to the successful plaintiffs the judge held that they were entitled to damages for wrongful dismissal as set out in the first claim. The judge however held that the second claim seeking a declaration that the termination of their employment was null and void and of no legal effect, "does not avail the plaintiffs" and he therefore declined to make the declaration.
+
+__paragraph__
+With regard to damages, he awarded each of the successful plaintiffs a total sum covered by 26 months of his salary as compensation for the wrongful termination of his employment plus questionable two months' salary in lieu of notice making a total award of 28 months salary. In arriving at this figure of 28 months, he took note of the fact that in the termination notice of 31 October 1982, the affected plaintiffs, clearly of the first batch, were asked to stay at home, until 1 January 1984. From 31 October 1982 to 1 January 1984 is a period of 14 months and as he thought on the date of the purported termination they were entitled to two months notice he also awarded two months salary as compensation in lieu of notice making the award to cover sixteen months. He also thought that in determining the measure of the damages which the said plaintiffs were entitled to, he must take account of a reasonable period during which they were to look for employment and he decided for stated reasons that twelve months was appropriate and he also gave a further twelve months' salary, thus he awarded for damages 28 months' salary for the first claim. With regard to the third claim he held that the wrongfully dismissed plaintiffs were entitled to: "earned leave allowance, bonus, long service awards and end of service benefits as at the date each of them was laid off �provided these were earned, but had not already been paid to them. He excluded claims for food package and other claims founded on what the plaintiffs called gentleman agreement and which they contended they would have been entitled to if they had not been dismissed. All these payments he held are to be made to the plaintiffs less the farm loan taken by each of them under the L.O.A. programme. He awarded costs of �50,000 in favour of the plaintiffs against Valco.
+
+__paragraph__
+From this judgment of Benin J. the plaintiffs appealed to the Court of Appeal. Their complaint was in respect of five matters which they itemised as follows:
+
+__paragraph__
+\[p.357\]
+
+__paragraph__
+(1) The decision that the trainees among the plaintiffs were not employees;
+
+__paragraph__
+(2) the decision that the termination of the respective appointments of the plaintiffs were only wrongful and not void;
+
+__paragraph__
+(3) the decision that food packages did not form part of the plaintiffs' enforceable conditions of service;
+
+__paragraph__
+(4) the restriction of the compensation to twelve months; and
+
+__paragraph__
+(5) inadequate and unreasonable awards.
+
+__paragraph__
+The defendants also appealed against the whole decision with the exception of (a) the judge's decision in regard to the trainees; (b) his decision rejecting the plaintiffs' contention that their dismissal was null and void; and (c), his holding that the plaintiffs were not entitled to food package and other benefits said to be due to them on a gentleman's agreement basis.
+
+__paragraph__
+At the Court of Appeal, by a unanimous decision (see Nartey-Tokoli v. Volta Aluminium Co. Ltd. \[1987-88\] 2 G.L.R. 532, C.A.) the High Court holding that the defendants were liable to the plaintiffs for wrongful termination of their employment was confirmed and the High Court judge's refusal to declare the termination as null and void was affirmed. The dismissal of the claim of the trainee plaintiffs by the High Court was also upheld. With regard to the damages, a majority of two to one held that apart from the two months' salary in lieu of notice awarded as compensation, a reasonable sum which they fixed at four months' salary as at 31 December 1983, was a measure of the successful plaintiffs' entitlement and they therefore ordered as follows at 000:
+
+__paragraph__
+"The parties are hereby ordered to appear before the court below to calculate how much is due to each of the successful plaintiffs as follows:
+
+__paragraph__
+(a) Their salaries from date of termination to 31 December 1983 and all other entitlements such as earned leave allowance, bonus, long service awards and end of service benefits as at the date each of them was laid off as provided for under the collective agreement . . . These to be determined as at 31 December 1983.
+
+__paragraph__
+(b) Four months' salary as at 31 December 1983.
+
+__paragraph__
+(c) Two months' salary as at 31 December 1983.
+
+__paragraph__
+(d) Their entitlement under article 40 of the collective agreement."
+
+__paragraph__
+It is from this judgment that the plaintiffs and defendants have each appealed to this court. Having regard to the fact that all the learned judges who had been exposed to the facts without a single exception had no difficulty at all in deciding the issue of liability, \[p.358\] clearly a question of fact, in favour of the plaintiffs, I would have expected that the defendants could have had appropriate advice and be persuaded to abandon the contest on this issue. I would have thought that the principle so mandatorily introduced into our law on 26 October 1987 by the provision of section 3 (2) of the Courts Act, 1971 (Act 372) as inserted by the Courts (Amendment) Law, 1987 (P.N.D.C.L. 191) should have discouraged the defendants from proceeding further with their attack on the issue of liability. Surely the decision of this Supreme Court in Bimpong v. The Republic \[1989-90\] 2 G.L.R. 252, S.C ante and our unanimous decision in In re Krah (Decd); Yankyeraah v. Osei-Tutu \[1989-90\] 1 G.L.R. 638, S.C. do inhibit a successful decision in favour of the defendant-company on the issue of liability. Be that as it may, I do not wish to avoid a legal determination of the issue by pre-emoting the reasoning which sustains the liability of Valco for the wrongful dismissal of its employees. I propose therefore to examine the issue of liability seeing that the defendants have severely criticised the unanimous decision of both the High Court and the Court of Appeal that they are liable in damages to the plaintiffs for wrongfully terminating their employment.
+
+__paragraph__
+The plaintiffs were members of the Industrial and Commercial Workers Union of the T.U.C., known for short as I.C.U.. It is a trade union which has been certified and empowered under sections 3 and 6 of Act 299 as the appropriate representative to conduct on behalf of Valco employees collective bargaining with Valco touching, inter alia, the terms and conditions of employment and non-employment and conditions of labour which shall apply to all employees of the company for whom the union has been certified to negotiate. The union in the exercise of the statutory power thus given to it by Act 299, negotiated a collective agreement with Valco on 1 March 1980. This agreement was tendered in the proceedings as exhibit A. In view of submissions which counsel for the defendants has seen fit to make to this court, I set hereunder the preamble to the agreement. It reads:
+
+__paragraph__
+"This agreement made this 1 day of March 1980 between the Volta Aluminium Co. Ltd. (Valco) (hereinafter referred to as the company) and the Industrial and Commercial Workers Union of T.U.C. of Ghana officially certified under the Industrial Relations Act, 1965 (hereinafter referred to as the Union) as the negotiating body, provides for the terms and conditions of employment and non-employment and the conditions of labour which shall apply to all employees of the said company for whom the Union has been certified to negotiate."
+
+__paragraph__
+Counsel for Valco quoting Hepple and O�Higgins, Employment Law (3rd ed.) at p. 15 made reference to articles 3 (e), 7, 17, 27 and 30 of the \[p.359\] collective agreement and submitted that "Union" appearing in these articles of the collective agreement must by a process of interpretation which I have not succeeded in following, be taken to mean the Valco local union having regard to the concept of "official" in the Trade Union and Labour Relations Act, 1974 of England. He was in the circumstance critical of the view of the Court of Appeal that "Union" appearing in the collective agreement, must be the I.C.U. having regard to the fact that wherever the local union is intended as in articles 8 (d) and 9, the collective agreement specifically says so.
+
+__paragraph__
+It seems to me with respect that the argument of counsel for Valco is very sterile, far-fetched and unrealistic. Where the preamble has specifically indicated what is meant by "Union" as it appeared in the contract document, exhibit A, I am unable to understand the relevance of these foreign authorities within the context of counsel's argument. Take his argument in respect of article 17 which provides:
+
+__paragraph__
+"Payment of salaries and wages shall be made semi-monthly. However by mutual agreement between the company and the union, the pay day can be changed to suit both parties."
+
+__paragraph__
+Counsel argues that "Union in this context cannot possibly be meant to be the national executive of the I.C.U.." But why not, having regard to the meaning of union in the preamble? I think the argument is demonstrably fallacious and unacceptable. Admittedly in the context of a particular article the use of "Union" may mean Valco local union or the I.C.U., but this is a far cry from a contention that under the collective agreement, the local union has the same powers as the I.C.U, with the authority which the I.C.U. has by statute to negotiate for the employees with the employers. The argument does not impress me and I reject it. I reject it because nowhere in the collective agreement is the local union given power to negotiate for the Valco employees, even if by a process of reasoning, it can be said that the I.C.U. could delegate their powers to the local union. Indeed, the power of the I.C.U. to negotiate for Valco employees which is conceded in the preamble is enshrined in sections 3, 5, 6 and 7 of Act 299.
+
+__paragraph__
+The inevitable conclusion to be derived from considering the relevant provisions of Act 299 in relation to the L.O.A. is that those who entered into it had no legal capacity to negotiate any employment terms or redundancy conditions for Valco and its employees. In the circumstances the L.O.A. as a contract between Valco and its employees is contrary to Act 299 and is accordingly null and void and of no legal effect as far as the provisions of the collective agreement are concerned. Consider the participation of the workers defence committee. This is a body popularly known as one of the revolutionary organs in the body politic. It surfaced after the traumatic events of \[p.360\] 31 December 1981, but it is an entity with ill-defined functions whose legal status is unknown to Act 299. It had no lawful business with the legal relations subsisting between Valco and its employees. In view of Act 299 its participation in the so-called L.O.A. programme as well as the involvement of the Valco local union is vacuous and has no legal consequence whatsoever.
+
+__paragraph__
+Counsel for Valco also put forward an alternative argument in a bid to save the L.O.A. programme from collapsing. I set down the ipsissima verba of his submission hereunder in order to enable its effect and implication to be fully appreciated. It was in this form:
+
+__paragraph__
+"The difference between the legal effect of a collective agreement like exhibit A and the L.O.A. programme as settled by the union/W.D.C. and Valco is as follows: Exhibit A became applicable to an employee from the moment he was employed. But the L.O.A. programme did not become automatically applicable from the moment an employee was declared redundant. It became applicable only when the employee chose it in preference to the redundancy provisions under exhibit A; and he had full two months in which to exercise his option by completing and signing the loan agreement exhibit C4. An employee who did not return the loan agreement duly completed and signed within the period was presumed to have opted for redundancy entitlements under the collective agreement."
+
+__paragraph__
+It is surprising that such a glaringly fallacious argument contrary to the provisions of a statute could be made to the highest court in the land. This in effect is an argument conceding a power in the Valco employees to waive the rights given them under the collective agreement for new rights under the L.O.A. programme. It seems to me that sections 10 (2) and (4) of Act 299 specifically and mandatorily deny such a right to employees covered by a collective agreement. The relevant provisions are as follows:
+
+__paragraph__
+"10. (2) The provisions of a collective agreement under this Act concerning terms of employment and termination of employment, and personal obligations imposed on, and rights granted to, an employee or employer shall be regarded as terms of a contract of employment between each employee to whom the provision applies and his employer.
+
+__paragraph__
+(4) The rights conferred on an employee by a collective agreement under this Act shall be rights which cannot be waived by the employee and, if there is any conflict between a term of a collective agreement under this Act and the terms of any contract not contained in such a collective agreement, then the \[p.361\] collective agreement shall prevail, whether or not the contract was concluded before the collective agreement."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+In a valiant and robust attempt to prevail on this court to uphold the validity of the L.O.A. agreement, counsel went to great lengths by citing a number of English cases, namely Edwards v. Skyways Ltd. \[1964\] 1 All E.R. 494; Barnes v. Richards (1902) 46 S.J. 298; and a dictum of Lord Radcliffe in I.C.I. Ltd v. Shatwell \[1964\] 2 All E.R. 999. These cases were quoted in an argument calculated to demonstrate to us that the loan agreement was a consensual one and was offered as an alternative redundancy arrangement, which should be considered valid and lawful because it was more beneficial to the employees than the redundancy provisions under the collective agreement. Furthermore, it was argued that the employees had a clear choice to accept or reject it.
+
+__paragraph__
+The argument that the L.O.A. is more beneficial to the employees has been pressed ad nauseam before all the lower courts. It looks superficially attractive but it does not convince or impress me. Consider its implication: The sum of money which the employee is by law entitled to be given without any strings attached was offered to him as a loan. The manner in which he was to use the proffered loan was dictated to him by his employer. The loan, apparently his own money, is to attract interest. I do not see how any one can consider this to be more attractive than the payment which leaves the recipient free to do what he likes with his own money. Surely this so-called beneficial argument ignores the mandatory provision of section 10 (4) of Act 299 and it is contrary to the terms of the very first article of the collective agreement under Act 299 which is as follows:
+
+__paragraph__
+"No employee covered by this agreement shall be compelled or allowed to enter into a contract or agreement with the company concerning the conditions of employment, wages and salaries as dealt with in this agreement or shall be allowed to be bonded to the company without prior discussion with the union."
+
+__paragraph__
+I have no doubt that when the legislature in its own wisdom has devised a mandatory and imperative provision for the protection of an employee or any person, an argument that the provisions can be lawfully ignored and another provision said to be beneficial to the employee or person substituted at the discretion of the court or any person is one that a common law judge ought not to countenance. It is an invidious and dangerous argument subversive of the legal order. It is an invitation to ignore Act 299 and must necessarily be misconceived. Lord Loreburn L.C. in, Attorney-General v. Birmingham, Tame \[p.362\] and Rea District Drainage Board \[1912\] A.C. 788 at 795, H.L. expressed the collective view of common law judges when he said that: "\[a\] court of law has no power to grant a dispensation from obedience to an Act of Parliament."
+
+__paragraph__
+Counsel for Valco quoted a number of foreign and local cases and submitted in effect that by their ratios Valco was not in breach of the redundancy provisions of the collective agreement. The redundancy provisions are in article 14 and they are as follows"
+
+__paragraph__
+"(a) In the event of redundancy, the company shall notify the Union as far in advance as practicable.
+
+__paragraph__
+(b) The criteria for determining employees to be redundant shall be based on merit, potential skill, physical and mental ability to assume other jobs and good conduct. All things being equal length of service shall be the determinant factor.
+
+__paragraph__
+(c) When subsequent employment arises, in the same department within three (3) months from the date employees in that department were declared redundant, these employees will be given preference for re-employment. It is understood that any redundant employee re-hired under this article shall be considered a new employee.
+
+__paragraph__
+(d) Where the company wishes to retain the services of the less senior man because of his merit, ability or skill, regardless of his length of service, the union will be informed accordingly.
+
+__paragraph__
+(e) Employees to be declared redundant will be given two (2) months' notice or paid in lieu."
+
+__paragraph__
+Under article 14 (a), clearly the I.C.U. should have been notified of the intended redundancy exercise which Valco had, a few weeks before 18 October 1982, decided to mount. The I.C.U. as a representative body will have the obligation to pass the information to the affected employees on whose behalf it has been given statutory responsibility to act. In my well-considered opinion, in the interest of fair industrial relations, notification must involve submitting to the union as far in advance as possible the names of the employees to be affected. That way the employee to be declared redundant is enabled to take advantage of the beneficial provisions of articles 14 (b) and 11 (d) if he considers that they have been breached or are likely to be breached in his case. It is a serious matter certainly riot conducive to industrial peace, where the machinery which the legislature has carefully devised to give fair hearing to employees and to promote harmony between the employee and the employer is unilaterally \[p.363\] ignored by the employer in blatant disregard of the rules of natural justice enshrined in the audi alteram partem principle.
+
+__paragraph__
+It seems to me that all the plaintiffs herein were so suddenly locked out of their place of employment that they had no opportunity to avail themselves of the protection given to them under articles 14 (b) and 11 (d) of the collective agreement. Furthermore, the right reserved to the union to be informed, under article 14 (a) was crudely disregarded, thus disabling the union from carrying out its obligations under the collective agreement. Article 14 (e) was also breached since the employees were not given two months notice or payment in lieu. In the circumstances to quote legal authorities, none of which binds us, and to urge us to hold on the strength of their questionable and hardly relevant reasoning that there was no breach of the collective agreement, and we should thus set aside the contrary finding in the decision of every judge in the High Court and the Court of Appeal who have had the occasion to consider the matter, is an emotional invitation to us to ignore indisputable facts which do not support the defendants' case. Such an argument is with respect romancing and does not certainly reflect serious advocacy in this appellate court of last resort. I reject this unfortunate argument. In my view, the High Court and the Court of Appeal came to the right decision when they took the view that on the evidence Valco was in breach of the provisions of the collective agreement and had acted contrary to the provisions of Act 299. In my view, the specific provisions of Act 299 breached are sections 5, 6, 7 and 10.
+
+__paragraph__
+I have now concluded my opinion on the issue of the defendants' liability, but before I am finally done, I must say, speaking for myself, that I am really amazed at how a respectable and apparently efficient organisation like Valco, which had no doubt access to appropriate advice can be so careless in formulating in so unlawful a manner a major and sensitive administration programme involving its commercial and labour interests. The draftsman of the L.O.A. by making reference to the collective agreement demonstrated that he was aware of its existence and its contents. A most casual and superficial examination of that document by any responsible officer with even no pretension of knowledge of law at all will show that the L.O.A. is in conflict with the collective agreement and can therefore hardly be a legal document.
+
+__paragraph__
+I now move to consider two other matters before I finally deal with the question of damages. The High Court and the Court of Appeal were unable to grant the declaration in the second claim requested by the plaintiffs that the purported termination of their employment is null and void, is of no legal effect and ought to be vacated. The defendants have argued that this decision is right, the \[p.364\] plaintiffs disputed it. I have already given in considerable details the background to the termination of the plaintiffs' employment and on the strength of the indisputable facts accepted by the lower courts, the matter can be resolved by applying the law of master and servant as it is understood under the common law. In a consideration of this matter I think some pertinent observations of Lord Reid in Ridge v. Baldwin \[1964\] A.C. 40 at 65, H.L. offer tremendous help. Speaking generally of dismissals he said:
+
+__paragraph__
+"These \[dismissals\] appear to fall into three classes: dismissal of a servant by his master, dismissal from an office held during pleasure, and dismissal from an office where there must be something against a man to warrant his dismissal.
+
+__paragraph__
+The law regarding master and servant is not in doubt. There cannot be specific performance of a contract of service, and the master can terminate the contract with the servant at any time and for any reason or for none. But if he does so in a manner not warranted by the contract he must pay damages for breach of contract. So the question in a pure case of master and servant does not at all depend on whether the master has heard the servant in his own defence: it depends on whether the facts emerging at the trial prove breach of contract. But this kind of case can resemble dismissal from an office where the body employing the man is under some statutory or other restriction as to the kind of contract which it can make with its servants, or the grounds on which it can dismiss them."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+The common law position in what Lord Wilberforce described as pure master and servant cases" was stated succinctly by Lord Reid in Malloch v. Aberdeen Corporation \[1971\] 1 W.L.R. 1578 at 1581, H.L. where he said:
+
+__paragraph__
+"At common law a master is not bound to hear his servant before he dismisses him. He can act unreasonably or capriciously if he so chooses but the dismissal is valid. The servant has no remedy unless the dismissal is in breach of contract and then the servant's only remedy is damages for breach of contract."
+
+__paragraph__
+Apparently under the common law, in a pure master and servant situation, the audi alterem partem principle of the rules of natural justice does not apply; and it would seem that it is a reaction to the effect of that on the development of the modern law of master and servant that led Lord Wilberforce in the Malloch v. Aberdeen case (supra) at 1595-1596 to define the limits of the common law remedy. He said:
+
+__paragraph__
+\[p.365\]
+
+__paragraph__
+"One may accept that if there are relationships in which all requirements of the observance of rules of natural justice are excluded (and I do not wish to assume that this is inevitably so), these must be confined to what have been called 'pure master and servant cases,' which I take to mean cases in which there is no element of public employment or service, no support by statute, nothing in the nature of an office or a status which is capable of protection. If any of these elements exist, then, in my opinion, whatever the terminology used, and even though in some inter parties aspects the relationship may be called that of master and servant, there may be essential procedural requirements to be observed, and failure to observe them may result in a dismissal being declared to be void."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+It seems to me that this view of Lord Wilberforce is authority albeit persuasive, for the proposition that where by the agreement of parties, there is a formal contract of employment spelling out clearly the terms of the procedural steps to be taken by the parties for the purpose of termination, then legally neither party can properly terminate such a contract of employment by a unilateral act in blatant violation of the terms of the agreement: see the Australian case of Authomatic Fire Sprinklers Proprietary Ltd. v. Watson \[1946\] 72 C.L.R. 435. In that case Lathan C.J. at 457 put the principle this way:
+
+__paragraph__
+". . . one party to a contract cannot by a wrongful unilateral act bring the contract to an end. If an employer wrongfully dismisses a servant, he breaks but does not terminate the contract . . ."
+
+__paragraph__
+By this formulation a clear distinction is drawn between breach of contract and termination of contract, its implication being that a breach of contract does not necessarily result in its termination. In the light of this it is necessary to canvass how the courts operate the remedy by way of declaration in appropriate cases when such breaches occur. Woolf J. in R v. B.B.C., Ex parte Lavelle \[1983\] 1 W.L.R. 23 at 35-36 discussed and considered the matter and said:
+
+__paragraph__
+"In this case it seems clear to me that . . . there was a restriction as to the circumstances in which she could be dismissed. Although the restriction was largely procedural, . . . it did alter her rights substantially from what they would have been at common law. In my view, this had the consequence of making her contract of employment different from those referred to by Lord Reid where in the past the sole remedy was one of \[p.366\] damages. I have therefore come to the conclusion that in appropriate circumstances, in the case of employment of the nature here being considered, the court can if necessary intervene by way of injunction, and certainly by way of declaration."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+This decision of Woolf J. was affirmed by the Court of Appeal in \[1983\] 1 W.L.R. 1302. Its ratio is in consonance with the opinion of Buckley L.J. reading the judgment of the Court of Appeal in Stevenson v. United Road Transport Union (1977) I.C.R. 893 at 906 where quoting the case of Durayappah v. Fernando \[1967\] 2 A.C. 337 at 354, P.C. he said:
+
+__paragraph__
+�... if the decision is challenged by the person aggrieved on the grounds that the principle has not been obeyed, he is entitled to claim that as against him it \[the dismissal\] is void ab initio and has never been of any effect."
+
+__paragraph__
+In the case which gave rise to this opinion of Buckley L.J. the executive committee of the union with power to dismiss under certain conditions exercised its power of dismissal when the conditions had not been satisfied. The case would on principle seem to be on all fours with the instant case. The court granted a declaration that the dismissal was, inter alia, null and void. Our own local law is not waiting in dicta and precedent on this question. In Ghana Cocoa Marketing Board v. Agbettoh \[1984-86\] I G.L.R. 122 at 129, C.A. Apaloo C.J. pointed out that:
+
+__paragraph__
+"\[T\]he normal remedy open to a servant who was dismissed or removed in breach of his contract of service, is pecuniary damages. This is because of the confidential nature of the relationship. But this is not an inflexible rule. There have been cases in which a purported removal of a servant from office was held to be a nullity. Mainly those are cases in which irrespective of the terms of the contract of employment the determination of the contract is regulated by legislation."
+
+__paragraph__
+The authorities show as Warner J. said in Irani v. Southampton and South West Hampshire Health Authority (1985) ICR 318, "that damages at common law for wrongful dismissal are not generous", and in my view, it would have been surprising if the common law had remained ossified and had not undergone the inevitable changes associated with virile organisms seeing that its remedy by way of damages is inadequate to meet the demands of any dynamic modern society.
+
+__paragraph__
+\[p.367\]
+
+__paragraph__
+In the instant case, Valco in purporting to declare redundancy did not follow the procedural machinery set up under the collective agreement for that purpose. By the modern law governing the master and servant relationship its action was ultra vires the collective agreement. It would seem therefore that by the provision of section 10 of Act 299, the so-called redundancy worked out by the L.O.A. is null and void and of no effect. The inevitable legal consequence is that the plaintiffs are entitled to a declaration in terms of their second claim and I hold therefore that the purported termination of their employment is null and void, and is of no effect and should be accordingly vacated. I would in the circumstances allow the appeal of the plaintiffs against the decision of the Court of Appeal that the purported termination of their employment is not null and void and I would declare the terminations null and void and of no effect.
+
+__paragraph__
+Before I deal with the issue of damages, I propose to deal with the case of the trainee plaintiffs. All the lower court judges were unanimous in holding that the trainees were not employees covered by the collective agreement. Their counsel however has sponsored their cause with commendable zeal in the best tradition of the legal profession. It is however with the greatest respect that I have regretfully come to the conclusion, after a close study of the record of proceedings, that the lower courts' decision in their case is erroneous in law and cannot with respect be supported.
+
+__paragraph__
+The trainee plaintiffs were included among the 463 persons who sued Valco. To appreciate the nature of the case they made, it is necessary to consider the statement of their case and the admissions which Valco made touching their case. The relevant paragraph of the statement of claim of all the plaintiffs is as follows:
+
+__paragraph__
+"5. The terms and conditions of the plaintiffs' employment with the defendant-company were, at all material times, governed by a collective agreement made between the defendant-company and the Industrial and Commercial Workers Union of which all the plaintiffs are members."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+To this statement of claim, the defendants pleaded in defence in their paragraph 7: "The defendants admit the averments contained in paragraph 5 of the statement of claim." At the summons for directions the issues agreed to did not include any issue touching trainees. At the trial one of the employees, Quaye Tawiah, with badge No. 419 gave evidence and tendered the collective agreement, exhibit A. In his evidence he swore as follows: "Exhibit A stipulates the conditions and terms of our employment and also the conditions under which we could be declared redundant." He was not cross-examined at all on \[p.368\] this evidence nor was it suggested to him in his evidence that his claim that exhibit A applied to all the plaintiffs was false. On the contrary both counsel accepted a consent order of the court, inter alia, to the following effect: "It is also agreed that the evidence given by the witness on the conditions of employment and the exhibits tendered apply to all the plaintiffs." (The emphasis is mine.) With the consent of the court and the defence the plaintiffs closed their case on the issue of liability and left only entitlement to be determined later. The issue of trainees was never raised with this witness who gave evidence for all the plaintiffs and it was never raised with any other witness for the plaintiffs. Clearly, because the defendant-company had admitted in their defence that all the plaintiffs were employees of Valco, it was unnecessary for any of the plaintiffs or their witnesses to offer any other evidence on their status as employees of Valco. This is particularly so because not a single witness for the plaintiffs was cross-examined to remotely suggest that their standing as employees was being disputed. It was when the plaintiffs had closed their case and were misled by the defendants' admission to offer no evidence in connection with trainees that on the day the defence closed its case, its last witness gave evidence-in-chief as follows: "We do have a training scheme and induct people into Valco. Trainees are trainees and are not employees of Valco."
+
+__paragraph__
+This volte face of the defendants was surprising and in cross-examination, the basis of the evidence was revealed: "Q. What makes you think such trainees are not employees? A. The collective agreement states so clearly." A scrupulous examination of the collective agreement, exhibit A, shows that it had no provisions whatsoever, which clearly or remotely or even vaguely deny the status of employees to trainees. Countless generations of common law judges have deplored the tactics which the defendants adopted in this case. In the House of Lords in Browne v. Dunn (1893) 6 R. 67, H.L. Lord Herschell L.C. deprecated the practice when he said:
+
+__paragraph__
+�. . . It seems to me to be absolutely essential to the proper conduct of a cause, where it is intended to suggest that a witness is not speaking the truth on a particular point, to direct his attention to the fact by some questions put in cross-examination showing that that imputation is intended to be made, and not to take his evidence and pass it by as a matter altogether unchallenged, and then, when it is impossible for him to explain, as perhaps he might have been able to do if such questions had been put to him . . . to argue that he is a witness unworthy of credit . . . if you intend to impeach a witness you are bound, whilst he is in the box, to give him an opportunity of making any \[p.369\] explanation which is open to him ... that is not only a rule of professional practice in the conduct of a case, but is essential to fair play and fair dealing with witnesses."
+
+__paragraph__
+On the evidence on record the trainees are employees who were subject to the provisions of the collective agreement, the moment they joined Valco. They were treated in the exercise in the same way as the other employees of Valco; it is too late for Valco to repudiate their claim by a contention that they are not employees. I will therefore allow the appeal in their case and order that as the collective agreement also applied to them they were wrongfully dismissed and their dismissal is null and void and of no effect. It is true that in a letter, exhibit 3, to Timothy Sedoro, one of the trainees, it was stated that he was not covered by the collective agreement. Section 10 of Act 299 does not permit Valco to say so.
+
+__paragraph__
+I now move to consider the last issue, namely the measure of damages and entitlements. With regard to wrongful termination of employment by an employer, the measure of damages stated in Employment Law (2nd ed.) by Hepple and O'Higgins at p. 528 is as follows:
+
+__paragraph__
+"The ordinary rule applies as regards the amount of compensation to which a wrongfully dismissed employee is entitled namely he is entitled to such money to cover his loss as arises naturally in the ordinary course of things from the breach and also for any loss which it was reasonably foreseeable by the parties as being likely to arise from the breach. This is normally lose of wages in the case of contract of employment."
+
+__paragraph__
+Also in the Law of Master and servant (1950 ed.) by Francis Raleigh Batt at p. 201 the author states:
+
+__paragraph__
+"The measure of damages in all actions for breach of contract is the same, namely the pecuniary loss sustained provided such loss flows naturally from the breach in question and this will be the case whenever the loss is such as any reasonable person knowing all the circumstances existing at the time of the breach which are known or ought to be known by the defendant would have contemplated as likely to result by the breach in question."
+
+__paragraph__
+This English formulation accords with the well-known proposition advanced by Alderson B. in Hadley v. Baxendale (1854) 9 Exch. 347 at 354: see also Hobbs v. London and South Western Rly (1875) L.R. 10 Q.B. 111. This orthodox school of thought advocating measuring the damages by wages or salary is typified in Lavarack v. Woods \[1967\] 1 Q.B. 278, C.A. In that case an employee under a five-year \[p.370\] contract with his employer was dismissed wrongfully in the third year of the contract. He was entitled under the contract to �4,000 per annum plus such bonus as the directors shall from time to time determine. It was held that he was entitled only to basic salary for the unexpired period of his contract and bonus up to the date of its abolition but not to the higher salary which reflected the bonus after the abolition.
+
+__paragraph__
+There is however a second English school of thought exemplified in the case of Maw v. Jones (1890) 63 L.T. 347 in which the measure of damages awarded was not confined to the wages of the dismissed worker. See also Ellwood v. Liverpool Victoria Legal Friendly Soc. (1880) 42 L.T. 694. This line of decision has been criticised notably by Lord Loreburn L.C. in Addis v. Gramophone Co. Ltd. \[1909\] A.C. 488, H.L.. And in Austwick v. Midland Rly Co. Ltd. (1909) 25 T.L.R. 728 Grantham J. refused to follow Maw v. Jones (supra). However, in De Stempel v. Dunkels \[1938\] 1 All E.R. 238, C.A. heavy damages were given for procuring a breach of a contract of employment which was terminable on reasonable notice. This decision on close examination is clearly inconsistent with the principle enunciated in the decision of Grantham J. in Austwick v. Midland Rly Co. Ltd. (supra).
+
+__paragraph__
+And so we arrive at a situation where two principles for measuring damages compete for acceptance in our jurisdiction. I think in the selection we must be guided by certain considerations. Section 61 of the Provisional National Defence Council (Establishment) Proclamation (Supplementary and Consequential Provisions) Law, 1982 (P.N.D.C.L. 42) enjoins us to apply all laws especially where they are derived from a foreign source in such a manner as they will be compatible with our national aspirations. Dr. Danquah in his introduction to his Cases on Akan Law pointed out at p. xxiii that "the delicate feelings of the average African are not half as blunted as those of the average European." A Ghanaian who has suffered a wrong expects redress and our law of wrongful dismissal should reflect it.
+
+__paragraph__
+It seems to me that the Court of Appeal judges have already set the pace in a landmark decision and it will be a retrograde step to discourage and interfere with the progressive precedent they have set. I refer to Ghana Cocoa Marketing Board v. Agbettoh (supra). In that case Apaloo C.J. with whom Francois and Abban JJ.A. (as they then were) concurred, held in a case in which the plaintiffs had been wrongly retired, that it would be just and proper for the court to mark its disapproval of the plaintiffs' unconstitutional retirement by ordering that the defendant-board pay to each plaintiff an amount equal to two years' salary in addition to receiving their entitlements under their contract of employment. In Hemans v. Ghana National \[p.371\] Trading Corporation \[1978\] G.L.R. 4 at 10, C.A. Archer J.A. (as he then was) blazed the trial when he observed:
+
+__paragraph__
+"It seems to me that if the compensation for lawful termination is one month's pay after the employee had been fore-warned, then it should appear preposterous to award the same one month's salary where the termination � has been held to be unlawful."
+
+__paragraph__
+It follows from what I have said so far, that I consider that the alleged view in effect of Denman C.J. in Hartley v. Harman (1840) 3 E.R. 617 which was pressed on us that a stipulation as to a month's notice in a broken contract implied in all circumstances a month's wages as damages and no more cannot have survived in my respectful opinion the reasoning of Archer J.A. (as he then was) in the Hemans case (supra) as far as Ghana is concerned.
+
+__paragraph__
+It follows from those authorities that I accept and adopt the reasoning of Apaloo C.J. in Ghana Cocoa Marketing Board v. Agbettoh (supra) and I agree with the views of Archer J.A. (as he then was) in the Hemams case (supra). In the instant case, the trial High Court judge gave adequate reasons in the exercise of his discretion in awarding twelve months' salary as the measure of damages for each plaintiff. In the Agbettoh case (supra) two years' salary was awarded. I think the well-known practice in the conduct of appeals is that where a judge has used his discretion in arriving at a decision, then unless it can be demonstrated that he ignored the law or took into consideration facts that he ought to have excluded or omitted material facts which should have been considered, his conclusion should not be interfered with. Applying this principle, I am unable to appreciate the reasons why the twelve months' period chosen by Benin J. in the exercise of his discretion was set aside and I will therefore restore it.
+
+__paragraph__
+I notice that although exhibits G and J showed plainly that the third batch were sent away on 16 November 1983, all the parties apparently inadvertently and for inexplicable reasons have fastened on 31 December 1983. 1 believe this is an error and should be corrected. Furthermore, apart from the first batch that were asked to go away for fourteen months, the second and third batches were asked to go away for twelve months. It follows from this that the effective dates of dismissals were the dates they were asked to expect to be recalled, but were not recalled, and the dates are for the three batches: 1 January 1984, 6 February 1984 and 15 November 1984 respectively. Although their dismissals are null and void, the legal position is as stated by Apaloo C.J. in Agbettoh's case (supra) at 131 where he said:
+
+__paragraph__
+\[p.372\]
+
+__paragraph__
+"\[T\]o order that salaries be paid to them for \[all\] those years when they did not work for the board, albeit through no fault of their own, would be to set our face against realities. The reality of the situation is that although de jure they are still technically in the service of the board, de facto they have ceased to be so."
+
+__paragraph__
+In accordance with the Agbettoh decision, I would order the parties to appear before the High Court for that court to calculate how much is due to the plaintiffs including the trainee plaintiffs as follows:
+
+__paragraph__
+(a) Their salaries from the dates they ceased to receive salaries to the dates of their respective de facto termination which are 1 January 1984, 6 February 1984 and 15 November 1984 respectively and so (i) in the case of the first batch from 31 October 1982 to 1 January 1984; (ii) in the case of the second batch, from 7 February 1983 to 6 February 1984; and (iii) in the case of the third batch from 16 November 1983 to 15 November 1984.
+
+__paragraph__
+(b) For all the plaintiffs additional twelve months' salary as damages for wrongful dismissal as at the respective dates of de facto termination.
+
+__paragraph__
+(c) Since I have held that de jure they are still employees having declared their dismissals null and void, they will be entitled to earned leave allowance, bonus, long service awards, including food packages and all the other benefits said to be enjoyed on a so-called gentleman's agreement, all these to be converted if feasible into cash as at the respective dates of their de facto termination.
+
+__paragraph__
+(d) Their entitlement under article 40 of the collective agreement.
+
+__paragraph__
+In calculating entitlement, account should be taken of any period within which an employee had obtained employment within the relevant period covered by that award.
+
+__paragraph__
+I am firmly of the view that the L.O.A., in so far as it conflicts with the collective agreement which has support in statute, is null and void. The resultant nullity does not imply or mean that an employee subject to the collective agreement cannot enter into a contract to take a loan from his employers. I do not condemn such a loan as long as its terms are not in conflict with the collective agreement. And in any case if the conflicting terms are expunged, the loan contracted remains in full force and the debtor must repay it.
+
+__paragraph__
+In this case no counterclaim or set off has been pursued by the defendants, in accordance with Order 19, r. 3 of the High Court (Civil Procedure) Rules, 1954 (L.N. 140A), nevertheless our duty under article 116 of the Constitution, 1979 as continued in force by the \[p.373\] Proclamation, 1981 and P.N.D.C.L. 42, is to do what is right. Clearly it will not be right to sponsor unjust enrichment. We cannot therefore encourage the plaintiffs to repudiate their obligation to repay the loans within the period they undertook to repay. In the circumstance, we order that the plaintiffs fulfil their obligation repay the loans in accordance with its terms as to the period of payment, if they have not done so already.
+
+__paragraph__
+I would end as I began by making some final remarks. The Valco management at the meeting of 18 October 1982 told the local union and the Workers Defence Committee representatives in effect that the redundancy situation has arisen because of: "Government directive to the company to curtail energy to the equivalent of 40 per cent of its present consumption by 1 November 1982." And in a written submission filed on 30 June 1988, on behalf of Valco, counsel for Valco asserted: "The operative date of curtailment of energy consumption was fixed by government not Valco." And yet no evidence was led in the entire proceedings to establish this. Paragraphs 9 and 10 of the defendants' pleadings rather showed the true position:
+
+__paragraph__
+�(9) ... as a result of the severe draught which occurred in the country in 1982 through 1983, the output of power from Akosombo was severely reduced in consequence of which the Volta River Authority in three successive stages reduced the defendants' power supply to a mere trickle.
+
+__paragraph__
+(10) The said power curtailment compelled the defendants to reduce and eventually shut down its entire production for all practical purposes."
+
+__paragraph__
+With regard to the workers defence committee and the local union, their behaviour at the meeting of 18 October 1983 is thus reflected in the record of proceedings:
+
+__paragraph__
+"The union/W.D.C. team intimated that it wanted government participation ... and management provided a bus for the union/ WDC team to travel to Accra to consult government."
+
+__paragraph__
+I cannot help stating that in my view, the manner in which the parties attempted to introduce a government dimension into this case is deplorable. When persons have obligations by law or are by law given duties and functions to perform, it appears to me to be a dereliction of duty, if they endeavour to involve State organs, or they run to government seeking instructions as to how they are to carry out their statutory duties and functions or the manner in which they are to discharge their legal obligations. Such conduct, in my opinion, smacks of sycophancy and is not conducive to the development of responsible citizenry. I say no more, but it follows from the legal \[p.374\] considerations which I have painstakingly canvassed in this judgment that I would dismiss the appeal of the defendant-company and I would allow the appeal of the plaintiffs to the extent indicated in this judgment.
+
+__paragraph__
+The plaintiffs' appeal is accordingly allowed with costs.
+
+__paragraph__
+JUDGMENT OF FRANCOIS J.S.C.
+
+__paragraph__
+I agree.
+
+__paragraph__
+JUDGEMENT OF OSEI-HWERE J.S.C.
+
+__paragraph__
+I agree.
+
+__paragraph__
+JUDGMENT OF OFORI-BOATENG J.A.
+
+__paragraph__
+I also agree.
+
+__paragraph__
+JUDGMENT OF AMUA-SEKYI J.S.C
+
+__paragraph__
+In 1982 following severe drought conditions, the water in the Volta lake at Akosombo fell to a very low level. As a result, the Volta River Authority called upon the defendants, the Volta Aluminium Co. Ltd. of Tema, to shut down two out of their five potlines as from 1 November 1982. This reduction of power to the defendants' smelter at Tema meant a reduction of production. The defendants therefore decided to reduce their labour force and opened negotiations with the local branch of the Industrial and Commercial Workers Union. Certain terms were agreed upon which have become known as the "leave of absence without pay/recall programme (L.O.A.) under which the plaintiffs, among others, were sent home on the understanding that if power were restored they might be given back their jobs. Certain payments in cash and kind were made to them to enable them eke out a living while they waited to be recalled.
+
+__paragraph__
+The workers were sent home on various dates. Three are mentioned in the evidence, namely, February and November 1982 and December 1983. The plaintiffs say that they were not recalled and have sued the defendants for a declaration that the termination of their employment was a nullity, recovery of arrears of salary and allowances and damages. The pith of their case was that the agreement under which they were discharged from the service of the defendants was illegal, null and void in that it was not negotiated between the proper parties and was against the collective agreement entered into between the defendants and the Industrial and Commercial Workers Union.
+
+__paragraph__
+The action was tried before Benin J. in the High Court, Accra. He agreed that the local union was a branch of the Industrial and Commercial Workers Union, but said that from the evidence he was satisfied that they had no mandate from the parent union to negotiate on its behalf. He rejected the contrary evidence of Kwasi Danso Acheampong who in October 1982 was the secretary of the interim management committee of the Industrial and Commercial Workers \[p.375\] Union. This gentleman was also the secretary of the local branch of the union and was later to become the national vice chairman. He gave a full account of the discussions which took place between the workers' representatives and the government at which it was explained that a shut down of the potlines could not be avoided. Among the workers' representatives were not only Danso-Acheampong himself, but also Aboagye and Ocloo who were chairmen of the interim management committees of the Trade Union Congress and of the Industrial and Commercial Workers Union respectively. The upshot of these discussions was that the local branch of the union and another body, the workers defence committee (W.D.C.), were empowered to negotiate with the defendants to avoid redundancy. The result was the L.O.A.. He testified that the workers were kept fully informed throughout the discussions and negotiations.
+
+__paragraph__
+On the second issue, Benin J. held that having regard to section 10 (4) of the Industrial Relations Act, 1965 (Act 299) the parties to the L.O.A. could not lawfully vary the redundancy provisions of the collective agreement. But a look at section 10 (4) of Act 299 shows that the provision was intended to protect workers from exploitation by their employers: so that if the variation of the collective agreement were to give the worker more rights and benefits than he would have had under the collective agreement, it would be the height of irony if such an agreement were to be declared unlawful. In such a case, I believe, practical considerations and commonsense would override the strict interpretation of the law, Afterall, the object of negotiating with the defendants was to obtain for the workers more favourable terms than they would have got by implementing the redundancy provisions of the collective agreement. On the basis of his findings, the learned judge came to the conclusion that the termination of the employment of the plaintiffs was wrongful.
+
+__paragraph__
+It seems that some of the plaintiffs are not employees of the defendants at all. It was proved that they were persons being trained by the defendants with a view to being given employment in the future. As regards these workers, the trial judge found that they were not members of the union and were specifically excluded from the operation of the collective agreement. He rejected their claim in its entirety. He further found that the L.O.A. was negotiated to cover only those workers who were sent home on 1 November 1982. Those sent home on 7 February 1983 and in December 1983 were not covered by any agreement. But, as he agrees, the situation which led to the negotiation of the L.O.A. in 1982 had arisen again in 1983 because the Volta River Authority had asked the defendants to shut down a third potline with effect from 7 February 1983. Was it reasonable to expect the parties to reconvene to negotiate a fresh agreement, or could they \[p.376\] declare formally that the old shall apply to the second and third batches of employees to be sent home? The defendants chose the latter course. The trial judge held that the termination of employment of the second and third batches of employees was also wrongful.
+
+__paragraph__
+Having drawn these conclusions from the evidence, the learned judge proceeded to consider the remedies. He decided that those of the plaintiffs who had made out their case were not entitled to be reinstated in their posts, but only to damages for wrongful dismissal. He awarded them (i) salary up to 1 January 1984, i.e. the date by which under the L.O.A. they were to consider themselves as having been declared redundant if they had not been recalled; (ii) twelve months' salary being a reasonable period after 1 January 1984 within which they could seek alternative employment; (iii) two months' salary for being declared redundant without notice; and (iv) leave allowance, bonus, long service award and end of service award as at the date they were sent home. Finally he ordered that they refund the amounts they received as bonus in the implementation of the L.O.A..
+
+__paragraph__
+Both the plaintiffs and the defendants appealed from this judgment to the Court of Appeal: (see Nartey-Tokoli v. Volta Aluminium Co. Ltd. \[1987-88\] 2 G.L.R. 532, C.A.). Wuaku J.S.C. allowed the appeal against the second award; Ampiah and Essiem JJ.A. dismissed it, but substituted four months for twelve. Wuaku J.S.C. affirmed the order that the loans granted to the plaintiffs under the L.O.A. be taken into account. Ampiah and Essiem JJ.A. were silent over the subject. Once again, both parties have appealed, and the question is whether the judgment of the High Court, as varied, is sound.
+
+__paragraph__
+The power of the Industrial and Commercial Workers Union (I.C.U.) to negotiate on behalf of employees of the Volta Aluminium Co. Ltd. is derived from section 3 of Act 299 under which a certificate may be issued to a trade union appointing it as the appropriate representative of the workers to conduct collective bargaining with the employers. Section 10 (2) makes a collective agreement legally binding. As to the effect of conflicting agreements, section 10 (4) provides:
+
+__paragraph__
+"(4) The rights conferred on an employee by a collective agreement under this Act shall be rights which cannot be waived by the employee and, if there is any conflict between a term of a collective agreement under this Act and the terms of any contract not contained in such a collective agreement, then the collective agreement shall prevail, whether or not the contract was concluded before the collective agreement."
+
+__paragraph__
+If, therefore, it is shown that the effect of the L.O.A. was to diminish the rights or entitlement of any worker or class of workers, the terms \[p.377\] of the collective agreement will prevail. There is, however, nothing to stop an employee from taking the benefit of the programme if it is more advantageous to him. With the affairs of the I.C.U. and the Trade Union Congress in the hands of unofficial interim management committees, it is difficult to see who else the defendants could have entered into negotiations with other than the local branch of the union.
+
+__paragraph__
+The agreement entered into by the defendants with their workers was intended to be for their mutual benefit. The defendants would be spared the permanent loss of skilled labour which might be needed when the potlines were reopened; the workers had the prospect of being re-engaged in employment they were used to. In this context, the trainees were not in a different position, even though they were not strictly-speaking employees. Since they too were required to stand by till 1 January 1984 to see if they would be re-engaged there was no rational basis for holding that they were entitled to nothing. This part of the judgment does not find favour with me, and I would, therefore order that they be paid training allowances and other benefits set out in the Valco management trainees conditions of service (see exhibit 3) up to and including the month ending December 1983.
+
+__paragraph__
+Article 14 (e) of the collective agreement provides that "employees to be declared redundant will be given two (2) months' notice or be paid in lieu." The L.O.A. stated that if a worker was not recalled by 1 January 1984 he was to consider himself as having been declared redundant on 1 November 1982. Thus, instead of giving notice to the worker of a redundancy to take place in the future, he was given notice of a redundancy which was to be deemed as having taken place in the past. Clearly, article 14 (e) was not complied with, and two months' salary will have to be paid to each of the affected workers.
+
+__paragraph__
+There are other benefits to which all or some of the plaintiffs who were employees may be entitled. These are: (i) accrued leave (article 36 (i); (ii) leave travelling expenses (article 13 and 36); (iii) rent subsidy (article 37); (iv) annual bonus (article 39); (v) end of service benefits (article 40 (d); and (vi) provident fund (article 44 (3) (c). Upon proof in each particular case, these are to be paid.
+
+__paragraph__
+This leaves the thorny issue of damages. The High Court judge awarded twelve months' salary. The majority of the Court of Appeal reduced this to four. Wuaku J.S.C., on the other hand, was of the view that none was payable. The award as damages of a sum more than the salary that would have been earned if proper notice had been given finds support in Hemans v. Ghana National Trading Corporation \[1978\] G.L.R. 4, C.A. As here, the contract of employment was set out in a collective agreement. This provided that except in those cases where a worker might be dismissed summarily, a written warning should first be issued. Hemans having been dismissed without such \[p.378\] warning the question arose whether he was entitled to more than the one month's salary in lieu of notice provided for under the agreement. On this, the court, per Archer J.A. (as he then was), said at 10:
+
+__paragraph__
+"It seems to me that if the compensation for lawful termination is one month's pay after the employee had been fore-warned, then it should appear preposterous to award the same one month's salary where the termination as in this case has been held to be unlawful."
+
+__paragraph__
+The court proceeded to award four months' salary. It said that this was a reasonable period in which Hemans might look for a new job.
+
+__paragraph__
+With respect, it is a contradiction in terms to speak of compensation for lawful termination of employment. If the termination is lawful the worker may be called upon to work during the period of notice. Any payment made to him during the period is not compensation or damages, but wages or salary due to him under the contract of employment. If it were damages he could not be compelled to render any services as a condition for being paid. It is the readiness of the employee to work and the unwillingness of the employer to permit him to do so that makes the termination wrongful and entitles the worker to receive as damages what he would have earned if the contract of service had been observed.
+
+__paragraph__
+We have been referred to Cox v. Phillips Industries \[1975\] I.C.R. 344 where Lawton J. awarded the plaintiff who had been paid five contract months' salary in lieu of notice as required by his contract of employment �500 damages for emotional upset. In that case it was pleaded that prior to being declared redundant the plaintiff had contrary to the contract been demoted to a position of lesser responsibility and that this had entailed financial loss to him. Such a claim may be maintainable, but the award of damages on the ground that the breach had resulted in depression, anxiety and sickness cannot be supported having regard to the decision of the House of Lords in Addis v. Gramophone Co. Ltd. \[1909\] A.C. 488. See also Bliss v. South East Thames Regional Health Authority \[1987\] I.C.R. 700.
+
+__paragraph__
+Before I conclude, let me say that Vine v. National Dock Labour Board \[1957\] Ac. 488, H.L. and Cocoa Marketing Board v. Agbettoh \[1984-86\] 1 G.L.R. 122, C.A. which were referred to in the argument can be easily distinguished. The defendants are not a statutory body, and the issue here is not whether the power to bring the contract of service to an end can be delegated. In Bank of Ghana v. Nyarko \[1973\] 2 G.L.R. 265, C.A. Apaloo J.A. (as he then was) warned of the danger of stretching the ratio in the Vine case too far. Agbettoh (supra) also concerned a statutory corporation and was to decide whether the \[p.379\] termination of the contract of service without just cause was a violation of article 138 (b) of the Constitution, 1969 of Ghana.
+
+__paragraph__
+I have been informed beforehand of the orders which my colleagues have agreed among themselves to make. I need hardly say that I am unable to go along with them in the award of damages or the sustaining of claims for Christmas and Easter gifts under a so-called gentleman�s agreement. I have never known a gentleman�s agreement to be enforced in a court of law. For my part, I would allow the appeal of the trainees against the dismissal of their action, as well as that of the defendants against the award of four months� salary as damages. The matter is remitted to the High Court for the assessment of the entitlement of each plaintiff, due regard being had to his indebtedness to the defendants in respect of the loan facility granted him under the L.O.A.. The amounts found due are to be paid with interest from 1 January 1984.
+
+__paragraph__
+DECISION
+
+__paragraph__
+Cross-appeal dismissed.
+
+__paragraph__
+Appeal allowed in part.
+
+__paragraph__
+L.K.A.
+
+__paragraph__
+NARTEY-TOKOLI AND OTHERS v. VOLTA ALUMINIUM CO LTD (NO. 3) \[1989-90\] 2 GLR 513-531
+
+__paragraph__
+SUPREME COURT, ACCRA
+
+__paragraph__
+11 JUNE 1990
+
+__paragraph__
+FRANCOIS, AMUA-SEKYI, OSEI-HWERE, AIKINS JJSC AND OFORI-BOATENG JA
+
+__paragraph__
+Courts�Supreme Court�Review�Jurisdiction�Circumstances under which Supreme Court may review its own judgment�Existence of exceptional circumstances creating miscarriage of justice�Categories neither listed nor closed.
+
+__paragraph__
+Damages�Quantum�Wrongful dismissal�Employees' employment terminated in breach of collective agreement under Act 299, s 10�Dismissal declared a nullity�Whether damages to be extended by way of salary payments to the time of judgment�Determination of period for assessment of damages�Industrial Relations Act, 1965 (Act 299), s 10.
+
+__paragraph__
+Labour�Redundancy�Employer hit by force majeure�Employment terminated�Whether employer suable for injunction restraining him or for specific performance�Whether damages appropriate remedy.
+
+__paragraph__
+Labour�Redundancy�Employer terminating appointment�Court declaring termination void�Effect on status of parties�Whether employees remain servants of employer.
+
+__paragraph__
+HEADNOTES
+
+__paragraph__
+On 8 March 1990 the Supreme Court by a four to one majority decision (see Nartey-Tokoli v Volta Aluminium Co Ltd (No 2) \[1989-90\] 2 GLR 341, SC ante) allowed the plaintiffs' appeal in part and dismissed the defendants' cross-appeal from the judgment of the Court of Appeal delivered on 20 December 1988 (see Nartey-Tokoli v Volta Aluminium Co Ltd \[1987-88\] 2 GLR 532, CA) which had allowed the plaintiffs' appeal in part and dismissed the defendants' cross-appeal from the decision of the trail judge, Benin J. By the said judgment, the Supreme Court held, inter alia, that in purporting to declare redundancy, the defendants, the employers, had failed to follow the procedural machinery set up under the collective agreement entered into by the parties in breach of section 10 of the Industrial Relations Act, 1965 (Act 299) and that the plaintiffs, the employees, were entitled to a declaration that the purported termination of their employment was null and void and of no effect and that the trial High Court and the Court of Appeal had erred in holding otherwise. The Supreme Court further held that the plaintiffs were entitled to receive their salaries from the dates they ceased to receive them to the dates of their respective de facto termination, including an additional twelve months' salary (awarded by the trial court) as damages for wrongful dismissal as at the respective dates of the de facto termination of their employment. It was also held that as the termination of their employment was held to be void, they remained employees de jure and would therefore be entitled to earned leave allowance, bonus, including food packages and all other benefits said to be enjoyed on a so-called gentleman agreement basis - all of which should be converted into cash if feasible as at the respective dates of the plaintiffs' de facto dismissal. It was also held that in calculating their entitlements, accounts should be taken of any period within which any employee had obtained employment within the relevant period covered by the award. In the instant application by the plaintiffs for a review \[p.514\] of the majority judgment of the Supreme Court, counsel for the plaintiffs argued, inter alia, that: (i) having declared their dismissal a nullity, the plaintiffs remained de jure in the employment of the defendants and therefore the Supreme Court, at best, should have ordered the payment of their salaries and other entitlements up to the date of the judgment as damages for unlawful dismissal and not the mere twelve months' salary granted by the trial court and affirmed by the Supreme Court; (ii) that in any event, the plaintiffs were entitled to nothing less than two years' salary as damages following the decision of the Court of Appeal in Ghana Cocoa Marketing Board v Agbettoh \[1984-86\] 1 GLR 122, CA; and (iii) since courts could grant an injunction or order specific performance in a master-servant relationship, ergo an employee whose dismissal had been declared void and of no effect (as in the instant case) could ask for reinstatement or payment of salary for the period he was thrown out.
+
+__paragraph__
+Held, dismissing the application: (1) the applicants had failed to show the existence of exceptional circumstances amounting to a miscarriage of justice.
+
+__paragraph__
+Per curiam. Exceptional circumstances have not been defined and although the parameters are loosely indicated, and the categories have neither been listed nor closed, they are not wide enough to admit of inappropriate and undeserving cases.
+
+__paragraph__
+Per Osei-Hwere JSC. The invitation to review the order that account should be taken of any periods within which an employee has obtained employment in calculating the awards cannot be entertained as it is firmly rooted in the ordinary contractual rules as to mitigation of damages. Secretary of State for Employment v Wilson \[1978\] 3 All ER 137 cited.
+
+__paragraph__
+Per Aikins JSC. I have considered ... the argument of counsel for the applicants, and regret that I am not at all convinced to accede to the application. In my view he tried to use the application for review for an interpretation of the court's decision and for academic purposes aimed at breaking new grounds in law. There has not been any fundamental and basic error which this court has inadvertently committed. And it has not been shown that the trial judge \[by his decision affirmed by the Supreme Court\] acted under a misapprehension of fact by giving weight to irrelevant or unapproved matters or omitted to take relevant matters into consideration.
+
+__paragraph__
+(2) Per Francois JSC, Amua-Sekyi JSC and Ofori-Boateng JA. The two-years salary award as damages for unlawful dismissal made in the Agbettoh case, was a reasonable compromise - not a rule of thumb for every case that attracted the Agbettoh principle. Where the period was certain (as in the instant case, with twelve or fourteen months as the expected period of lay-offs) it was unnecessary to determine the reasonable period. The time stated was itself definitive of reasonableness. Ghana Cocoa Marketing Board v Agbettoh \[1984-86\] 1 GLR 122, CA explained.
+
+__paragraph__
+Per Francois JSC. One must point out also that the pretensions of the applicants to be still employed by the defendants because their termination has been declared null and void, misreads completely the ratio in the Agbettoh case...The fetish or magic that the applicants attach to the two-year award in the Agbettoh case also beats all comprehension. In the Agbettoh case, the court thought it unrealistic to award to the parties who had illegally been laid off for several years, compensation computed as regular earnings for unearned work. It was equally unrealistic to reinstate such parties in former jobs already filled by other staff over the years. Fairness and the need to avoid absurdity, dictated a middle course to ensure a just solatium in keeping with known circumstances.
+
+__paragraph__
+\[p.515\]
+
+__paragraph__
+Per Osei-Hwere JSC. In the situation where the defendants were hit by a force majeure and were under a constraint to embark on a redundancy exercise, the plaintiffs could not have sued either for an injunction to restrain the defendants from dismissing them or specific performance. The remedy for their "illegal" dismissal truly lay in damages.
+
+__paragraph__
+\[EDITORIAL NOTE: Decision of the Supreme Court in Nartey-Tokoli v Volta Aluminium Co Ltd (No 2) \[1989-90\] 2 GLR 341, SC ante affirmed.\]
+
+__paragraph__
+CASES REFERRED TO
+
+__paragraph__
+(1) Fosuhene v Pomaa \[1987-88\] 2 GLR 105, SC.
+
+__paragraph__
+(2) Ghana Cocoa Marketing Board v Agbettoh \[1984-86\] 1 GLR 122, CA.
+
+__paragraph__
+(3) Mechanical Lloyd Assembly Plant Ltd v Nartey \[1987-88\] 2 GLR 598, SC.
+
+__paragraph__
+(4) Ridge v Baldwin \[1964\] AC 40; \[1963\] 2 WLR 935; \[1963\] 2 All ER 66, HL.
+
+__paragraph__
+(5) Pepper v Webb \[1969\] 1 WLR 514; \[1969 2 All ER 216; (1969) 113 SJ 186, CA.
+
+__paragraph__
+(6) Wilson v Racher \[1974\] ICR 428.
+
+__paragraph__
+(7) Mallock v Aberdeen Corporation \[1971\] 1 WLR 1578; \[1971\] 2 All ER 1278; 115 SJ 756; HL.
+
+__paragraph__
+(8) Hill v C A Parsons & Co Ltd \[1972\] 1 Ch 305; \[1971\] 3 WLR 995; \[1971\] 3 All ER 1345, CA.
+
+__paragraph__
+(9) Jones v Lee (1911) 106 LT 123; 28 TLR 92; 56 SJ 125.
+
+__paragraph__
+(10) Talke Fashions Ltd v Amalgamated Society of Textile Workers and Kindred Trades \[1978\] 2 All ER 649, EAT.
+
+__paragraph__
+(11) Spillers-French (Holdings) Ltd v Union of Shops, Distributive and Allied Workers \[1980\] 1 All ER 231.
+
+__paragraph__
+(12) S & U Stores Ltd v Lee \[1969\] I WLR 626; \[1969\] 2 All ER 417, DC.
+
+__paragraph__
+(13) S & U Stores Ltd v Wilkes \[1974\] 3 All ER 401; \[1974\] ICR 645, NIRC.
+
+__paragraph__
+(14) Secretary of State for Employment v Wilson \[1978\] 3 All ER 137, EAT.
+
+__paragraph__
+(15) Sowah v Bank for Housing and Construction \[1982-83\] GLR 1324, SC.
+
+__paragraph__
+(16) Hemans v Ghana National Trading Corporation \[1978\] GLR 4.
+
+__paragraph__
+(17) Harlley v Harman (1840) 3 ER 617.
+
+__paragraph__
+(18) Crentsil v Crentsil \[1962\] 2 GLR 171, SC.
+
+__paragraph__
+NATURE OF PROCEEDINGS
+
+__paragraph__
+APPLICATION for a review of the judgment of the Supreme Court delivered on 11 June 1990 (see \[1989-90\] 2 GLR 34 1, SC). The facts are sufficiently set out in the judgment of Osei-Hwere JSC.
+
+__paragraph__
+\[p.516\]
+
+__paragraph__
+COUNSEL
+
+__paragraph__
+Jones-Mensah for the applicants.
+
+__paragraph__
+Thompson for the respondents (holding brief for George Bannerman).
+
+__paragraph__
+JUDGMENT OF FRANCOIS JSC.
+
+__paragraph__
+On 8 March 1990 the Supreme Court delivered its decision in the above appeal: (see \[1989-90\] 2 GLR 341, SC). Before 26 November 1987 that decision would have conclusively ended this protracted matter. The significance of 26 November 1987 is that it marked the advent of an epoch-making decision: the ruling in Fosuhene v Pomaa \[1987-88\] 2 GLR 105, SC which held that this Court had power to review its own judgments and consequently formulated tests for the institution of the review jurisdiction. Since then, a number of applications for review have been determined by this court. The synthesised ratio for success is the existence of exceptional circumstances negating the soundness of a decision and compelling its vacation to obviate a miscarriage of justice.
+
+__paragraph__
+The review jurisdiction, it has been emphasised ad nauseam, is not another avenue for appeal or a forum for canvassing lost causes. Unfortunately, if the statistics are any guide, this appears to be the erroneous perception of a number of litigants. Exceptional circumstances have not been defined and although the parameters are loosely indicated, and the categories have neither been listed nor closed, they are not wide enough to admit inappropriate and undeserving cases. The absence of a rigid definition notwithstanding, what is exceptional can hardly escape notice. A few examples have been given in previous rulings of this court and need no reiteration.
+
+__paragraph__
+This court normally would resist the temptation of being drawn into expatiating on its judgment with explanations or justifications. This inhibition cannot, however, extend over mischievous or wilful misreading of all important precedent upon which a decision rests.
+
+__paragraph__
+In Ghana Cocoa Marketing Board v Agbettoh \[1984-86\] 1 GLR 122, CA, the court made pronouncements which ensured that statutorily protected contracts would retain their protection under the aegis of the court's jurisdiction. This decision in certain areas, deviated from the beaten track of master and servant contractual relationships well-known in Anglo-American jurisprudence. The applicants herein aridly dismiss the Agbettoh decision as affording no legal solace. That decision is repudiated as: "not founded on any principle known to the law", and occasioning "a fundamental error."
+
+__paragraph__
+If that were the case, one wonders why an exercise for a review has been embarked upon at all. For it was upon the superstructure of Agbettoh that the applicants' victory was founded. One must point out also that the pretensions of the applicants to be still employed by the defendants, Valco, because their termination has been declared null \[p.517\] and void, misreads completely the ratio in the Agbettoh case. The intervention of the court upon the applicants' institution of a claim in legal proceedings, brought an end to the status held by the parties prior to the suit. The court merely moved on to make just awards from a de facto situation.
+
+__paragraph__
+The fetish or magic that the applicants attach to the two-year award in the Agbettoh case, also beats all comprehension. In the Agbettoh case, the court thought it unrealistic to award to the parties who had illegally been laid off for several years, compensation computed as regular earnings for unearned work. It was equally unrealistic to reinstate such parties in former jobs already filled by other staff over the years. Fairness and the need to avoid absurdity, dictated a middle course to ensure a just solatium in keeping with known circumstances.
+
+__paragraph__
+A two-year award was a reasonable compromise, not a rule of thumb for every case that attracted the Agbettoh principle. Where the period is certain, as in the instant case, with twelve months or fourteen months as the expected period of lay offs, no arithmetic is required to determine a reasonable period. The time stated is itself definitive of reasonableness. In the calculation of the three batches of employees laid off at various dates, it is agreed that a mathematical error occurred in computing the third batch as deserving a twelve-month award instead of fourteen. This error could have been corrected under the slip rule for which provision has been made under article 116 (4) of the Constitution, 1979. There was no need for a full blown review.
+
+__paragraph__
+I set out accordingly, what I consider a relevant extract in the Agbettoh case (supra) at 131-132:
+
+__paragraph__
+"It follows that in so far as the plaintiffs sought to have it declared that their purported retirements were a nullity inasmuch as they violated a constitutional injunction, they were entitled to that declaration. The plaintiffs did not themselves seek the declarations in those terms and beyond stating that the respondents were \`entitled to all the reliefs indorsed on their writ', the judge below did not direct his mind to the declarations sought. But inasmuch as what we have held can be said to be the substance of the declaratory reliefs granted to the plaintiffs, we affirm them.
+
+__paragraph__
+With regard to the claim in the nature of perpetual injunction to restrain the board from ejecting them from their bungalows and the payment of salaries, we see some practical difficulties. It would be unreal to assume that the status quo in 1979 still exists five years afterwards in 1984. Clearly, the plaintiffs have not \[p.518\] worked for the board all these years. They themselves were under an obligation to minimise their losses by seeking and obtaining alternative jobs. For all we know, they may well have found themselves other jobs and have been comfortably settled. To affirm today an order which secures them bungalows which they only had when they were in the actual service of the board or to order that salaries be paid to them for those years when they did not work for the board, albeit through no fault of their own, would be to set our face against realities. The reality of the situation is that although de jure they are still technically in the service of the board, de facto they have ceased to be so since November 1979.
+
+__paragraph__
+In all the circumstances, we think we should mark our disapproval of their unconstitutional retirement by ordering that the appellant board pay each as compensation, two years' salary from November 1979. They should also, of course, receive their other entitlements under their contracts of service or under the board's scheme. In so far as the judge's orders properly construed, enjoin the board to keep them as it were perpetually in their residential accommodation and to pay them salaries and other benefits as if they were in actual rather than constructive service of the board, those orders ought not to be allowed to stand. We disaffirm and set them aside."
+
+__paragraph__
+It is a basic requirement for all courts which practice equity, to deny unjust enrichment to all suitors. No court should allow unmerited largesse to the detriment of an innocent party. It was upon this well-known notion of fairness that this court declared that those plaintiffs who had secured employment before the dates stated in their respective "Leave of absence without pay/recall" (LOA) programmes-which had been negotiated between the defendants and the local union of the Industrial and Commercial Workers' Union of the Trades Union Congress of Ghana (ICU) had run out, would have such earnings taken into account in the final calculation of their just deserts. Indeed it is trite law that the applicants herein had a duty to mitigate their losses. It would therefore have been illogical and a legal breach if such earnings were not subject to deductions.
+
+__paragraph__
+Finally, this court ordered the parties to appear before the High Court for their entitlements to be calculated. It is patent that all entitlements are open for consideration at that forum, even the indices of money depreciation. Save for the correction affecting the fourteen months' entitlement of the third batch of employees who were laid off, I think this application is without merit and must be dismissed.
+
+__paragraph__
+\[p.519\]
+
+__paragraph__
+JUDGMENT OF AMUA-SEKYI JSC.
+
+__paragraph__
+I agree.
+
+__paragraph__
+JUDGMENT OF OFORI-BOATENG JA.
+
+__paragraph__
+I also agree.
+
+__paragraph__
+JUDGMENT OF OSEI-HWERE JSC.
+
+__paragraph__
+The applicants' motion prays for a review of the judgment of this court delivered on 8 March 1990: see \[1989-90\] 2 GLR 341, SC ante. The judgment varied, to the advantage of the applicants, the decision of the Court of Appeal. It particularly decreed, contrary to the opinion of the Court of Appeal and of the trial court, that the termination of the appointments of all the plaintiff-applicants including an unspecified number who were trainees, was null and void. The two courts below had dismissed the action as against the trainees and had held that the dismissal of the successful plaintiffs was only wrongful and not void. The Court of Appeal had, by obvious inadvertence, seemingly confined its pecuniary awards on to those of the first batch of dismissed employees so entitled to the said awards but the judgment of this court had corrected the error and extended the awards to all the employees of the second and third batches as well.
+
+__paragraph__
+The period during which the employees were forced to stay at home in terms of the LOA programme presented no difficulty. All the three graduated courts were in common agreement that the successful plaintiffs were to be paid their salaries and other entitlements for that period. Both the trial court and the Court of Appeal allowed an additional two months' salary in lieu of notice. This court rejected the two months' salary. The trial judge additionally allowed, by way of damages, twelve months' salary. The Court of Appeal whittled it down to four months' salary. The decision of this court, however, restored the twelve months awarded by the court of first instance. On top of these awards it revived and allowed the claim of the plaintiffs based on the so-called "gentleman's agreement" such as the food packages, which the two courts below had rejected. Like the Court of Appeal, this court also allowed the plaintiffs their entitlements under article 40 of the collective agreement.
+
+__paragraph__
+One would have thought that, having retrieved large chunks of their benefits thrown away, the plaintiffs would have found final contentment. But not so the implacable plaintiffs. They hunger for more benefits and to be satisfied they call for a review of those parts of the judgment of this court which dissatisfy them. They have set these down as follows:
+
+__paragraph__
+"(a) The order that the plaintiffs' salaries, benefits and entitlements be paid effective from the respective dates of the Plaintiff's de facto terminations, ie 31 October 1982, 6 February 1984, and 15 November 1984.
+
+__paragraph__
+\[p.520\]
+
+__paragraph__
+(b) The order awarding the plaintiffs only twelve months' salary as damages for wrongful dismissal from the effective dates of their \`wrongful dismissal.'
+
+__paragraph__
+(c) The order tending to restrict \`all other benefits' to those said to be enjoyed under a so-called gentleman's agreement (which might rashly be interpreted by the defendants to exclude the bi-annual supply of cloths, VIP entitlement, proven hospitalisation, proven children's educational and also medical expenses, etc.)
+
+__paragraph__
+(d) The order for payment of their other entitlements under article 40.
+
+__paragraph__
+(e) The order that the third batch of the plaintiffs were laid off between 16 November 1983-15 November 1984.
+
+__paragraph__
+(f) The order that account should be taken of any periods within which an employee had obtained employment covered by these awards in calculating the awards."
+
+__paragraph__
+The thrust of the argument of counsel for the applicants in support was that since this court decreed the termination of the appointments of the plaintiffs to be null and void the effect was that even as at the date of the said decision they remained still in the employment of the defendants. Consequently this court, at best, should have ordered the payment of their salaries and other entitlements up to the date of judgment by way of damages and not the mere salary for twelve months as ordered. In the case of the first batch of dismissed employees, for instance, they would have scored a period of 34 months from the date of the so-called de facto termination of their appointments to the date of judgment for the purpose of calculating their salaries and entitlements.
+
+__paragraph__
+It was contended that, at worst, the employees should have been entitled to nothing less than two years' salary (and entitlements) following the decision in Ghana Cocoa Marketing Board v Agbettoh \[1984-86\] 1 GLR 122, CA-recognised by this court as the king-bolt directing its award of damages to the plaintiffs.
+
+__paragraph__
+Granted the self-conviction of the applicants in the justice of their motion for review, it is quite obvious that it (the motion) was motivated by their lustful flirtation with the collective agreement contained in exhibit F. The said exhibit F which took effect from I September 1986 replaced exhibit A and provided for more enhanced conditions of service. It stands to reason that the applicants could only benefit under the enhanced exhibit F if this court could be persuaded to stretch the period for the calculation of damages over and above the effective date of exhibit F. The defendant-respondents oppose the motion on the ground that the judgment touching those matters \[p.521\] complained of do not contain any fundamental and basic error giving rise to a gross miscarriage of justice. On the contrary, they made bold to say that if there should be any review at all it should, for instance, be for the purpose of correcting the error of making an award based on the gentleman's agreement which, according to the defendants, was clearly not justiciable and had no foundation in contract.
+
+__paragraph__
+Some recent decisions of this court have exposed the paradigm for invoking its review jurisdiction. And here I refer particularly to decisions like Fosuhene v Pomaa \[1987-88\] 2 GLR 105, SC and Mechanical Lloyd Assembly Plant Ltd v Nartey \[1987-88\] 2 GLR 598, SC. The central theme of these decisions is that the applicant must be able to point at some exceptional circumstances giving rise to a miscarriage of justice before the Supreme Court will be inclined to review its own decision. Although the Supreme Court may not use its review jurisdiction to embark on an apologia, yet I cannot wholly resist the temptation to consider the instant application, if only to chase away some of the lingering cobwebs floating in the minds of the disputants.
+
+__paragraph__
+In this regard it will be useful to appreciate the status of the plaintiffs. At common law there is no requirement that an employer should proceed in a particular manner before he dismisses an employee. There is no obligation to comply with the rules of natural justice: see Ridge v Baldwin \[1964\] AC 40, HL; and the failure to warn, consult or allow an employee to state his case prior to dismissal cannot affect the validity of his dismissal: see Pepper v Webb \[1969\], 2 All ER 216, CA and Wilson v Racher \[1974\] ICR 428. The only situation in which the common law guarantees procedural rights to working people is where it can be established that there is an element of public employment or service, or some degree of statutory regulation, or that the employment is something in the character of an office: see Mallock v Aberdeen Corporation \[1971\] 2 All ER 1278, HL. The plaintiffs held no public offices which gave them basic rights to the security of their jobs. The collective agreement which permitted the employer's right to terminate an employee's appointment with notice did not assure the plaintiffs their basic rights to the security of their jobs. Rather, by confirming a collective agreement, the Industrial Relations Act, 1965 (Act 299) accords all workmen that come within the ambit of the legislation, procedural rights or safeguards which are, without doubt, a considerable advance towards building for employees a more secure form of job rights.
+
+__paragraph__
+The dispute that resulted in the final judgment for which a review is now being sought was, to me, unfortunate to the extreme. It focused on how in the complex field of employment protection a procedural \[p.522\] arm of industrial relations law could strike with a resounding slap at even the most conscientious and fair-minded employer who in handling redundancy dismissals, was concerned in formulating a "survival plan" with the local representatives of the workers themselves. Be that as it may, our decision that the breach of the statutory procedure rendered the dismissals of the plaintiffs a nullity was no ground to disturb the quantum of the damages awarded (except to correct an arithmetical error) and expand it up to the date of judgment.
+
+__paragraph__
+In the statements filed on behalf of the plaintiffs before the appeal came to be heard their counsel spared no pains in fully arguing the case for the payment of salaries up to the date of judgment. The review application sought to reargue the same case. It had been contended, by relying on a number of foreign authorities, that the courts could grant an injunction or order specific performance in a master-servant relationship. Ergo an employee whose dismissal was void could ask for reinstatement or payment of salary for the period he was thrown out. My reading of the cases cited in support clearly demonstrate that there were special circumstances which invited the courts to make any such orders.
+
+__paragraph__
+In Hill v C A Parsons & Co Ltd \[1972\] I Ch 305, CA for instance, the plaintiff was due to retire in two years time and was likely to benefit from Part II of the Industrial Relations Act, 1971 which was about to take effect when his appointment was terminated by one month's notice instead of six months'. The Court of Appeal held that the plaintiff was entitled to interlocutory injunction to restrain the defendants from implementing the notice on the grounds that in the exceptional circumstances of the relationship between the parties and the plaintiff's likely protection by the coming into operation of Part II of the Industrial Relations Act, 1971 before a fresh notice could take effect, his contract of employment was still subsisting and damages not being at all adequate remedy, he was entitled to the interim injunction. Again in Jones v Lee (1911) 106 LT 123 it was held on appeal that the plaintiff had a right to be heard and represented before any decision relating to his dismissal was taken by the defendants who had acted wrongly in purporting to dismiss him and that interlocutory injunction should be granted. Each case, ultimately, must be decided on its own merit.
+
+__paragraph__
+In the situation where the defendants were hit by a force majeure and were under a constraint to embark on a redundancy exercise the plaintiffs could not have sued either for an injunction to restrain the defendant from dismissing them or for specific performance. The remedy for their "illegal" dismissal truly lay in damages. Although the courts strive to arrive at what is fair and just in their awards of damages for wrongful or illegal termination of employment such \[p.523\] awards are bound to be irrational as they proceed from the discretion of individual judges and the circumstances for the awards may hardly remain the same. It is only natural that this irrationality is also bound to breed disquiet in industrial relations.
+
+__paragraph__
+Whatever be the progressive trend by the courts elsewhere towards shielding employees from undue hardship resulting from illegal dismissals which counsel for the plaintiffs has commended for our espousal, that trend has today been halted in England by legislation to inject some sanity, at least, in the award of damages for wrongful or illegal redundancy dismissal. The relevant legislation is the Employment Protection Act, 1975. Under the said Act, an employer proposing to dismiss as redundant an employee of a description in respect of which an independent trade union is recognised by him, is obliged to consult representatives of that trade union about the dismissal at the earliest opportunity, but in any event where he proposes to dismiss ten or more employees at one establishment within a period of 30 days or less, at least 60 days before the first of those dismissals takes effect-section 99. Under section 101, an appropriate trade union may present a complaint to an industrial tribunal on the ground that an employer has dismissed or proposes to dismiss as redundant one or more employees and has not complied with any of the requirements of section 99. Where the tribunal finds the complaint well-founded it shall make a declaration to that effect and it may also make a protective award which will oblige the employer to pay remuneration for a protected period.
+
+__paragraph__
+The protected period, under the same section 101 (5) is:
+
+__paragraph__
+". . . a period beginning with the date on which the first of the dismissals to which the complaint relates takes effect, or the date of the award, whichever is earlier, of such length as the tribunal shall determine to be just and equitable in all the circumstances having regard to the seriousness of the employer's default in complying with any requirement of section 99 (of the Act) ...
+
+__paragraph__
+in the case of a proposal to dismiss 100 or more employees within a period of 90 days. In a case where more than ten employees are to be dismissed at one establishment within a period of 30 days or less, the period is 60 days, and in any other case it is 28 days. By section 102 of the Act, any payment under a protective award in respect of any period shall go towards discharging any liability of the employer under, or in respect of breach of the contract of employment in respect of that period.
+
+__paragraph__
+In Talke Fashions Ltd v Amalgamated Society of Textile Workers and Kindred Trades \[1978\] 2 All ER 649, EAT it was held that the intention of the legislation in dealing with industrial relations was to \[p.524\] compensate an employee for the loss he had suffered by reason of unfair treatment by his employer and not to impose penalties on the employer for his default. It was held further (as stated in the headnote at 650) that:
+
+__paragraph__
+"The making of a protective award under s 101 (3) was discretionary, but if an award was to be made its period was at large up to a fixed maximum. The primary consideration in determining the period of the award was the effect on the employee of the employer's failure to consult his union, bearing in mind that, by s 101 (5), the period of the award was to be linked to the period of notice required by s 99 to be given to the union for consultation. Although the seriousness of the employer's default was by s 101 (5), a factor to be taken into consideration and might increase the period of the award, it was to be considered not in isolation but in relation to the consequences to the employee of the failure to consult, and the fact that there had been serious default on the part of the employer did not mean that the maximum protective award was to be made unless the employer showed mitigating circumstances . . ."
+
+__paragraph__
+Again in Spillers-French (Holdings) Ltd v Union of Shop, Distributive and Allied Workers \[1980\] 1 All ER 231 it was held that:
+
+__paragraph__
+"(i) The purpose of a protective award was to compensate for an employer's failure to consult the appropriate union within the required time in respect of proposed dismissals for redundancy, and not merely to compensate for loss or potential loss of the employees' remuneration. The relevant factors, therefore, in deciding whether to make a protective award were the number of days of consultation lost by the employer's breach of s 99 of the 1975 Act and the seriousness of the breach."
+
+__paragraph__
+In my opinion there is an urgent call for reform of the law on the lines of the Employment Protection Act, 1975 which will permit the court to make protective awards within a protected period. It is enough to say that as compared to what their counterparts would have received under a protective award the plaintiffs have exceedingly enjoyed the largesse of the court for which they should remain grateful.
+
+__paragraph__
+Apart from holding that de jure the plaintiffs were all still employees and for that reason they were entitled to the food packages and all the other benefits enjoyed on the basis of a so-called gentleman's agreement, the majority judgment of this court did not advance any other reasons for so holding. It is clear that the specific awards made under head (c) of the majority decisions fall under the \[p.525\] rubric of "benefits." The food packages were clearly an incentive or productive bonus worked into the wages structure. This is confirmed by exhibit J. For the avoidance of doubt I feel that it will be necessary to define benefits since the awards under head (c) include "all the other benefits."
+
+__paragraph__
+The term "benefits" as employed in an "agreement" between an employer and his employee is in my view synonymous with "remuneration." In S & U Stores Ltd v Lee \[1969\] 2 All ER 417, the court (Lord Parker CJ, Melford Stevenson and Blain JJ) had to define "remuneration." It was held that "remuneration" was not mere payment for work done but was what the doer expected to get as the result of the work he did in so far as what he expected to get was quantified in terms of money. The above definition was, however, not followed in S & U Stores Ltd v Wilkes \[1974\] 3 All ER 401, NIRC. Here the court laid down the test for determining "remuneration" as (1) any sum paid as a wage or salary without qualification is part of the employee's remuneration; (2) the value of any benefit in kind (eg free accommodation) or paid in cash by someone other than the employer is to be disregarded as not forming part of the remuneration; (3) any sum which is agreed to be paid by way of reimbursement or on account of expenditure incurred by the employee to the extent that that sum represented a profit or surplus in his hands rather than a genuine reimbursement of expenditure. See also section 35 (2) of the Labour Regulations, 1969 (LI 632) where the expression "full pay" is defined as "the worker's normal remuneration (without overtime payment) including the cash equivalent of any remuneration in kind."
+
+__paragraph__
+I would opt for the definition in Wilkes' case. It follows from the above definition that the value of any benefit in kind paid or supplied by the employer, such as the food package, will form part of the "remuneration" or "benefits." With this test it should not be difficult to ascertain the "other benefits" enjoyed by the plaintiffs.
+
+__paragraph__
+The invitation to review the order that account should be taken of any periods within which an employee has obtained employment in calculating the awards cannot be entertained as it is firmly rooted in the ordinary contractual rules as to the mitigation of damages: see Secretary of State for Employment v Wilson \[1978\] 3 All ER 137, EAT. Except as to the minor correction which is to be made in calculating the awards in respect of the third batch, I would also dismiss the motion.
+
+__paragraph__
+JUDGMENT OF AIKINS JSC.
+
+__paragraph__
+The defendants in this case, the Volta Aluminium Co Ltd (popularly referred to as Valco), are a limited liability company operating in Tema, and the plaintiffs were employees of the defendants. Their conditions of employment are spelt out in a \[p.526\] collective agreement which their union, the Industrial and Commercial Workers' Union (ICU) entered into on their behalf with Valco, in accordance with the provisions of the Industrial Relations Act, 1965 (Act 299).
+
+__paragraph__
+The trial judge, Benin J, after hearing evidence from the plaintiffs and the defendants, delivered judgment in which he held, after a thorough consideration and careful evaluation of the evidence, that "most of the plaintiffs were wrongfully dismissed by the defendant - company", and that some of the plaintiffs who were said to be persons trained by the defendants with a view to being employed at a later date, were not members of the union and were specifically excluded from the operation of the collective agreement. He therefore rejected their claim in its entirety. He further found that the LOA programme was negotiated to cover only those workers who were sent home on I November 1982. The learned trial judge further held that the plaintiffs who had made out their case were not entitled to be reinstated in their posts, and awarded them damages for wrongful dismissal made up of the following:
+
+__paragraph__
+"(1) salary up to 1 January 1984, the date by which they were to consider themselves as having been declared redundant under the LOA programme if they had not been recalled;
+
+__paragraph__
+(2) twelve months' salary being a reasonable period after 1 January 1984 within which they could seek alternative employment;
+
+__paragraph__
+(3) two months' salary for being declared redundant without notice; and
+
+__paragraph__
+(4) leave allowance, bonus, long service awards as at the date they were sent home, provided these were earned, but had not been already paid to them."
+
+__paragraph__
+He excluded claims for food packages and other claims founded on what the plaintiffs referred to as a gentleman's agreement and which they contended they would have been entitled to if they had not been dismissed. He ordered that they should refund the amounts they received as loans in the implementation of the LOA programme.
+
+__paragraph__
+From this judgment both the plaintiffs and the defendants appealed to the Court of Appeal. The plaintiffs' complaint covered the following matters:
+
+__paragraph__
+(1) The decision that trainees among the plaintiffs were not employees.
+
+__paragraph__
+(2) The decision that the termination of the respective appointments of the plaintiffs were only wrongful and not void.
+
+__paragraph__
+(3) The decision that the food packages did not form part of the plaintiffs' enforceable conditions of service.
+
+__paragraph__
+\[p.527\]
+
+__paragraph__
+(4) The restriction of the compensation to twelve months.
+
+__paragraph__
+(5) Inadequate and unreasonable awards.
+
+__paragraph__
+The defendants' appeal covered the whole of the decision save the following:
+
+__paragraph__
+(1) The judge's decision in regard to the trainees.
+
+__paragraph__
+(2) His decision rejecting the plaintiffs' contention that their dismissal was null and void.
+
+__paragraph__
+(3) His holding that the plaintiffs were not entitled to food packages and other benefits said to be due to them on a gentleman's agreement basis.
+
+__paragraph__
+By a unanimous decision, the Court of Appeal confirmed the High Court holding:
+
+__paragraph__
+(a) that the defendants are liable to the plaintiffs for wrongful termination of their employment;
+
+__paragraph__
+(b) rejecting the plaintiffs' contention that their dismissal was null and void; and
+
+__paragraph__
+(c) that the trainees among the plaintiffs were not employees.
+
+__paragraph__
+With respect to damages the Court of Appeal by a majority of two to one held that the plaintiffs were entitled to four months' salary as at 31 December 1983 in addition to the two months, salary in lieu of notice, and ordered as follows:
+
+__paragraph__
+"The parties are hereby ordered to appear before the court below to calculate how much is due to each of the successful plaintiffs as follows:
+
+__paragraph__
+(a) Their salaries from the date of termination to 31 December 1983 and all other entitlements such as earned leave allowance, bonus, long service award, and end of service benefits as at the date each of them was laid off as provided for under the collective agreement ... These to be determined as at 31 December 1983.
+
+__paragraph__
+(b) Four months' salary as at 31 December 1983.
+
+__paragraph__
+(c) Two months' salary as at 31 December 1983.
+
+__paragraph__
+(d) Their entitlements under article 40 of the collective agreement."
+
+__paragraph__
+From this judgment the plaintiffs and the defendants each appealed to the Supreme Court.
+
+__paragraph__
+On 8 March 1990 this court (see \[1989-90\] 2 GLR 341, SC ante) by a majority of four to one, after an exhaustive consideration of the evidence and reasoning, held that the purported termination of the plaintiffs' employment was null and void and of no effect, and should be accordingly vacated. The court also held that the trainees were employees who were subject to the provisions of the collective \[p.528\] agreement, the moment they joined Valco, and they were wrongfully dismissed, their dismissal being null and void and of no effect.
+
+__paragraph__
+This court therefore ordered the parties to appear before the High Court for that court to calculate how much is due to the plaintiffs including the trainee plaintiffs as follows:
+
+__paragraph__
+(a) Their salaries from the dates they ceased to receive salaries to the dates of their respective de facto termination which are I April 1984, 6 February 1984 and 15 November 1984 respectively and so in the case of the first batch:
+
+__paragraph__
+(i) from 31 October 1982 to 1 January 1984; and. in the case of the second batch:
+
+__paragraph__
+(ii) from 7 February 1983 to 6 February 1984; and in the case of the third batch:
+
+__paragraph__
+(iii) from 16 November 1983 to 15 November 1984.
+
+__paragraph__
+(b) For all the plaintiffs additional twelve months' salary as damages for wrongful dismissal as at the respective dates of their de facto termination,
+
+__paragraph__
+(c) Since it has been held that de jure they are still employees having declared their dismissals null and void they will be entitled to leave allowance, bonus, long service awards, including food packages and all the other benefits said to be enjoyed on a so-called gentleman's agreement, all these to be converted if feasible to cash as at the respective dates of their de facto termination.
+
+__paragraph__
+(d) Their entitlement under article 40 of the collective agreement.
+
+__paragraph__
+Finally this court ordered that the plaintiffs fulfil their obligation to repay the loans granted to them under the LOA agreement in accordance with its terms as to period of payment, if they have not already done so. The court further ordered that in calculating the entitlements, account should be taken of any period within which an employee had obtained employment within the relevant period covered by that award.
+
+__paragraph__
+It is from this judgment that the plaintiffs have applied to this court again for a review of the judgment. Mr Jones-Mensah, counsel for the plaintiffs, urged before us that to compensate rights and entitlements declared de jure with only twelve months' damages, can only mean that there is no jurisprudential difference between the verdict of wrongful dismissal and that of a declaration of nullity in terms of relief, and cited the case of Sowah v Bank for Housing and Construction \[1982-83\] GLR 1324, SC, emphasising the rate of inflation in the economy and the decline in the purchasing power of the cedi.
+
+__paragraph__
+\[p.529\]
+
+__paragraph__
+In reply counsel for the defendants, Mr Thompson who held brief for Mr Bannerman, persuaded us in very strong terms that a party invoking the review jurisdiction of the court must show that there are exceptional circumstances which call for a review, ie (i) a fundamental and basic error may have inadvertently been committed by the court; and (ii) the error must have occasioned a gross miscarriage of justice and he quoted in support of his contention a passage from the case of Mechanical Lloyd Assembly Plant v Nartey \[1987-88\] 2 GLR 598, SC.
+
+__paragraph__
+He further submitted that such an application for review should not be used for an interpretation of the court's decision or directions from the court or for academic purposes aimed at breaking new grounds in the law. He urged that the principle on which the de facto termination date was fixed for each batch was taken from the Court of Appeal decision in Ghana Cocoa Marketing Board v Agbettoh \[1984- 86\] 1 GLR 122 CA, the relevant part of which was quoted at 372 ante of the majority judgment in this case . The question, he argued, was considered by the court and the applicants have not shown that there is a fundamental and basic error which has occasioned a miscarriage of justice to them.
+
+__paragraph__
+The views of this court on the issue were succinctly stated in the majority judgment delivered on 8 March 1990 where Taylor JSC after referring to the cases of Ghana Cocoa Marketing Board v Agbettoh (supra); Hemans v Ghana National Trading Corporation \[1978\] GLR 4 and the view of Dorman CJ in Harlley v Harman (1840) 3 ER 617, said at 371 ante:
+
+__paragraph__
+"It follows from those authorities that I accept and adopt the reasoning of Apaloo CJ in Ghana Cocoa Marketing Board v Agbettoh (supra) and I agree with the views of Archer JA (as he then was) in the Hemans case (supra). In the instant case, the trial High Court judge gave adequate reasons in the exercise of his discretion in awarding twelve months' salary as the measure of damages for each plaintiff. In the Agbettoh case (supra) two years' salary was awarded. I think the well-known practice in the conduct of appeals is that where a judge has used his discretion in arriving at a decision, then unless it can be demonstrated that he ignored the law or took into consideration facts that he ought to have excluded or omitted material facts which should have been considered, his conclusion should not be interfered with. Applying this principle, I am unable to appreciate the reasons why the twelve months' period chosen by Benin J in the exercise of his discretion was set aside and I would therefore restore it."
+
+__paragraph__
+\[p.530\]
+
+__paragraph__
+I have considered very carefully the arguments of counsel for the plaintiffs, and regret that I am not at all convinced that I should accede to his application. In my view he tried to use the application for review for an interpretation of the court's decision and for academic purposes aimed at breaking new grounds in the law. There has not been any fundamental and basic error which this court has inadvertently committed. And it has not been shown that the trial judge acted under a misapprehension of fact by giving weight to irrelevant or unproved matters or omitted to take relevant matters into consideration.
+
+__paragraph__
+As recent as 1962 when this court was dealing with appeals from the exercise of the court's discretion in the case of Crentsil v Crentsil \[1962\] 2 GLR 171 at 175, SC it emphasised that:
+
+__paragraph__
+"...it is a rule of law deep rooted and well established that the Court of Appeal will not interfere with the exercise of court's discretion save in exceptional circumstances."
+
+__paragraph__
+For example, this court would not interfere with the exercise of its discretion on the ground that the discretion was exercised on wrong or inadequate materials, or gave weight to irrelevant or unproved matters. In this application no significant exceptional circumstances of proven weight have been urged on this court by counsel for the applicants to warrant interference with exercise of the trial judge's discretion. The application for review on this ground is therefore rejected.
+
+__paragraph__
+The next ground argued before us by counsel for the applicants is in respect of the order of the court that account should be taken of any periods within which an employee had obtained employment covered by these awards in calculating the awards. Counsel urged that since this is a case of invalidated termination, ie one of nullity and not one of wrongful dismissal, it makes no difference in law whether an employee got other employment or not, and is entitled to the full benefit.
+
+__paragraph__
+Counsel for the defendant thinks that this ground is baseless. He argues that as the LOA exercise has been held not to be one of redundancy and therefore to be null and void, and as the plaintiffs have been held to have been wrongfully dismissed, the benefits they would be entitled to under article 40 of the collective agreement would be those accruing on termination on their employment. It is my view that counsel for the plaintiffs has failed to convince this court of his legitimate claims, and this ground of his application is equally rejected.
+
+__paragraph__
+\[p.531\]
+
+__paragraph__
+The next and perhaps the most important ground of substance argued before us by counsel for the plaintiffs is in respect of the order of this court that the third batch of plaintiffs were laid off between 16 November 1983 and 15 November 1984. Counsel submitted that there appears to be a small mistake in the dates, and invited the court to take note of the fact that the nullified LOA programme was effected on the third batch from 1 January 1984 to 28 February 1985 and not 16 November 1983 to 15 November 1984, ie a period of fourteen months. Counsel for the defendants concedes this arithmetical error in the dates and sees no objection to the correct dates being substituted.
+
+__paragraph__
+It is unfortunate that the correct dates the third batch were laid off should inadvertently elude the, observation of both counsel and this court. There is no doubt that the error is fundamental and basic, and has occasioned a miscarriage of justice. The application of counsel for the plaintiffs on this ground for a review succeeds and I order the parties to appear before the High Court for that court to calculate how much is due to the third batch of the plaintiffs as follows:
+
+__paragraph__
+"Their salaries from the date they ceased to receive salaries to the date of their de facto termination which is from 1 January 1984 to 28 February 1985, ie a period of fourteen months."
+
+__paragraph__
+Save as ordered above in favour of the third batch of the plaintiffs, the plaintiffs' application for review fails to satisfy the test laid down by this court and is dismissed.
+
+__paragraph__
+DECISION
+
+__paragraph__
+Application dismissed.
+
+__paragraph__
+L. K. A

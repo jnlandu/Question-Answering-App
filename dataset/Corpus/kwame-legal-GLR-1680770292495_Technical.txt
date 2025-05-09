@@ -1,0 +1,686 @@
+__paragraph__
+Hospital�Negligence�Liability for members of staff�Bacteria entering plaintiff's body through contaminated hospital equipment resulting in amputation of arm�Liability of Attorney-General as nominal defendant for employees of government hospital�Application of maxim respondent superior.
+
+__paragraph__
+Damages�Quantum�Personal injuries�Heads eligible for compensation�Regard to be had to damages awarded in comparable cases�Rule that special damages must be pleaded before allowable unjust�Whether rule applicable in this country.
+
+__paragraph__
+HEADNOTES
+
+__paragraph__
+The plaintiff (who was, in all other respects, a healthy housewife of nineteen years of age) was referred to the Okomfo Anokye Government Hospital by a private medical practitioner after he had diagnosed a case of ruptured ectopic pregnancy. The doctor in charge of the government hospital, examined the plaintiff and decided that she needed an urgent operation. In the course of the operation (which was successfully carried out) her right arm became swollen and gangrenous, following blood transfusion administered to her by the nursing staff, through a vein in the right arm. The arm was later amputated to save her life. The plaintiff therefore sued the State (represented by the Attorney-General as the nominal defendant) claiming damages for negligence on the part of the hospital staff.
+
+__paragraph__
+The plaintiff gave the particulars of negligence in her statement of claim and also pleaded that she would "rely on the doctrine of res ipsa loquitur." Even though she failed to prove that the particulars of negligence, as pleaded, caused the swelling and the gangrene and the consequent necessity for the amputation, the trial judge found that the facts as proved raised a presumption of negligence, i.e. a case of res ipsa loquitur. The defendant pleaded inter alia, that the plaintiff's action was statute-barred by virtue of section 2 (1) (a) of the Public Officers Act, 1962 (Act 114) (then in force).He, however, led no evidence to show that the injury caused to the plaintiff, happened through no fault of the hospital staff. There was evidence by the plaintiff that she was hospitalised for roughly three months and that after the amputation, she felt pains at the stump of the right arm. She was no longer able to pursue her trade as a seamstress nor to perform \[p.320\] her housewifely duties and to attend to her two infant children. She had to engage the services of a maidservant since her discharge from hospital at the cost of �3.00 a month. In the course of the trial, her customary husband divorced her because of her deformity even though she was still beautiful and charming. She specifically claimed �330.00 being loss of earnings at the rate of �30.00 a month for eleven months. She did not claim the monthly earnings of �30.00 up to the date of trial nor the �3.00 a month which she had to pay to the maidservant. On these facts,
+
+__paragraph__
+Held:
+
+__paragraph__
+(1) section 2(1)(a) of the Public Officers Act, 1962 (Act 114), as to immunity from process where an action was brought after the expiration of three months, was inapplicable in actions such as the instant case where the Attorney-General was sued as the nominal defendant for torts committed by servants of the Republic. Konadu v. Attorney-General \[1971\] 1 G.L.R. 130 followed.
+
+__paragraph__
+(2) In actions, such as the instant case, founded on res ipsa loquitur, it was unnecessary to plead res ipsa loquitur. Facts should rather be pleaded which, taken together, would prove that the injury suffered by the plaintiff, could not have happened but for the presumptive negligence of the defendant. Dicta of Davies L.J. in Bennett v. Chemical Construction (GB) Ltd. \[1971\] 3 All E.R. 822 at p. 825, C.A. and Nelson v. Klutse, Court of Appeal (full bench), 8 September 1969, unreported; digested in (1969) C.C. 142 applied.
+
+__paragraph__
+Per curiam. It seems to me ... that the appearance of the mere phrase "res ipsa loquitur" is by itself, in fact, no foundation at all for the invocation of the doctrine.
+
+__paragraph__
+(3) The failure of the plaintiff to prove that the particulars of negligence (as pleaded and proved) caused the gangrene, was not fatal to her claim because the evidence raised a presumption of negligence on the part of the hospital staff, i.e. a case of res ipsa loquitur. Further the expert medical evidence showed that, in all the contingencies, the bacteria which caused the gangrene could only have entered the plaintiff's body if the defendant's servants, namely, the nurses or those in charge of the infusion apparatus, the needle and the drip stand, were prima facie negligent. There was no evidence led to show that the equipment was sterilised, therefore there was no evidence by the defendant to rebut such negligence, and he was liable in damages for the loss caused to the plaintiff on the principle of respondeat superior. Dicta of Goddard L.J. in Gold v. Essex County Council \[1942\] 2 K.B. 293 at pp. 309 and 312-313, C.A.; of Gibson C.J. in Ybarra v. Spangard 25 Cal. 2d 486 (1944); of Denning L.J. in Cassidy v. Ministry of Health \[1951\] 1 All E.R. 574 at p. 588, C.A.; Bennett v. Chemical Construction (GB) Ltd. (supra) and Nelson v. Klutse (supra) applied.
+
+__paragraph__
+(4) Having regard to damages awarded in comparable cases and to the circumstances of the plaintiff, damages for her injury would be assessed under the following heads, namely:
+
+__paragraph__
+(a) �330.00 for loss of earnings for eleven months, being special damages specifically pleaded and proved. The monthly earnings in excess of the eleven months' claim, and the expenditure on the maidservant, both up to the date of the trial, would be ignored because they were not specifically pleaded;
+
+__paragraph__
+(b) �1,500.00 for pain and suffering;
+
+__paragraph__
+(c) �7,560.00 for loss of future earnings;
+
+__paragraph__
+(d) �3,000.00 for expenses for maintaining and employing a maid-servant;
+
+__paragraph__
+\[p.321\]
+
+__paragraph__
+(e) �2,500.00 for loss of amenities of life; and
+
+__paragraph__
+(f) �1,200.00 for loss of her marital status and diminution in prospects of remarriage.
+
+__paragraph__
+Dicta of Birkett L.J. in Bird v. Cocking & Sons, Ltd. \[1951\] 2 T.L.R. 1260, C.A.; of Lord Devlin in H. West & Son, Ltd. v. Shephard \[1963\] 2 All E.R. 625 at p. 636, H.L; of Azu Crabbe J.A. in Sarpong v. Fibre-Bag Manufacturing Co., Court of Appeal, 27 November 1967, unreported; digested in (1968) C.C. 33 and O'Connor v. Cartwright \[1974\] 5 C.L. 81 applied. Dicta of Diplock L.J. in Ilkiw v. Samuels \[1963\] 2 All E.R. 879 at p. 890, C.A. and Jima Lagos v. A. Lang Ltd., Court of Appeal, 27 July 1973, unreported, criticised.
+
+__paragraph__
+Per curiam. Since the decision of our Court of Appeal in Jima Lagos v. A. Lang Ltd. binds me I have with regret, applied the rule \[i.e. that special damages must be specifically pleaded\]. I have done so with reluctance because my sense of justice is scandalised and furthermore but for the decision of the Court of Appeal, I would have thought that there was no legal foundation for the rule in Ghana.
+
+__paragraph__
+CASES REFERRED TO
+
+__paragraph__
+(1) Practice Direction \[1974\] 1 W.L.R. 1427; \[1974\] 3 All E.R.976, D.C.
+
+__paragraph__
+(2) Bayley v. Manchester, Sheffield and Lincolnshire Railway Co.(1872) L.R. 7 C.P. 415.
+
+__paragraph__
+(3) Hillyer v. St. Bartholomew's Hospital (Governors) \[1909\] 2 K.B. 820; 78 L.J.K.B. 958; 101 L.T. 368; 73 J.P. 501; 25 T.L.R. 762; 53 S.J. 714, C.A.
+
+__paragraph__
+(4) Gold v. Essex County Council \[1942\] 2 K.B. 293; \[1942\] 2 All E.R. 237; 112 L.J.K.B. 1; 167 L.T. 166; 106 J.P. 242; 58 T.L.R. 357; 86 S.J. 295; 40 L.G.R. 249, C.A.
+
+__paragraph__
+(5) Cassidy v. Ministry of Health \[1951\] 2 K.B. 343; \[1951\] 1 T.L.R. 539; \[1951\] 1 All E.R. 574; 95 S.J. 253, C.A.
+
+__paragraph__
+(6) Konadu v. Attorney-General \[1971\] 1 G.L.R. 130.
+
+__paragraph__
+(7) Broom v. Morgan \[1953\] 1 Q.B. 597; \[1953\] 2 W.L.R. 737; 97 S.J. 247; \[1953\] 1 All E.R. 849, C.A.
+
+__paragraph__
+(8) Midland Silicones Ltd. v. Scruttons Ltd. \[1961\] 1 Q.B. 106; \[1960\] 3 W.L.R. 372; \[1960\] 2 All E.R. 737; 104 S.J. 603;\[1960\] 1 Lloyd Rep. 571, C.A.
+
+__paragraph__
+(9) Buobuh v. Minister of Interior \[1971\] 1 G.L.R. 127.
+
+__paragraph__
+(10) Nelson v. Klutse, Court of Appeal (full bench), 8 September 1969, unreported; digested in (1969) C.C. 142.
+
+__paragraph__
+(11) Bennett v. Chemical Construction (GB) Ltd. \[1971\] 1 W.L.R.1571; 115 S.J. 550; \[1971\] 3 All E.R. 822; 12 K.I.R. 4, C.A.
+
+__paragraph__
+(12) Ballard v. North British Railway Co. 1923 S.C. (H.L.) 43; 60 Sc.L.R. 441; 1923 S.L.T. 219, H.L.
+
+__paragraph__
+(13) Metropolitan Railway Co. v. Jackson (1877) 3 App. Cas. 193; 47 L.J.Q.B. 303; 37 L.T. 679; 42 J.P. 420; 26 W.R. 175, H.L.
+
+__paragraph__
+(14) Wakelin v. London and South Western Railway Co. (1886) 12 App.Cas. 41; 56 L.J.Q.B. 229; 55 L.T. 709; 51 J.P.404; 35 W.R. 141; 3 T.L.R. 233, H.L.
+
+__paragraph__
+\[p.322\]
+
+__paragraph__
+(15) Sarpong v. Fibre-Bag Manufacturing Co., Court of Appeal, 27 November 1967, unreported; digested in (1968) C.C. 33.
+
+__paragraph__
+(16) Davis v. Bunn (1956) 56 C.L.R. 246.
+
+__paragraph__
+(17) Agogro v. Ago \[1973\] 1 G.L.R. 45.
+
+__paragraph__
+(18) Byrne v. Boadle (1863) 2 H. & C. 722; 3 New.Rep. 162; 33 L.J.Ex. 13; 9 L.T. 450; 10 Jur. (N.S.) 1107; 12 W.R. 279; 159 E.R. 299.
+
+__paragraph__
+(19) Scott v. London and St. Katharine Docks Co. (1865) 3 H.& C. 596; 5 New Rep. 420; 34 L.J.Ex. 220; 13 L.T. 148, 11 Jur.(N.S.) 204; 13 W.R. 410; 159 E.R. 665.
+
+__paragraph__
+(20) Ybarra v. Spangard 25 Cal. 2d 486; 154 P. 2d 687 (1944).
+
+__paragraph__
+(21) Fair v. London and North Western Railway Co. (1869) 21 L.T. 326; 18 W.R. 66.
+
+__paragraph__
+(22) Phillips v. South Western Railway Co. (1879) 4 Q.B.D. 406.
+
+__paragraph__
+(23) British Transport Commission v. Gourley \[1956\] A.C. 185; \[1956\] 2 W.L.R. 41; \[1955\] 3 All E.R. 796; 220 L.T. 354; 100 S.J. 12; 49 R.I.T. 11; \[1955\]2 Ll.Rep. 475; \[1955\] T.R. 303;34 A.T.C. 305, H.L.
+
+__paragraph__
+(24). Dagomba v. Dagomba, Court of Appeal, 27 January 1969, unreported; digested in (1969) C.C. 48.
+
+__paragraph__
+(25) H. West & Son, Ltd. v. Shephard \[1964\] A.C. 326; \[1963\] 2 W.L.R. 1359; \[1963\] 2 All E.R. 625; 107 S.J. 454, H.L.
+
+__paragraph__
+(26) Ilkiw v. Samuels \[1963\] 1 W.L.R. 991; \[1963\] 2 All E.R.879; 107 S.J. 680, C.A.
+
+__paragraph__
+(27) Jima Lagos v. A. Lang Ltd., Court of Appeal, 27 July 1973, unreported.
+
+__paragraph__
+(28) Bird v. Cocking & Sons, Ltd. \[1951\] 2 T.L.R. 1260; \[1952\] W.N. 5, C.A.
+
+__paragraph__
+(29) Rushton v. National Coal Board \[1953\] 1 Q.B. 495; \[1953\]1 W.L.R. 292; \[1953\] 1 All E.R. 314; 97 S.J. 94, C.A.
+
+__paragraph__
+(30) Waldon v. War Office \[1956\] 1 W.L.R. 51; \[1956\] 1 All E.R. 108; 100 S.J. 33, C.A.
+
+__paragraph__
+(31) Singh v. Toong Fong Omnibus Co., Ltd. \[1964\] 1 W.L.R.1382; \[1964\] 3 All E.R. 925; 108 S.J. 818, P.C.
+
+__paragraph__
+(32) Admiralty Commissioners v. S.S. Valeria \[1922\] 2 A.C.242; 92 L.J.K.B. 42; 128 L.T. 97; 16 Asp.M.L.C. 25, H.L.
+
+__paragraph__
+(33) Jones v. Griffith \[1969\] 1 W.L.R. 795; \[1969\] 2 All E.R. 1015. 6 K.I.R. 472; 113 S.J. 309, C.A.
+
+__paragraph__
+(34) The Testbank \[1942\] P. 75; 111 L.J.P. 49; 167 L.T. 97; 58 T.L.R. 164; sub nom. S.S. Ceramic v. S.S. Testbank \[1942\] 1 All E.R. 281, C.A.
+
+__paragraph__
+(35) Dzamafe v. Tema Textiles Co., Ltd., High Court, Kumasi, 4 June 1971, unreported; digested in (1972),4 R.G.L. 63.
+
+__paragraph__
+(36) Okyere v. Twum, High Court, Cape Coast, 26 June 1972, unreported; digested in (1972) 4 R.G.L. 213.
+
+__paragraph__
+(37) Wiafe v. Hornyibey, High Court, Kumasi, 27 June 1972, unreported; digested in (1972) 4 R.G.L. 212.
+
+__paragraph__
+\[p.323\]
+
+__paragraph__
+(38) Amfo v. Twum, High Court, Cape Coast, 26 June 1972, unreported; digested in (1972) 4 R.G.L. 212.
+
+__paragraph__
+(39) Gonja v. Anang, High Court, Accra, 18 May 1973, unreported; digested in (1973) 5 R.G.L. 121.
+
+__paragraph__
+(40) Amponsah v. Boakye, High Court, Kumasi, 10 June 1970, unreported.
+
+__paragraph__
+(41) Cunningham v. Harrison \[1973\] Q.B. 942; \[1973\] 3 W.L.R.97; \[1973\] 3 All E.R. 463, C.A.
+
+__paragraph__
+(42) O'Connor v. Cartwright \[1974\] 5 C.L 81.
+
+__paragraph__
+NATURE OF PROCEEDINGS
+
+__paragraph__
+ACTION for damages against the State brought against the Attorney-General as nominal defendant for negligence committed by nursing staff in a government hospital. The facts are fully stated in the judgment.
+
+__paragraph__
+COUNSEL
+
+__paragraph__
+D. M. Adusei for the plaintiff.
+
+__paragraph__
+R. Bruce, State Attorney, for the defendant.
+
+__paragraph__
+JUDGMENT OF TAYLOR J.
+
+__paragraph__
+On 28 January 1969, the plaintiff filed a statement of claim in this suit. The action was primarily against the State and so in accordance with the State Proceedings Act, 1961 (Act 51), she did not commence it by the issue of a writ. The relevant paragraphs setting out her claim which was founded on negligence are as follows:
+
+__paragraph__
+"(1) The plaintiff is a seamstress and lives at Suame, Kumasi.
+
+__paragraph__
+(2) On or about 6 May 1967, the plaintiff was admitted to the Okomfo Anokye Hospital for treatment for ectopic \[pregnancy\].
+
+__paragraph__
+(3) The said hospital is a state-owned hospital maintained and run by the Ghana Government.
+
+__paragraph__
+(4) From the said date, the hospital per their agents, servants or persons engaged by the defendants did provide for the plaintiff general medical treatment, attendance and advice.
+
+__paragraph__
+(5) On or about 10 May 1967, the servant or agent or the person engaged by the hospital to treat the plaintiff did give her intravenous infusion near or at the cubital fossa of the right arm but did it negligently and failed to use reasonable care, skill and diligence in or about the treatment, attendance and advice.
+
+__paragraph__
+(6) As a result of the negligent manner in which the intravenous infusion was given to the plaintiff, the upper right arm got swollen and gangrenous and in consequence thereof the plaintiff lost the said arm.
+
+__paragraph__
+(7) The loss of the arm sustained by the plaintiff has rendered her incapable of carrying on her work as a seamstress and \[she\] has in consequence suffered loss and damage.
+
+__paragraph__
+Particulars of Negligence
+
+__paragraph__
+(8) The servant, agent or the person engaged to give treatment, attendance and advice was negligent in that:
+
+__paragraph__
+\[p.324\]
+
+__paragraph__
+(a) The person did not see to it that the blood was running well into the vein;
+
+__paragraph__
+(b) The person did fail to inquire of the plaintiff whether or not she suffered any pain after putting the needle into her vein.
+
+__paragraph__
+(c) The plaintiff will further if necessary rely on the doctrine of res ipsa loquitur."
+
+__paragraph__
+The plaintiff also, inter alia, gave particulars of special damage but this was limited to her loss of professional earnings as a seamstress for eleven months after the injury. She gave no particulars of hospital and other expenses although she led evidence as to such expenses incurred before the trial. These could have been properly pleaded as special damages but they were not so pleaded. I shall advert later to the legal implication of this apparently unfortunate omission to plead what was undoubtedly expenditure legitimately incurred for and on behalf of the plaintiff.
+
+__paragraph__
+The only other observation I have to make about this statement of claim at this stage is that it would have been very helpful if the age of the plaintiff had been given. At the sitting of the Queen's Bench Division on 1 November 1974 Widgery C.J. gave a Practice Direction reported in \[1974\] 1 W.L. R. 1427, which I think practitioners in Ghana can adopt with profit. It is as follows:
+
+__paragraph__
+"In . . . actions for personal injuries there is no obligation to state the age or date of birth of the plaintiff, and this is often omitted. The age of the plaintiff is, however, a vital factor in the assessment of damages in most such cases, and it would be a convenience if this information were contained in the statement of claim. This need not result in additional publicity being given to the plaintiff's age, and, indeed, may have the opposite effect since it will often make it unnecessary for the judge to call for this information in open court."
+
+__paragraph__
+On 1 July 1969 in compliance with the procedural provisions of section 1 of the State Proceedings Act, 1961 (Act 51), and in view of the fact that this was essentially a claim against the Republic, the fiat of the Attorney-General was filed in this court and accordingly as from that date this court was clothed with jurisdiction to try this case. Since it involves an allegation of negligence against the servants of the Republic who were running the state-owned Okomfo Anokye Hospital, it is obvious that the liability of the Republic is being invoked in view of its ordinary status as an employer or master. The liability is therefore merely vicarious and founded on the well-known principle of general application compressed in the Latin phrase respondeat superior and meaning that a master is liable for the negligence of his servant committed in the course of their employment. The principle was succinctly stated over a 100 years ago in Bayley v. Manchester, Sheffield, and Lincolnshire Railway Co. (1872) L. R. 7 C. P. 415 at p. 42.) by Willes J.:
+
+__paragraph__
+\[p.325\]
+
+__paragraph__
+"A person who puts another in his place to do a class of acts in his absence, necessarily leaves him to determine, according to the circumstances that arise, when an act of that class is to be done, and trusts him for the manner in which it is done; and consequently he is held answerable for the wrong of the person so intrusted either in the manner of doing such an act, or in doing such an act under circumstances in which it ought not to have been done; provided that what was done was done, not from any caprice of the servant, but in the course of the employment."
+
+__paragraph__
+(The emphasis is mine.) There used to be some doubts as to whether this principle applied to the negligent acts of the professional staff of hospitals. The doubts were generated by the unsatisfactory decisions of Kennedy and Farwell L.JJ. (concurred in by Cozens-Hardy M.R.) in Hillyer v. St. Bartholomew's Hospital (Governors) \[1909\] 2 K.B. 820, C.A. These doubts, however, have been set to rest in Gold v. Essex County Council \[1942\] 2 K.B. 293, C.A. which will be dealt with later in this judgment. Indeed in Cassidy v. Ministry of Health \[1951\] 1 All E.R. 574, C.A. (a case not unlike this case) the general principle thus enunciated by Willes J. in the Bayley case (supra) was restated and applied with full force by the Court of Appeal in England to the professional staff of a hospital.
+
+__paragraph__
+I must draw attention here to the fact that the Attorney-General in this case before me is merely a nominal defendant having regard to the provisions of section 10 (2) of the State Proceedings Act, 1961 (Act 51); in other words although the Attorney-General is himself a servant of the Republic it is not his acts or omissions which are being called in question in this litigation. This point is very important and I have adverted to it because in a statement of defence filed, the Attorney-General, as the nominal defendant, apart from denying liability on behalf of the Republic and explaining that the plaintiff developed gas gangrene in the right forearm after she had had intravenous infusion at the state-owned Okomfo Anokye Hospital, alleged as an apparent answer to paragraph (8) of the statement of claim, that the transfused blood went into the proper vessel, namely, a vein and that the right forearm became swollen and gangrenous because of thrombosis of the main artery and veins of that limb - a development which he alleged was unconnected with the transfusion. And he pleaded, inter alia, "The plaintiff's action against the defendant is statute-barred by virtue of the Public Officers Act, 1962 (Act 114)." This plea is becoming common in cases in which the Attorney-General represents the Republic. It is time its precise scope was properly defined and delimited. In my view in all cases in which the Attorney-General is a nominal defendant this plea is misconceived. The relevant provision of the Public Officers Act, 1962 (then in force) was section 2 (1) (a), and it provided as follows:
+
+__paragraph__
+"2. (1) Where any action, prosecution, or other proceeding is commenced against any person for any act done in pursuance or execution or intended execution of any enactment or of any public duty or authority or in respect of any alleged neglect or default in the \[p.326\] execution of any such enactment, duty, or authority, the following provisions shall have effect, that is to say-
+
+__paragraph__
+(a) the action, prosecution, or proceeding shall not lie or be instituted unless it is commenced within three months next after the act, neglect, or default complained of, or in the case of a continuance of injury or damage, within three months next after the ceasing thereof."
+
+__paragraph__
+As I have indicated already the substantive defendant in this suit is the Government of Ghana and this of course is the reason for the fiat.
+
+__paragraph__
+Proceeding under Order 25, r. 1 of the High Court (Civil Procedure) Rules, 1954, counsel for the plaintiff moved this court for leave to argue as a preliminary point of law "whether or not the plaintiff's action is statute-barred"; thereupon the defendant's counsel peremptorily abandoned this defence. Well may he do so for in a similar situation in the case of Konadu v. Attorney-General \[1971\] 1 G.L.R. 130, Aboagye J. relying on the United Kingdom cases of Broom v. Morgan \[1953\] 1 Q.B. 597, C.A. and Midland Silicones Ltd. v. Scruttons Ltd. \[1961\] 1 Q.B. 106, C.A. (cases whose ratio can hardly be faulted) refused to follow his previous decision in Buobuh v. Minister of Interior \[1971\] 1 G.L.R. 127 where he had held that this defence was maintainable, and expressed a view at p. 133 with which I am in entire agreement. He said:
+
+__paragraph__
+"The Republic of Ghana is certainly not a public officer and ... it cannot to borrow the words of Singleton L.J. in Broom v. Morgan, hide behind the skirts of the immunity of its servants."
+
+__paragraph__
+With the issue of the immunity of the Republic so disposed of, I hope the ghost of the plea will forever rest in peace. With the plea off the arena, the substantive issues, which on the summons for directions were ultimately submitted for trial, are as follows:
+
+__paragraph__
+"(1) Whether or not the defendant's servants or agents were negligent in treating or attending the plaintiff.
+
+__paragraph__
+(2) Whether or not the plaintiff's arm was amputated as a result of the development of gangrene.
+
+__paragraph__
+(3) Whether or not the development of gangrene, if any, was due to the negligent manner in which the defendant performed the transfusion.
+
+__paragraph__
+(4) Whether or not the doctrine of res ipsa loquitur is applicable."
+
+__paragraph__
+The fourth issue was considered necessary in the circumstance because the plaintiff specifically pleaded in her paragraph (9) that she would rely on the doctrine of res ipsa loquitur.
+
+__paragraph__
+It has been fashionable in some personal injury claims founded on negligence to plead res ipsa loquitur. Indeed in Bullen and Leake's Precedents of pleadings (11th ed.) at p. 536, there is a suggestion that it is proper to plead res ipsa loquitur in certain cases and in fact in Nelson v. Klutse, Court of Appeal, 8 September 1969, unreported; digested in (1969) C.C. 142, this point regarding pleading res ipsa loquitur and the treatment of \[p.327\] that plea in Bullen and Leake was urged on the Court of Appeal in an argument calculated to show that failure to allege res ipsa loquitur in a statement of claim disbars the plaintiff from relying on the doctrine. In obiter dicta, Amissah J.A. considered the matter thus:
+
+__paragraph__
+"Our attention was drawn in this respect to the precedent in Bullen and Leake's Precedents of Pleadings (11th ed.) at pp. 535-536 where a sentence is added to indicate that the plaintiff will rely on the maxim. A set of pleadings is not necessarily bad because it fails to come up to the standard of Bullen and Leake. And though the pleadings of the applicant quoted above may not reach the heights of perfection the question is whether, if one may borrow the words of Lord Normand in Esso Petroleum Co., Ltd. y. Southport Corporation \[1956\] A.C. 218 at p. 238, H.L., they gave fair notice of the case which has to be met so that the opposing party may direct his evidence to the issue disclosed by them'."
+
+__paragraph__
+The idea that res ipsa loquitur as such is pleadable must have probably arisen ex abundanti cautela because of the caution of pleaders. In Benas and Essenhigh's Precedents of Pleadings (2nd ed.), one of the specimen statements of claim in negligence contains this at p. 236, "In regard to each of the Defendants the Plaintiff will rely on the principle of res ipsa loquitur-. And at p. 536 of Bullen and Leake referred to by Amissah J.A. in Nelson v. Klutse (supra), the following appears in a specimen, "So far as may be necessary, the plaintiff will rely upon the doctrine of res ipsa loquitur . . ."
+
+__paragraph__
+In my opinion, the editors of Bullen and Leake and Benas and Essenhigh are entirely wrong. Order 19, r. 4 of our High Court (Civil Procedure) Rules, 1954, which was culled without any alteration in form or substance from the English Rules provides as follows:
+
+__paragraph__
+"Every pleading shall contain, and contain only a statement in a summary form of the material facts on which the party pleading relies for his claim or defence, as the case may be, but not the evidence by which they are to be proved ..."
+
+__paragraph__
+(The emphasis is mine.) This provision makes it mandatory that only material facts and nothing else are to be pleaded. In my view paragraph (9) of the statement of claim ought to be struck off and I propose to ignore it as being unnecessary having regard to the provision of Order 19, r. 29, which provides as follows:
+
+__paragraph__
+"The Court or a Judge may at any stage of the proceedings order to be struck out or amended any matter in any indorsement or pleading which may be unnecessary..."
+
+__paragraph__
+It seems to me that what ought to be pleaded in these res ipsa loquitur cases is not the mere words "res ipsa loquitur"; incantatory words as Amissah J.A. called them in Nelson v. Klutse (supra.); these words by themselves do not in any way advance the narrative of the plaintiff's case. Facts should rather be pleaded which taken together prove that the damage suffered by the plaintiff could not have happened but for the presumptive \[p.328\] negligence of the defendant. In fact in these res ipsa loquitur cases what actually contributed to the damage is unknown to the plaintiff since he was not in control of the res. The person in control of the res is the defendant and because being in control, the damage or injury ought not to have happened if he exercised care and diligence, an onus is cast on him to show that the damage was not caused by his negligence or the negligence of his servant.
+
+__paragraph__
+This is the legal and commonsense approach to the problem which commends itself to me and which finds support in the views of Davies L.J. in the English case of Bennett v. Chemical Construction (GB) Ltd. \[1971\] 3 All E.R. 822 at p. 825, C.A. Commenting on the necessity for pleading res ipsa loquitur he said at p. 825:
+
+__paragraph__
+"I have said that in my opinion it is not necessary to plead res ipsa loquitur. If the facts pleaded and the facts proved show that the cause of the accident was apparently and on its face some negligence, that is sufficient."
+
+__paragraph__
+With regard to the onus of proof in such a situation he remarked at the same page:
+
+__paragraph__
+"If the accident is proved to have happened in such a way that prima facie it could not have happened without negligence on the part of the defendants, then it is for the defendants to explain and show how the accident could have happened without negligence."
+
+__paragraph__
+The decision itself of the full bench of the Court of Appeal in Nelson v. Klutse (supra) supports the view that res ipsa loquitur need not be pleaded, for Amissah J.A., who delivered the unanimous decision of the court, explained the position rather carefully:
+
+__paragraph__
+"We do not share their view that the doctrine of res ipsa loquitur can be resorted to only when a plaintiff specifically pleads that he intends to rely on it. What the passage in Halsbury's Laws of England (3rd ed.), Vol. 28, p. 77, para. 79, which was cited by learned counsel to us, says is not that res ipsa loquitur must be pleaded, but that facts from which it is intended that the presumption should be drawn must be. The actual words of Halsbury are: \`The plaintiff cannot rely upon an inference of negligence unless he has alleged in the pleadings and proved at the trial the facts from which the inference is to be drawn.' So that the appearance of the incantatory words \`res ipsa loquitur' in the pleadings, or the plaintiff saying therein that he intends to rely on the mere accident as proof of the negligence, is not the only foundation for the invocation of the doctrine."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+It seems to me with respect though that the appearance of the mere phrase "res ipsa loquitur" is by itself, in fact, no foundation at all for the invocation of the doctrine. In my view the true foundation for the invocation of the doctrine is as clearly stated in the above passage. It is merely pleading and nothing else, only "the facts from which it is intended that the presumption should be drawn." Unfortunately probably the cautious \[p.329\] way in which it was expressed has inadvertently, I believe, led an academic writer to misconceive the true ratio decidendi and to suggest in the usual vein of academic writers but very wrongly in my view, that the decision of the full bench in applying the principle to the case is hard to justify. In a comment in (1970) 2 R.G.L. 73 at pp. 74-75 the writer noted:
+
+__paragraph__
+"the case before the full bench of the Court of Appeal reduced itself simply to this: Did the plaintiff's pleadings give \`fair notice' to the defendants that res ipsa loquitur would be invoked?"
+
+__paragraph__
+This is obviously a wrong appraisal of the case which the court had to contend with. I would have thought the case rather reduced itself to this: Did the plaintiff by his pleadings give fair notice to the defendants of the facts on which his negligence actual or presumptive is based? Res ipsa loquitur after all means as Lord Shaw put it in Ballard v. North British Railway Co. 1923,, S.C. (H.L.) 43 at p. 56, that the thing that had happened, the subject-matter of the plaintiff's complaint "tells its own story." In other words it thus means merely that the thing speaks for itself. What is it that speaks for itself? It is the facts and circumstances of the case taken together that figuratively speak of negligence. Consequently to introduce res ipsa loquitur in pleadings in the manner done by Bullen and Leake and Benas and Essenhigh and as was done in this case means no more than that at the trial the plaintiff intends to argue that the facts he will produce are prima facie evidence of negligence. In other words contrary to the provision of Order 19, r. 4 he is pleading argument not facts. Now in Woodroffe and Ameer Ali's Civil Procedure in British India (2nd ed.), the editors commenting on the corresponding provision in the India Civil Code noted at p. 701 that, "Modern pleadings are merely concise statements of the facts. Inference of law should not be pleaded. Pleadings should not contain mere arguments." (The emphasis is mine.)
+
+__paragraph__
+In the light of all this it is obvious that the following advice proffered by the writer in (1970) 2 R.G.L. 73 at p. 75 can hardly be said to be useful:
+
+__paragraph__
+"Where counsel is in the slightest doubt as to whether his pleadings disclose the invocation of the doctrine of res ipsa loquitur, he will be wise to plead it specifically. If by any reason of omission or default he is not able to do so at the very beginning of the case, he would be well advised to take advantage of the earliest opportunity to amend his pleadings so as to indicate clearly that res ipsa loquitur is in issue."
+
+__paragraph__
+I think I have canvassed this matter at length to show that the mere words "res ipsa loquitur" ought not to be pleaded in any way, certainly not in the manner in which it appears here and in Bullen and Leake and Benas and Essenhigh.
+
+__paragraph__
+In this case before me the plaintiff gave evidence and called three witnesses. The first witness was her husband, the second her husband's father and the third was the doctor who referred her to the Okomfo Anokye Hospital. Her evidence is that she is a seamstress and that some time in 1967 when she was nineteen years old she became pregnant and \[p.330\] in the second month of her pregnancy she developed pains in her stomach. Although she was conscious she could not speak and her husband took her to a private hospital at Suame junction. She was examined by the physician-in-charge who decided to refer her to the Okomfo Anokye Hospital. At the hospital the doctor in charge examined her and decided that she needed an urgent operation. She was taken to the theatre and the necessary preparations were made for the operation, and from this stage she did not know what happened to her. Apparently she was put under anaesthesia and when she regained consciousness, she realised that she had been operated upon on the lower abdomen. She also saw near her bed a blood transfusion apparatus and two lady nurses in attendance on her. She also found that the needle end of the apparatus was in her right arm and she felt pains. This was the next day after the operation although by this time the pains in her stomach had somewhat subsided. She said she felt pains in her right arm and she could not talk and so she made a signal with her left hand to draw the attention of the nurses to her as the two of them were then leaving her bedside. According to her evidence, one nurse came back and changed the position of the needle in her arm after which she fell asleep. She said while in the hospital she was part of the time conscious and at other times unconscious and so she did not see everything that happened to her. However, when she woke up she noticed that there were four needle marks on her arm. The arm was swollen and she was in great pain. She also noticed that the blood from the blood infusion apparatus was not going well into her vein but was rather flowing onto the ground. She said the blood from the apparatus was stagnant in her arm and in her opinion was thus causing the swelling and was overflowing by the point of the needle. She complained and the senior medical officer in charge, Dr. Armar, was called. He ordered that the transfusion should be stopped at once and later in consultation with four other doctors, he told her that her right arm had to be amputated. She objected and pointed out that she came to the hospital with stomach pains and she did not see its connection with her arm to justify amputation. The doctors, however, insisted that the amputation was necessary to save her life and so her relatives consented to the amputation and her arm was accordingly amputated a few inches above the elbow. She said when she regained consciousness after the amputation she felt great pains in the amputated stump of the arm. She was on admission in the hospital for three months and a day before she was discharged.
+
+__paragraph__
+Her husband, the plaintiff's first witness, corroborated her evidence in material particulars up to the stage when she had the operation on the lower abdomen. After the operation he said he saw her in the ward. She was then receiving blood transfusion and moving her head from side to side apparently in pain. He said he noticed that the apparatus was not working well as the blood was not dripping into the tube and so he called the attention of the nurses. One of the nurses followed him to the plaintiff's bedside and there the said nurse opened a clip at the end of the rubber tube portion of the apparatus and he noticed that the blood had started to flow but when she released the clip the blood flow stopped. When the \[p.331\] flow stopped, the nurse held the plaintiff's right arm and took off the plaster on her arm and she removed the needle from her arm and cleaned the wound on her arm and then inserted the needle in another part of the arm. This took place on the day the plaintiff was admitted, that is, Saturday, 6 May 1967. His further evidence is that as the apparatus was defective the nurse asked him to endeavour to buy a rubber hose and dextrose at a store at Bantama to which she directed him. He did buy these things and tendered one in evidence but as they were not actually used their only relevance in my finding is to lend credence to his version of what took place before the nurses and to show in particular that his version that the nurses said the apparatus was defective is in all probability true; otherwise I do not see why he should incur on his own, the expense of buying dextrose and a rubber hose for the infusion apparatus. On Sunday, 7 May 1967, he visited the hospital during visiting hours and he found that the plaintiff's arm was red looking and swollen.
+
+__paragraph__
+On Monday, 8 May 1967, he visited the plaintiff in the hospital twice, once in the morning and again at 4.30 p.m. On this occasion, he noticed that the area of the arm around the needle had become dark but the rest of the arm was red. The arm was more greatly swollen than he saw on Sunday. On Tuesday, 9 May 1967, he visited the plaintiff in the morning and he noticed that the needle had now been removed from her arm. In the afternoon when he visited the plaintiff he found that her arm had been wrapped with cotton wool and the cotton wool was soaked with blood. He found his wife groaning and weeping and in great pain. At 4.30 p.m. on the same Tuesday he found when he visited the plaintiff in the hospital that her arm was "swollen very greatly beyond expression" and the whole arm had become dark including even the palm. On Wednesday, 10 May, between 5.30 a.m. and 6.00 a.m. he again visited the plaintiff. He found the plaintiff asleep. The size of the arm was the same as on Tuesday but it had gone even darker like roasted plantain and was giving out bad odour. On this day, he was informed that the plaintiff's arm had to be amputated to save her life and on the same day the arm was amputated. After the amputation, he wrote to the hospital authorities seeking an explanation as to why he sent his wife there for the treatment of stomach pains but they rather amputated her arm. According to his evidence, he and his father, the plaintiff's second witness, had a conference with Dr. Armar, the senior medical officer in charge, and another doctor and at the conference, Dr. Armar told him that what had happened was a mistake and that he would write to his head office in Accra for an artificial limb and compensation for the plaintiff. This evidence of the husband regarding the conference and the admission of mistake by the hospital authorities and the promise of compensation was fully corroborated by the second witness for the plaintiff who was present at the meeting. With regard to the meeting and what took place, it is significant that in cross-examination, although counsel for the defendant conceded that there was a meeting and suggested to the plaintiff (a suggestion which was vehemently denied) \[p.332\] that Dr. Armar did not admit any mistake nor agree to arrange for compensation, nevertheless Dr. Armar was never called by the defendant.
+
+__paragraph__
+The third and last witness for the plaintiff was Dr. F. I. Amponsah; he was the physician in the Suame private hospital who saw the plaintiff and referred her to the Okomfo Anokye Government Hospital. According to his evidence, when he saw the plaintiff she had nothing whatsoever wrong with her arm. He diagnosed a case of ruptured ectopic pregnancy and this was why he referred her to the government hospital. The substantive portion of the evidence of the plaintiff and her witnesses set down above was not impaired in any way at all in cross-examination. The plaintiff was clearly in the hands of the hospital staff, the doctor and the nurses, and her account of what happened to her was corroborated by the evidence of her husband. That account it seems to me must be true as no contrary version was pressed on her by the defence. Furthermore, it is amply supported by the obvious fact that her arm had indeed been amputated. I believe her evidence and that of her witnesses and I accept it as constituting the case which the plaintiff made in this court. A short synopsis of the case consistent with the evidence and devoid of irrelevant material likely to cloud the issues will be useful having regard to the fact that the claim is founded on negligence. The case briefly is that the plaintiff who was in all other respects healthy developed a ruptured ectopic pregnancy and was given in charge to the professional staff of the Okomfo Anokye Hospital run by the government. While she was thus under their care and treatment in the hospital her right arm became swollen and gangrenous following a blood transfusion she received in the said arm and the arm had to be amputated to save her life. Before going to the hospital however her arm was perfectly normal.
+
+__paragraph__
+Although the plaintiff gave in paragraph (8) of her statement of claim (already referred to) some particulars of alleged negligent acts and led evidence which was not challenged in support thereof and which I therefore believe and accept indicating that at one stage of her treatment the blood from the apparatus did not go into her vein but was stagnant in her arm, no doubt because the nursing staff were not keeping an eye on the apparatus and its effectiveness, nevertheless no expert medical evidence was called by the plaintiff to connect this with the swelling and the gangrene and the consequent necessity for the amputation. In the circumstances I hold that the particulars of negligent conduct alleged in paragraph (8) and proved to my satisfaction by the plaintiff have not been shown to be the cause of the injury. The reason for this has been long recognised in this area of the law. In Clerk and Lindsell on Torts (13th ed.) at p.457 the editors elicited from the decided authorities four ingredients of primary liability in negligence as follows:
+
+__paragraph__
+"(1) A duty of care situation, ie., recognition by law that the careless infliction of the kind of damage in suit on the type of person to which the plaintiff belongs by the type of person to which the defendant belongs is actionable.
+
+__paragraph__
+(2) Foreseeability that the defendant's conduct would have inflicted on the plaintiff the kind of damage in suit. (This is what is implied in the statement that the duty of care has to \[p.333\] be \`wed' to the plaintiff.).
+
+__paragraph__
+(3) Proof that the defendant's conduct was careless, i.e., that it failed to measure up to the standard and scope set by law: breach of duty.
+
+__paragraph__
+(4) There must be a causal connection between the defendant's carelessness and the damage.
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+It is the fourth ingredient stated above, the causal connection, that is missing in the negligence alleged to arise by virtue of the particulars contained in paragraph (8). Thus Lord Blackburn in one of the early cases on the problem, Metropolitan Railway Co. v. Jackson (1877) 3 App.Cas. 193 at p. 208, H.L. highlighted the principle when he said:
+
+__paragraph__
+"My Lords, in all cases of actions to recover damages for a personal injury . . . the Plaintiff has to prove, first, that there was on the part of the Defendants a neglect of that duty cast upon them under the circumstances; and, second, that the damage he has sustained was the consequence of that neglect of duty."
+
+__paragraph__
+(The emphasis is mine.) And in the same case at p. 198 Lord Cairns L.C. stated it in very clear language:
+
+__paragraph__
+"The negligence must in some way connect itself, or be connected by evidence, with the accident . . . In the present case there was no doubt negligence in the company's servants . . . but there is nothing, in my opinion, in this negligence which connects itself with the accident which took place."
+
+__paragraph__
+(The emphasis is mine.) And the duty of the plaintiff in such a situation adverted to by Lord Blackburn and the reason for the rule were further explained by that great law Lord, Lord Watson in Wakelin v. London and South Western Railway Co. (1886) 12 App.Cas. 41 at p. 47, H.L. as follows:
+
+__paragraph__
+"Mere allegation or proof that the company were guilty of negligence is altogether irrelevant; they might be guilty of many negligent acts or omissions, which might possibly have occasioned injury to somebody, but had no connection whatever with the injury for which redress is sought, and therefore the plaintiff must allege and prove, not merely that they were negligent, but that their negligence caused or materially contributed to the injury."
+
+__paragraph__
+In Ghana Azu Crabbe J.A. (as he then was) adverted to this matter in Sarpong v. Fibre-Bag Manufacturing Co., Court of Appeal, 27 November 1967, unreported; digested in (1968) C.C, 33, hereinafter referred to as the Fibre-Bag case when he said, "the plaintiff must prove not only negligence or breach of duty, but that the fault of the defendant caused or substantially contributed to his injury." (The emphasis is mine.) I apprehend that the requirement that the fault should have "substantially contributed to" or as Lord Watson would have it "materially contributed to" the injury, is meant to cover cases of contributory negligence. It \[p.334\] follows therefore from these authorities, that as the plaintiff has failed to connect the negligence alleged in paragraph (8) with the injury she suffered the particularised negligence has not been proved to be either the cause or the substantial cause of the injury.
+
+__paragraph__
+Although she has failed to prove that the particularised negligence caused the gangrene this is by no means the end of the matter. In Nelson v. Klutse (supra), the full bench of the Court of Appeal had also to contend (in their review of the decision of the erstwhile Supreme Court) with the case of a plaintiff who had failed to prove the particulars of negligence set down in the pleadings but who had nevertheless proved facts which raise a prima facie case of negligence for the defendant to answer. The failure to substantiate the particulars pleaded was held not to be fatal to the claim if the other facts proved raise a presumption of negligence. Amissah J.A. delivering the unanimous decision of the full bench reversing the contrary view of the Supreme Court said:
+
+__paragraph__
+"The view taken by the majority of the Supreme Court was that the applicant had to establish these allegations especially as particularised and that having failed to do so, the defendants were entitled to judgment. While not disputing this statement as a general principle, it appears to us that in certain respects the approach of the majority to the problem was faulty. They seem to have taken the view that the itemisation of the particulars of negligence meant that the applicant claimed to know exactly how the accident occurred and that this claim was incompatible with reliance on the doctrine of res ipsa loquitur."
+
+__paragraph__
+And it was held by the full bench of the court that although the particulars have not been proved, nevertheless, the plaintiff was entitled to rely on the other facts proved to found her claim. On these facts, since they establish a prima facie case of negligence, she was held entitled to recover unless the defendant rebutted the presumption.
+
+__paragraph__
+In the case before me, I think I can as a matter of common sense take judicial notice of the fact that persons who go to hospitals with stomach ailment do not end up with their arms amputated. It is not part of the treatment. Indeed even a very cursory examination of the evidence of the plaintiff shows clearly that at least something must have gone wrong in the hospital and that that something must be in the peculiar knowledge of the defendant's servants. The circumstance further shows that prima facie that something which went wrong ought not to have gone wrong if those in charge of the plaintiff had not been at some fault of a sort, for prima facie there ought not to be any reason why stomach pains should end up in amputation.
+
+__paragraph__
+In my view the facts of this case therefore raise a typical case of res ipsa loquitur and so at the close of the case for the plaintiff the legal position as I conceive it is that an onus was cast on the defendant of showing that the gas gangrene developed and the amputation therefore became necessary through no fault of the doctors and nurses or those persons who took charge of the plaintiff. This view of the law finds \[p.335\] considerable support in a highly illuminating and authoritative exposition in the decision on review of the full bench of the Court of Appeal in in Nelson v. Klutse (supra).In that case Amissah J.A. (reading the unanimous judgment of the court) made reference to the judgment of Evatt J. in the Australian case of Davis v. Bunn (1956) 56 C.L.R. 246 and then set out in simple language to indicate in a most lucid and in his usually able manner the scope and operation of the doctrine of res ipsa loquitur. He explained carefully:
+
+__paragraph__
+"According to our understanding of the doctrine it applies whenever it can be said at a given point of a trial that the res or circumstances proved by the plaintiff are of themselves sufficient evidence from which negligence may reasonably be inferred. And the first decisive point of the trial is the close of the plaintiff's case. For if the doctrine can then be invoked by him, he is enabled to avoid a non-suit or his action being dismissed on the ground that he had not discharged the onus which lay on him ... In effect what this boils down to is that in every case of negligence it is for the plaintiff to plead and prove facts from which the negligence of the defendant may be inferred by the court. Generally, proof of the act or omission which occasions damage is not by itself sufficient evidence from which the inference of negligence can be drawn. For the mere fact that damage results from an act does not make the act a negligent act. The facts and circumstances which make each particular act or omission negligent must be proved. And the onus of doing so rests with the plaintiff. But there are cases where the proof of the act itself, let us say an accident, is sufficient to raise the inference of negligence because acts or omissions of that nature do not in the ordinary course of things occur without the negligence of the person responsible for them happening. These are the cases where it is said that the res speaks for itself. Where proof is given by the plaintiff of such an accident by itself and no more, the court is entitled to infer negligence unless there is an explanation from the defendant as to how it occurred which is consistent with the defendant not being negligent. Upon the explanation being given, the court is put in the position where it has all the facts before it and its conclusion as to negligence vel non would be drawn from an assessment of all the material before it."
+
+__paragraph__
+This clear and unimpeachable statement of the legal position is supported by the later English case of Bennett v. Chemical Construction (GB) Ltd. already referred to. Coming as it does from the full bench of the Court of Appeal, it is "for the moment the last word on this aspect of res ipsa loquitur" in Ghana to borrow the words of Francois J. (as he then was) in Agogro v. Ago \[1973\] 1 G.L.R. 45 at p. 52. The Bennett case above and the statement of Amissah J.A. above indicate or give a guideline as to the proper approach of trial courts to the question of the burden of proof in res ipsa loquitur cases and the proper assessment of the material offered in evidence by the plaintiff and the defendant. That \[p.336\] being so it is necessary to examine the case of the defendant to see what answer was offered, for, as I have already indicated, in my finding at the end of the case for the plaintiff, the evidence which I accept established a prima facie case of negligence against the defendant. The case in fact as I have already said is a typical res ipsa loquitur case and in accordance with Amissah J.A.'s guideline in Nelson v. Klutse (supra) I propose to examine the material evidence led by the defendant in purported rebuttal.
+
+__paragraph__
+The defendant called only three witnesses: the surgeon, Dr. Poku, who did the operation, the surgical specialist, Dr. Lahiri, who amputated the plaintiff's arm and the pathologist, Dr. Marbell, who examined the amputated arm. As I have already pointed out, none of the nurses said to be in attendance at the relevant time was called. The surgeon's evidence was that when the plaintiff was referred to him he found that she had a bulky uterus and on examination he diagnosed a case of ruptured ectopic gestation which in simple language means that she was pregnant but the pregnancy did not occur in the right place; the result was that the pregnancy had burst causing a rupture of the tube in which the foetus was lying. He gave instructions to the nursing staff that she be blood-grouped and cross-matched for two pints of blood. On account of her condition, he instructed further that resuscitating measures be started at once by giving her drips. He said drips are normally given by the doctors-in-charge, but in this country because of shortage of doctors, the nursing staff are trained to do it if the doctor-in-charge is unable, due to pressure of work, to do it himself. In the instant case he was hard pressed since he had another patient lying on the theatre table ready for an operation.
+
+__paragraph__
+I must remark at this stage that since the particular nurses were not called, no evidence was led to show that they had in fact undergone the necessary training qualifying them to give the drips in the place of the doctor. According to the further evidence of the doctor, he gave further instructions to the nurses to prepare the plaintiff for laparotomy, that is, the opening up of the abdominal cavity and to bring the plaintiff to the theatre when the preparations and all his instructions have been carried out. This was done and when the plaintiff was brought to the theatre he found that the drip had been set in accordance with his instructions and it was running well. The drip given was five per cent dextrose in normal saline and it was given as is normal in such cases into a vein in her right arm. At the theatre the plaintiff had anaesthesia and he opened up her abdominal cavity and found therein about two to three pints of blood which had accumulated there due to the ruptured tub . He said he cut off the ruptured tube and sutured it. He then scooped the blood and used it to replace the dextrose saline. The operation was successful and he had her returned to the ward with the blood drip on. This was on Saturday, 6 May 1967, the same day she was referred to the hospital. On the next day following the operation, he found that her condition was not improving and since she had finished taking the blood drip, he instructed that she should be put on the dextrose drip again and this was done. On 8 May 1967, he found that the condition of the plaintiff \[p.337\] had improved and so he instructed that the drip should be discontinued and it was accordingly discontinued. On 9 May 1967, he found that her right arm was swollen and cold and he could not feel her radial pulse. On account of this, he asked the surgical specialist, the defendant's second witness, for an opinion. On examining the plaintiff the surgical specialist Dr. Lahiri diagnosed a case of gas gangrene and advised amputation to save the plaintiff's life. This was accordingly done on 10 May 1967. This is virtually his evidence-in-chief. I shall later on deal with his admissions in cross-examination which are germane to the question of negligence vel non. Dr. Lahiri corroborated the evidence relating to the reference for his opinion and since the relevant portion of his evidence was accepted by all parties I set it hereunder:
+
+__paragraph__
+"The plaintiff clearly had gas gangrene and the organism responsible for this must come from outside into the body. Gas gangrene is caused by anaerobic organisms called clostridium welshii, clostridium oedemateans and clostridium septigue. These are the three main bacteria which are responsible for causing gas gangrene. In the case of the plaintiff, in the absence of any other lacerated wound on the arm, it is my opinion that the bacteria got into the body by the possible route of entry, namely, through the needle for the drip set. If the needle is sterilized then it is not possible for the bacteria to get in through the needle but of course if the drip itself is contaminated or its container is contaminated, then although the needle is sterilized the bacteria may nevertheless get into the body."
+
+__paragraph__
+The pathologist, Dr. Marbell, who was called as the third and last witness for the defendant, corroborated Dr. Lahiri's evidence. He explained further that because gas gangrene is caused by anaerobic organisms which grow without air, if there is a scratch or wound on the skin and these organisms settle there, it is not likely that they will cause gas gangrene. In order to cause gas gangrene they must be deep in the body tissue where they will have no oxygen. He said the blood normally contains a lot of oxygen and so the gas gangrene causing bacteria will normally not be able to establish in the blood stream. Indeed in a healthy person according to his evidence, oxygen is supplied to all parts of the body and so even if the gas gangrene causing bacteria is introduced into healthy tissue, gas gangrene will not normally develop unless the tissues are dead and they may be dead if in the process of introducing the bacteria, the tissues are damaged. He said that the needle used for blood and dextrose transfusion can cause damage to the tissues at its path and he gave his opinion as to the cause of the gas gangrene in this case:
+
+__paragraph__
+"In my opinion, I think the infection started from a puncture in the arm at which the organisms settled and when conditions were ripe they began to multiply and establish themselves."
+
+__paragraph__
+And he added,"If the needle is properly sterilized no bacteria can survive." Dr. Lahiri and Dr. Marbell to be satisfactory witnesses anxious to tell the truth and to help the court to come to a just decision. Not so \[p.338\] with the surgeon, Dr. Poku. His evidence which is completely contradicted by the medical evidence of the two very experienced senior doctors, Dr. Marbell and Dr. Lahiri, would seem to be that the plaintiff's arm became swollen and gangrenous because of thrombosis of the vein. Under cross-examination as to how the gas gangrene was caused, he said he suspected that thrombosis of the vessels set in first thus creating an anaerobic condition and consequently the setting in of the gas gangrene. When asked how the bacteria could have got into the body he replied, "This is the mystery."
+
+__paragraph__
+It seems to me from the totality of the evidence that I must reject the suggestion of Dr. Poku, a medical man, that the bacteria got into the body of the plaintiff in a mysterious way. As a court of law and a tribunal dealing with facts, I am afraid, I must have no truck with the mysterious. The medical evidence adduced by the defendant shows in my view very clearly that there was nothing mysterious about how the bacteria entered the arm of the plaintiff.
+
+__paragraph__
+From the totality of the medical evidence one can reasonably reconstruct the probable causes of the gas gangrene like a logical syllogism: In this connection it must be remembered that the only openings in the plaintiff's arm were the four puncture marks of the needle inserted into her arm by the defendant's servants when they gave her the drips intravenously. As Dr. Marbell pointed out, in the process of inserting the needle into the arm, some damage was necessarily done to the tissues. Now the medical evidence is that the bacteria is foreign to the body and must come from outside. It can only thrive in anaerobic conditions very deep in the body tissue. Since the tissues had been damaged by the needle, if care was not taken to revive them, they would die. Such dead tissues would have no oxygen and since they would be deep in the body with no oxygen the anaerobic condition would be created. If the needle was then contaminated the bacteria could settle and cause gas gangrene. On the other hand, if the needle were not contaminated but the apparatus, that is, the drip container were contaminated, then if the flow into the blood stream was not impeded there would be no gas gangrene since there would be sufficient oxygen in the blood stream and there would be no anaerobic condition in the blood stream; but if the blood or the dextrose did not flow into the blood stream but rather went into the dead tissue as the plaintiff alleged, then the bacteria could also settle down and cause gas gangrene. As the expert evidence of Dr. Lahiri and Dr. Marbell shows, if the apparatus, that is, the container of the drip and the needle were sterilized, it would be impossible for gas gangrene to develop unless the dextrose drip or the blood given were also contaminated.
+
+__paragraph__
+The above analysis shows the various alternative ways through which the bacteria in this case could have got into the body and in all the contingencies, they could only get into the body if the servants of the defendant, namely, the nurses or those who had the care and custody of the infusion apparatus, the needle, the dextrose and the blood drip were prima facie guilty of negligence, and it is significant none of these persons were \[p.339\] called. The surgeon, Dr. Poku, merely gave instructions to the nurses and presumably took it for granted that as they were probably trained nurses, they would carry out their duties without negligence. These nurses, as I have said, were not called so that they could be examined and cross-examined as to the nature of their training and the manner in which they carried out their instructions.
+
+__paragraph__
+This brings me at once to the question of the nature of the duty which hospital authorities, be they government or private and their professional staff, namely, the doctors and particularly the nurses and other servants, owe to patients who call for treatment or are admitted for treatment in their hospitals. This is the first time I believe the problem has come to the courts in contentious litigation in this country. The matter was considered at length in England in Gold v. Essex County Council \[1942\] 2 K.B. 293, C.A. In that case counsel for the plaintiff, Denning K.C. (now Lord Dening M.R.) drew the Court of Appeal's attention to host of authorities and as the headnote at p. 293 shows, the court held that:
+
+__paragraph__
+"A local authority carrying on a public hospital owes to a patient the duty to nurse and treat him properly, and is liable for the negligence of its servants even though the negligence arises while a servant is engaged on work which involves the exercise of professional skill on his part. Where, therefore, a patient being treated in such a hospital was injured by the negligence of a competent radiographer, who was a whole-time employee of the hospital, the local authority was liable for his negligence."
+
+__paragraph__
+In discussing the duty of such defendant hospitals, Goddard L.J. (as he then was) remarked in this case at p. 309 as follows:
+
+__paragraph__
+"Their duty would seem to be to maintain and treat the sick in their hospital, and that appears to me to oblige the defendants, not merely to provide a nurse and treatment, but to provide nursing, which they do and can only do by their servants. If there is negligent nursing I can see no ground on which they can say that they have discharged the duty cast on them."
+
+__paragraph__
+And in discussing the liability of such hospitals he continued at pp. 312-313 as follows:
+
+__paragraph__
+"I cannot understand on what principle a hospital authority is to be exempt from liability if a nurse carelessly administers a dose of poison to a patient instead of medicine, and yet is liable if the cook mixes some deleterious substance in the patient's food. Hospital managers, be they local authorities or governors of voluntary institutions, nowadays have in their service many specialists-solicitors, accountants, engineers, electricians and the like. I can see no sound reason why they should be responsible for the acts of these servants and not for those of nurses who are equally in their service."
+
+__paragraph__
+The position in which the plaintiff finds herself in this case is not new to the law in other jurisdictions which have had a common law foundation \[p.340\] and had been influenced by the reasoning of Pollock C.B. in Byrne v. Boadle (1863) 2 H. & C. 722 and Earle C.J. in Scott v. London and St. Katharine Docks Co. (1865) 3 H. & C. 596.
+
+__paragraph__
+In the Supreme Court of California in 1944, Gibson C.J. dealt with a similar case. In Ybarra v. Spangard 25 Cal. 2d 486 (1944), the plaintiff was referred to a hospital after the physician had diagnosed appendicitis and arrangements were made as they were in this case for an operation. The surgeon performed appendectomy and in the process the plaintiff was given a hypodermic injection and was put under anaesthesia. Prior to the operation he had never had any pain in or injury to his right arm or shoulder but later he found, he could not rotate or lift his arm, and he developed paralysis and atrophy of the muscles around the shoulder. In rejecting the position taken by the defendants that assuming that the plaintiff's condition was in fact the result of an injury, there is no showing that the act of any particular defendant nor any particular instrumentality was the cause thereof, Gibson C.J. applied the doctrine of res ipsa loquitur to found liability. He said (as quoted in Prosser and Smith Cases and Materials on Torts (3rd ed.), pp. 277-278) that:
+
+__paragraph__
+"The present case is of a type which comes within the reason and spirit of the doctrine more fully perhaps than any other. The passenger sitting awake in a railroad car at the time of a collision, the pedestrian walking along the street and struck by a falling object or the debris of an explosion, are surely not more entitled to an explanation than the unconscious patient on the operating table. Viewed from this aspect, it is difficult to see how the doctrine can, with any justification, be so restricted in its statement as to become inapplicable to a patient who submits himself to the care and custody of doctors and nurses, is rendered unconscious, and receives some injury from instrumentalities used in his treatment. Without the aid of the doctrine a patient who received permanent injuries of a serious character, obviously the result of someone's negligence, would be entirely unable to recover unless the doctors and nurses in attendance voluntarily chose to disclose the identity of the negligent person and the facts establishing liability ... If this were the state of the law of negligence, the courts, to avoid gross injustice, would be forced to invoke the principles of absolute liability, irrespective of negligence, in actions by persons suffering injuries during the course of treatment under anaesthesia. But we think this juncture has not yet been reached, and that the doctrine of res ipsa loquitur is properly applicable to the case before us."
+
+__paragraph__
+There is one further matter of extreme importance in this case. It is that no evidence of any sort was led by the defendant as to whether the needle used and the apparatus were sterilized. Evidence was not led that the dextrose drip and the blood given were not contaminated. Moreover the plaintiff led evidence to prove that the servant and accredited representative of the Republic, who was the senior medical officer in charge, Dr. Armar (who should know what he was talking about) admitted that \[p.341\] the hospital had made a mistake and yet no evidence was led to contradict this damaging piece of evidence, although there was no evidence that the named officer was not available.
+
+__paragraph__
+In the result, it seems to me and I find as a fact that the defendant has not discharged the onus indicated in Nelson v. Klutse (supra) of showing that the injury which the plaintiff suffered in the hands of his servants happened through no fault of the said servants. In fact when the medical evidence was led the plaintiff sought leave to amend the statement of claim by adding paragraph 8 (c) as follows, "The defendant failed to use clean or proper apparatus for the blood transfusion."
+
+__paragraph__
+I do not think this amendment is of any use to the plaintiff for no evidence whatsoever was led either by the plaintiff or the defendant to show that the apparatus was not clean or that it was not proper. The defendant also, without admitting liability, on hearing the medical evidence, sought an adjournment to endeavour to effect a settlement. The attempt at settlement failed and as counsel for both parties indicated to this court the failure was not because of the issue of negligence vel non, it was because the parties were not able to agree on the quantum of damages. As I have already indicated, on the material before me and guided by the principle in our leading case of Nelson v. Klutse (supra), I entertain no doubt whatsoever that the burden of proof which shifted to the defendant at the close of the plaintiff's case has not been discharged. I find therefore that the defendant who had a duty of care towards the plaintiff was, by his servants, negligent in the discharge of that duty and as a result the plaintiff developed gas gangrene and suffered the loss of her arm. I find the defendant liable in damages for the loss caused on the principle of respondeat superior.
+
+__paragraph__
+This conclusion is amply supported by the case of Cassidy v. Ministry of Health \[1951\] 1 All E.R. 574, C.A. In that case a man in the position of the plaintiff, who was referred to a hospital to be cured of two stiff fingers, came out with four stiff fingers after the operation. Denning L.J. (as he then was) observed at p. 588 as follows:
+
+__paragraph__
+"The hospital authorities accepted the plaintiff as a patient for treatment and it was their duty to treat him with reasonable care. They selected, employed, and paid all the surgeons and nurses who looked after him. He had no say in their selection at all. If those surgeons and nurses did not treat him with proper care and skill, then the hospital authorities must answer for it, for it means that they themselves did not perform their duty to him."
+
+__paragraph__
+Holding that the case like the present case raised an issue of res ipsa loquitur and that the hospital authorities had not discharged the onus on them he held at the same page that, "They have not, therefore displaced the prima facie case against them and are liable in damages to the plaintiff."
+
+__paragraph__
+I now come to a rather difficult problem. It is the question of damages. Apart from the comparatively easy matter of the special damages comprising the expenses reasonably incurred by the plaintiff as a result of the injury from the date of the injury to the date of trial, I have also to consider \[p.342\] in essence two related factors: The first is her incapacity to earn in the future what she once earned in her profession and the second is the actual physical loss of her right arm, what is often referred to in the books as personal loss, with its attendant pain and suffering and perhaps expenses and consequent and inevitable loss of some of the amenities of life. These factors have long been recognised in the assessment of damages in personal injury claims, and were stated long ago by Cockburn C.J. in one of the early English cases Fair v. London and North Western Railway Co. (1869) 21 L.T. 326 at p. 329 as follows:
+
+__paragraph__
+"in assessing ... compensation the jury should take into account two things; first the pecuniary loss he sustains by the accident; secondly, the injury he sustains in his person, or his physical capacity of enjoying life. When they come to the consideration of the pecuniary loss, they have to take into account not only his present loss, but his incapacity to earn a future improved income."
+
+__paragraph__
+And I should add his liability to incur future expenses. Ten years later in Phillips v. South Western Railway Co. (1879) 4 Q.B.D. 406 at pp. 407-408 he elaborated on these factors. In British Transport Commission v. Gourley \[1955\] 3 All E.R. 796 at p. 804, H.L. Lord Goddard C.J. stated the modern practice in assessing damages thus:
+
+__paragraph__
+"In an action for personal injuries, the damages are always divided into two main parts. First, there is what is referred to as special damage which has to be specially pleaded and proved. This consists of out of pocket expenses and loss of earnings incurred down to the date of trial, and is generally capable of substantially exact calculation. Secondly, there is general damage which the law implies and which is not specially pleaded. This includes compensations for pain and suffering and the like and, if the injuries suffered are such as to lead to continuing or permanent disability, compensation for loss of earning power in the future. The basic principle, as far as loss of earnings and out of pocket expenses are concerned, is that the injured person should be placed in the same financial position so far as can be done by an award of money as he would have been had the accident not happened ..."
+
+__paragraph__
+In the Fibre-Bag case (supra) cited with approval in Dagomba v. Dagomba, Court of Appeal, 27 January 1969, unreported; digested in (1969) C.C.48, Azu Crabbe J.A. (as he then was) subjected many of the English authorities to close scrutiny and accepted the classification of the various heads of damage eligible for compensation contained in the dissenting opinion of Lord Devlin in H. West & Son Ltd. v. Shephard \[1963\] 2 All E.R. 625 at p. 636, H.L. There Lord Pearce read the opinion of Lord Devlin, drawing attention to the following heads:
+
+__paragraph__
+(1) "... compensation for medical expenses incurred and for loss of earnings during recovery; these are easily quantified, whether as special or general damage . . ."
+
+__paragraph__
+\[p.343\]
+
+__paragraph__
+(2) ". compensation for pain and suffering both physical and mental. This is at large .."
+
+__paragraph__
+(3) "\[compensation for\] a temporary or permanent loss of a limb, organ or faculty. Whether it is the limb itself that is lost or the use of it is immaterial. What is to be compensated for is the loss of use and the deprivation thereby occasioned. This deprivation may bring with it three consequences. First, it may result in loss of earnings and they can be calculated. Secondly, it may put the victim to expense in that he has to pay others for doing what he formerly did for himself; and that also can be calculated. Thirdly, it produces loss of enjoyment, loss of amenities as it is sometimes called, a diminution in the full pleasure of living. This is incalculable and at large."
+
+__paragraph__
+There is a fourth sub-head referred to in the books as "loss of expectation of life." That head is not applicable here.
+
+__paragraph__
+I now propose to assess the damages under these heads. The plaintiff was nineteen years of age at the date of the amputation. She stayed in the hospital for three months and one day. Before the injury she was a housewife and a seamstress. She had two children aged two and a half years and seven months respectively at the date of the injury. She used to wash her own clothes and those of her children and cook for her family. She was a right-handed person and did her normal household chores. Since the amputation she has been unable to sew or perform her household duties or attend her children. Her husband engaged a maidservant for her as she cannot now perform most of her household duties and she had been paying the maid �3.00 a month since her discharge from the hospital. She is now unable to pursue her calling as a seamstress because she is unable successfully to use only one hand for the purpose. Before the amputation she earned between �30.00 and �40.00 a month. In the course of the trial her customary law husband divorced her because he found it repulsive to sleep with a wife having only one arm.
+
+__paragraph__
+In her pleadings, she only claimed loss of earnings at the rate of �30.00 a month for eleven months, i.e. �330.00. She did not claim the �3.00 a month which she has been paying, after the injury, to the maidservant and which she started paying since her discharge from hospital nor did she claim the �30.00 a month up to the date of trial. As Lord Goddard, already quoted, said in the Gourley case (supra) special damage has to be specially pleaded and proved. In lkiw v. Samuels \[1963\] 2 All E.R. 879, C.A. the plaintiff suffered injury in 1958 but his case came for trial in 1963. He claimed four months wages as special damage in his statement of claim and this was agreed to by the parties as �77. Evidence, however, was led of loss of earnings before trial at �200 per annum. In awarding general damages, Phillimore J., the trial judge, took account of the yearly loss of earnings between the accident and the trial. The Court of Appeal held that he should not have done that and the award was reduced. Diplock L. J. at the Court of Appeal stated the legal position at p. 890 as follows:
+
+__paragraph__
+\[p.344\]
+
+__paragraph__
+"As regards the question of damages, I would put it in this way. Special damage in the sense of monetary loss which the plaintiff has sustained up to the date of trial must be pleaded and particularised. In this case special damages were so pleaded and particularised in the sum of �77 odd ... In my view, it is plain law-so plain that there appears to be no direct authority, because everyone has accepted it as being the law for the last hundred years--that one can recover in an action only special damage which has been pleaded, and, of course, proved. In the present case, evidence was called at the trial the effect of which was that the plaintiff had sustained special damage of a very much larger sum ... This was not pleaded ... The evidence about the loss of earnings in excess of �77 was admissible, not as proof of special damage ... but as a guide to what the future loss of earnings of the plaintiff might be."
+
+__paragraph__
+In the result, for special damage, I must, because of the principle of this case, ignore the amount in excess of the eleven months claim and the expenditure on the maidservant; and I will therefore award as special damage under Lord Devlin's head (1) in the Shephard case (supra), the �330.00 which was pleaded and proved. I must say though that I find the rule odious to apply and like Phillimore J. in Ilkiw v. Samuels (supra), I would have taken account of the full claim and ignored the fact that the claim for special damage was not pleaded. In my view where evidence has been led as in this case to demonstrate beyond peradventure that a plaintiff has legitimately incurred reasonable and necessary expenditure, any judge-made rule not founded on statute that deprives him of this amount which he is otherwise entitled to must be viewed with dismay. Of course I quite appreciate the plausible reason for the rule. The defendant must have an opportunity of knowing the precise figure which it is claimed had been lost so that he can prepare to meet it. This certainly can be done by granting him in adjournment. If this is the apparent reason for the rule then it has little to commend it since the plaintiff can by amending his pleadings render himself entitled to the claim. Another reason probably is that pleading the actual loss will aid speedy trial. This second reason is equally not impressive for in my view any system of jurisprudence which gives priority to expedition at the expense of justice is not useful to the society it is meant to serve.
+
+__paragraph__
+Pleadings are generally meant to be servants not masters of the judicial process. Such bewilderingly technical notions of law inherent in such clearly judge-made rules cannot but bring the law into disrepute. They elevate form to the status of substance reminiscent of Maitland's forms of action. They visit the sins of the practitioners on the poor plaintiff and in a country like ours with a predominantly illiterate population ignorant of the legal process, the populace cannot have respect for a legal system that insists that expenditure legitimately and properly incurred should not be paid because of an apparent omission in the pleadings caused by a lawyer's incompetence or inadvertence.
+
+__paragraph__
+\[p.345\]
+
+__paragraph__
+The rule being undoubtedly English in origin and consequently merely of persuasive authority would not have bound me and because I am not impressed by the apparent reasons behind it I would have rejected it; unfortunately in Jima Lagos v. A. Lang Ltd., Court of Appeal, 27 July 1973, unreported, our Court of Appeal accepted the principle of the decision of Ilkiw v. Samuels (supra) without any question or comment. In that case, the plaintiff obtained judgment in the High Court, Kumasi, against the defendant. He was awarded �5,000.00 damages for injuries he sustained in an accident as a result of the negligence of the defendant. The sum was apportioned as follows:
+
+__paragraph__
+(1) �1,000.00 total loss of earnings between the time of the accident and the coming into force of the Ghanaian Business Promotion Act, 1970 (Act 334), when the plaintiff being an alien was expected to stop work;
+
+__paragraph__
+(2) �1,000.00 for pain and suffering; and
+
+__paragraph__
+(3) �3,000.00 for loss of amenities.
+
+__paragraph__
+The plaintiff did not plead the �1,000.00 loss of earnings as special damage and Sowah J.A. delivering the unanimous judgment of the Court of Appeal said after quoting Ilkiw v. Samuels (supra) that, "The plaintiff had not claimed nor pleaded special damage there was therefore no basis for the award of �1,000.00 . . . " The �1,000.00 awarded by the trial judge was therefore disallowed. Since this decision of our Court of Appeal in Jima Lagos v. A. Lang Ltd. binds me, I have with regret applied the rule. I have done so with reluctance because my sense of justice is scandalised and furthermore but for the decision of the Court of Appeal, I would have thought there was no legal foundation for the rule in Ghana.
+
+__paragraph__
+The reason is simple. Until 21 August 1954, when the present High Court (Civil Procedure) Rules, 1954, were introduced into Ghana, the trial of cases did not as a rule involve pleadings. They were then regulated by the rules contained in the Second Schedule to the Courts Ordinance., Cap. 4 (1951 Rev.), being the rules which apply even now to proceedings in the district courts. As Diplock L.J. pointed out in Ilkiw v, Samuels (supra) "there appears to be no direct authority" for the English rule "because everyone has accepted it as being the law for the last hundred years. "Since it is not a creature of statute it must be the child of the common law. Clearly during the time the rule was being applied in England before 21 August 1954, it could not have been extended to Ghana under any rule of law because we just did not as a general rule operate on pleadings. Although as from 24 July 1874, the common law, the doctrines of equity and the statutes of general application, which were in force in England came into force in this country by virtue of section 83 of the Courts Ordinance, Cap. 4 (1951 Rev.), now repealed, it is clear to me that this rule could not possibly be part of the common law made applicable because as from 24 July 1874 to 21 August 1954 it was not feasible to apply it and in view of that one could safely say that it was not part of our law. If it became law in Ghana then it must have come into existence \[p.346\] at a date after 21 August 1954. I have searched hard, but I have not discovered its birthday. However in view of the doctrine of judicial precedent I have applied it and I will accordingly limit the special damage as I have already said to the amount pleaded and proved, namely, �330.00.
+
+__paragraph__
+I now come to Lord Devlin's head (2), i.e. "pain and suffering both physical and mental." These and two of the sub-heads of Lord Devlin's head (3) are what have been called the non-pecuniary loss. They are at large and in my view are probably the root cause of the difficulties which countless of generations of common law judges have expressed culminating in this typical expression in the judgment of Azu Crabbe J.A. (as he then was) in the Fibre-Bag case (supra):
+
+__paragraph__
+"The task of awarding monetary compensation for personal injuries is a difficult one, and it is essentially a matter of opinion. But I think it is desirable that some endeavour should be made to secure uniformity in assessment of damages when considering claims in actions for personal injuries."
+
+__paragraph__
+In 1951 Birkett L.J. formulated for the first time a guiding principle, (having regard to comparable cases in assessment of damages) which had for many years been feeling its way into the law. In Bird v. Cocking & Sons., Ltd. \[1951\] 2 T.L.R. 1260, C.A. he said:
+
+__paragraph__
+"Although there is no fixed and unalterable standard, the courts have been making these assessments for many years, and I think that they do form some guide to the kind of figure which is appropriate. . . when, therefore, a particular matter comes for review, one of the questions is, how does this accord with the general run of assessments made over the years in comparable cases."
+
+__paragraph__
+Two years later he reiterated it in Rushton v. National Coal Board \[1953\] 1 All E.R. 314 at p. 317, C.A. and in Waldon v. War Office \[1956\] 1 All E.R. 108, C.A., Singleton L.J. expressed similar views. The principle was accepted in 1964 by the House of Lords in H. West & Son, Ltd. v. Shephard (supra) and the view of the House of Lords on the matter was also accepted by our Court of Appeal in 1967 in the Fibre-Bag case (supra). In that case Azu Crabbe J.A. (as he then was) said:
+
+__paragraph__
+"It is also desirable that \`so far as possible comparable injuries should be compensated by comparable awards': per Lord Morris in H. West & Son, Ltd. v. Shephard \[1963\] 2 All E.R. 625 at p. 631, H.L."
+
+__paragraph__
+Proceeding under the above advice of Lord Morris of Borth-y-Gest in the Shephard case (supra), sponsored by Azu Crabbe J.A. as he then was, I have looked at a number of awards in Kemp and Kemp. The Quantum of Damages (2nd ed.), Vol. 1 at pp. 445-467, Munkman, Damages for Personal Injuries and Death (5th ed.) at pp. 237-246 and 1971-74, Current Law but I have been particularly assisted by the chapter on recent awards appearing now in the Review of Ghana Law from 1972 onwards. In looking \[p.347\] at these awards, I am not unmindful of the fact that inflation had played havoc with the Ghana economy and that the cedi in say 1967 is certainly worth more in terms of its purchasing power than the cedi in 1975. Moreover the English cases based as they must be on England's economic conditions and norms must necessarily be less useful than the Ghanaian cases, for, as Lord Morris of Borth-y-Gest reading the opinion of the Judicial Committee of the Privy Council observed in Singh v. Toong Fong Omnibus Co., Ltd. \[1964\] 3 All E.R. 925 at p. 927:
+
+__paragraph__
+"to the extent to which regard should be had to the range of awards in other cases which are comparable, such cases should as a rule be those which have been determined in the same jurisdiction or in a neighbouring locality where similar social, economic and industrial conditions exist."
+
+__paragraph__
+In glancing through case after case, I think without being emotional, I must nevertheless remember the poignant query posed by Lord Dunedin in Admiralty Commissioners v. S.S. Valeria \[1922\] 2 A.C. 242 at p. 248, H.L., "If by somebody's fault I lose my leg and am paid damages, can anyone in his senses say I have had restitutio in integrum?" Nevertheless, I apprehend I must make the attempt to restore the status quo as far as that can be done by payment of money. Furthermore I do realise that the mechanical perusal of a host of authorities can be dangerous. As Sachs L.J. rightly warned in Jones v. Griffith \[1969\] 2 All E.R. 1015 at p. 1017, C.A.:
+
+__paragraph__
+"As to the decisions cited one must be careful not to do more than look on them as showing a trend of figures of damage and as examples of figures within the correct brackets on the particular facts of the individual cases. One must remember too that of those facts sometimes only a proportion can be found even in a full report, and certainly that is often the position in abbreviated report."
+
+__paragraph__
+I regret that many of the cases I perused gave merely global figures not divided into the conventional heads to enable me to identify the trends they are meant to illustrate. Whatever merit there may be in this approach, in my view, it is to be deprecated. In this connection I do not propose to lose sight of the observations of Goddard L.J. in The Testbank \[1942\] P. 75, C.A. where he said at p. 80 that, "It is, no doubt, true that one cannot apportion blame with anything approaching mathematical accuracy." But surely lumping personal and pecuniary losses together is certainly slovenly, for it cannot be a neat method of dealing with two sets of quantities one of which is amenable to some form of mathematical calculation while the other is not. The method has the tendency of disguising the arithmetical foundation of the computable quantity and it enables a mistake to be absorbed by the quantity that is at large.
+
+__paragraph__
+I am aware that this practice is followed by some judges in England, but a practice ought not to be acceptable to an independent bench like \[p.348\] ours merely because English judges follow it particularly if they provide no sound reasons for indulging in it and where on the contrary there are good reasons for rejecting it.
+
+__paragraph__
+The plaintiff in this case was nineteen years old at the time of the injury. She was then married under customary law. She had her right arm amputated a few inches above the elbow and she was hospitalized for three months and one day. Before the amputation she had developed gas gangrene. It is not certain the precise time when gas gangrene set in, the observation of the husband shows that for about three or four days she was in extreme pain. Her hand had gone black including her palm and was swollen and exuding a bad odour and she was groaning.
+
+__paragraph__
+In Dzamafe v. Tema Textiles Co., Ltd., High Court, Kumasi, 4 June 1971, unreported; digested in (1972) 4 R.G.L. 63, a male factory cleaner aged 24 had his right index and middle finger crushed at work leaving only a stump of the index finger and phalanx of the middle finger. He was hospitalized for two months. Mensa Boison J. awarded him �9,000.00 general damages (made up of �2,000.00 for pain and suffering; �6,000.00 for loss of earnings and �1,000.00 for loss of amenities.) In Okyere v. Twum, High Court, Cape Coast, 26 June 1972, unreported digested in (1972) 4 R.G.L. 213, a male canoe builder aged 24 whose right hand was rendered useless was awarded damages by Edward Wiredu J. as follows: general damages of �10,845.00 (made up of �945 pre trial loss of earnings, �1,500.00 for pain and suffering; �900.00 for loss of amenities, �1,000.00 for handicap in the labour market; �6,500.00 for physical disability.) In Wiafe v. Hornyibey, High Court, Kumasi, 27 June 1972, unreported; digested in (1972) 4 R.G.L. 212, a married female trader aged 37, earning �480.00 per annum, a ballroom dance enthusiast and a keen sportswoman had her right arm amputated. Koranteng-Addow J. awarded her damages as follows: general damages of �10,047.00 (made up of �6,000.00 loss of earnings at fifteen years' purchase scaled down, �3,000.00 for pain and suffering, loss of amenities and wages of servants to do domestic work.) In Amfo v. Twum, High Court, Cape Coast, 26 June 1972, unreported; digested in (1972) 4 R.G.L. 212, a farmer aged 30, earning �720.00 per annum had a right upper brachial plexus traction injury rendering the right upper arm useless. Edward Wiredu J. awarded her general damages of �9,140,00 made up of �2,750.00 for pain and suffering, �1,000.00 for loss of amenities, �840.00 for pre-trial loss of income, �4,550.00 for physical disability. In Gonja v. Anang, High Court, Accra, 18 May 1973, unreported; digested in (1973) 5 R.G.L. 121, a male yam farmer aged 49 years, had a double fracture of his right forearm; he developed arthritis of the wrist joint and pains in the elbow. His permanent disability however was twenty per cent and Sarkodee J. awarded him �4,000.00 general damages (made up of �1,000.00 for pain and suffering, �3,000.00 for loss of earnings and �400.00 for loss of amenities.).
+
+__paragraph__
+All these cases are decisions of the High Court digested in the Review of Ghana Law. I have looked at them carefully in an effort to glean the trends. In the Fibre-Bag case already referred to herein the award of \[p.349\] �700.00 for pain and suffering by Annan J. (as he then was); was approved by the Court of Appeal. In that case the claimant, a male of 21 years of age, was unmarried with one child. On 10 May 1964, he had a severe compound fracture (crash injury) of the right hand amounting virtually to traumatic amputation of the right hand above the level of the wrist joint.
+
+__paragraph__
+The injury necessitated surgical amputation of the right hand above the level of the wrist joint. There were lacerated wounds involving the index and the middle fingers of the left hand. The evidence further showed that the claimant's left finger had been permanently deformed, and that this would interfere with his capacity to grip objects or things.
+
+__paragraph__
+Now an analysis of these cases shows that the amounts awarded for pain and suffering in cases of amputation of the right arm oscillate between roughly �1,000.00 and �3,000.00 depending no doubt, on the circumstance of the case and in particular, on the degree of pain suffered and likely to be suffered in the future. Having regard to the circumstances, the period of her hospitalization, the fact that for about 48 hours she was in agony and her evidence that after the amputation, she felt pains in the stump and having regard to the decline in the value of the cedi, I will award �1,500.00 for pain and suffering.
+
+__paragraph__
+With regard to Lord Devlin's head 3 (i) in the Shephard case (supra), I accept the evidence of the plaintiff that she earned a minimum of �30.00 and a maximum of �40.00 per month depending on market conditions. I will therefore strike a mean and take the sum of �35.00 as the average monthly income. This will be �420.00 per annum. I am not unmindful of the fact that the plaintiff had only just set up practice as a seamstress. Surely with experience and the passage of time, she ought to be able to improve on her earnings. At the date of trial she was 22 years old. With modern medical facilities and the systematic improvements in living conditions in this country and considering the hardiness of our women folk, I think she is entitled to look forward to at least 35 years of working life, if not more. I know that, this is subject to various contingencies some advantageous others not, but making all allowances as best I can for all probable and possible contingencies I will choose eighteen years' purchase and award under head 3 (i), �7,560.00. This is quite consistent with the approach of Annan J. (as he then was) in Amponsah v. Boakye, High Court Kumasi, 10 June 1970, unreported. In that case very much like the present case, the plaintiff whose right arm was amputated just below the shoulder was 35 years old and earning �60.00 a month as a seamstress. Annan J. would seem to have given her �7,200.00 for loss of earnings on the terms of ten years' purchase.
+
+__paragraph__
+With regard to Lord Devlin's head 3 (ii), I think the plaintiff is entitled to the services of a maidservant as it is quite clear that she cannot wash her clothes, cook without assistance, effectively look after her children and carry out her normal household and other duties without help. This is a proper head of claim as is exemplified in Cunningham v. Harrison \[1973\] 3 W.L.R. 97, C.A. At the present time she pays the maidservant \[p.350\] �3.00 a month and feeds and clothes her. Having regard to present day trends in costs I will put the salary of the maidservant plus the cost of food and clothing at �20.00 a month. This means she would spend on her �240.00 per annum. I will capitalize this at �3,000.00 because she is to receive it now instead of over the period of her life expectancy.
+
+__paragraph__
+The loss in Lord Devlin's head 3 (iii), loss of amenities, is at large. In the Fibre-Bag case (supra) Annan J. (as he then was) awarded �4,800. 00 under this head but the Court of Appeal reduced it to �2,800.00. Most of the awards under this head oscillate between �1,000.00 and �3,000.00. Although in the Fibre-Bag case, which in my view is not as serious as this case, �2,800.00 was awarded, I do not think the award here should be more than this because in this case unlike most other local cases I have come across, the loss of enjoyment of the pleasures of life which is the basis for this claim, is also somehow to some extent partially ameliorated by the award under head 3 (ii) and I must therefore guard against duplication. I will therefore award only �2,500.00 to be within the bracket indicated by the trend in the cases.
+
+__paragraph__
+There is also a head of claim which is peculiar to the plaintiff. Her husband has now divorced her in view of her deformity. There may be something to be said against a customary system of law that permits divorce on this ground and under such circumstance but that is not a matter germane to the problem I have in hand, suffice it to say that she has lost her marital status and I do not for myself see that her prospects of obtaining a husband are good. This in my view is a legitimate head of claim. In O'Connor v. Cartwright \[1974\] 5 C.L. 81, the female plaintiff was aged seventeen at the date of the accident and 24 at the date of hearing. She was injured in a car accident and she suffered severe brain and other injuries resulting, inter alia, in hormone deficiency and impairment of endocrine function and consequential infertility. She was engaged to be married to her childhood sweetheart before the accident. After the accident the engagement was broken off because of her injuries. Wien J. remarking that her marriage prospects were nil awarded her total general damages of �32,600 and included in this figure was the global sum of �15,000 for pain and loss of amenities including loss of marriage prospects.
+
+__paragraph__
+In Ghana (and I am sure in almost all countries) marriage for a woman does not merely create a status, it brings in its train financial advantages. The husband is obliged to maintain the wife, to look after her in sickness and to be a comfort to her in times of difficulty. He may give her presents on occasions and in some cases make provision for her future. She has lost all these and I am to assess the loss in terms of cedis. It is an invidious task. This type of financial loss is subject to so many contingencies and vagaries of life that I will award her a nominal sum of �1,200.00 for the loss of her marital status and the diminution in her prospects of remarriage. This should meet the justice of her case, for although she has lost an arm she is still young, beautiful and charming.
+
+__paragraph__
+In the result I give judgment for the plaintiff and I will award her �330.00 special damages and a total sum of �15,760.00 as general damages made up as follows:
+
+__paragraph__
+\[p.351\]
+
+__paragraph__
+(1) Pain and suffering .. .. .. .. .. .. 1,500.00
+
+__paragraph__
+(2) Loss of future earnings .. .. .. .. .. 7,560.00
+
+__paragraph__
+(3) Expenses for maintaining and employing a maidservant .. .. 3,000.00
+
+__paragraph__
+(4) Loss of amenities of life .. .. .. .. .. 2,500.00
+
+__paragraph__
+(5) Loss of her marital status and diminution in prospects of remarriage 1,200.00
+
+__paragraph__
+She will have her costs assessed at .. .. .. .. �800.00.
+
+__paragraph__
+DECISION
+
+__paragraph__
+Judgment for the plaintiff.
+
+__paragraph__
+S.Y.B.-B.

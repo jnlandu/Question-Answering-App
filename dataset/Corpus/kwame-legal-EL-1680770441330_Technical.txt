@@ -1,0 +1,404 @@
+__section__
+J U D G M E N T
+
+__paragraph__
+DR. DATE-BAH JSC:
+
+__paragraph__
+The key facts in this appeal are that a farming company (the plaintiff/respondent/respondent) entered into a loan agreement with a bank (the defendant/appellant/appellant) to finance the importation of 10 tractors from France. On their arrival in Ghana, the farming company took delivery and custody of the tractors. Dissatisfied with this, the bank seized the tractors and put them in its warehouse. It released 5 of the tractors to the company only after new terms had been agreed between them. The remaining five remained in the bank’s custody until they were ultimately sold by the bank. The bank claimed to be exercising rights under the original loan agreement that it had concluded with the farming company. But this agreement was never put in evidence at the trial. Eventually, the five tractors released to the company were also seized by the bank and sold.
+
+__paragraph__
+The farming company brought this action in 1993, claiming:
+
+__paragraph__
+a)“that an account be taken of the proceeds obtained by the Defendants from the operation of 5 (five) Renault agricultural tractors belonging to the Plaintiffs from 1988 to date of disposal plus interest on such proceeds at the rate of 26% or the prevailing bank rate whichever is higher;
+
+__paragraph__
+b)that an account be taken of the proceeds obtained from the sale of 10 (ten) Renault tractors belonging to Plaintiffs by defendants plus interest thereon at 26% or the prevailing bank rate whichever is higher;
+
+__paragraph__
+c)General damages for wrongful detention and disposal of 20 (sic) (ten) Renault tractors the property of the plaintiffs by the defendants or Alternatively an order for the replacement by the Defendants of the 10 Renault tractors plus damages for their wrongful detention and or wrongful disposal.
+
+__paragraph__
+d)An order that any sums outstanding in respect of claims (a) and (b) above be paid to the Plaintiffs by the defendants.”
+
+__paragraph__
+The bank, in response, counterclaimed for:
+
+__paragraph__
+a)“Account of all the jobs undertaken by Plaintiffs and the proceeds obtained from them for the use of 5 (five) Renault Agricultural Tractors from 1986 to 1992.
+
+__paragraph__
+b)Payment to defendants of the Plaintiff’s outstanding indebtedness and interest thereon at the current Bank rate.”
+
+__paragraph__
+From the nature of the claim and counterclaim, it would appear that the company sued in tort, whilst the bank counterclaimed in contract. The claim and counterclaim of the company and the bank respectively came before Aryeetey JA, as he then was, for trial at the High Court and he delivered judgment on 30th July 2007 in favour of the company on its claim and dismissed the bank’s counterclaim, after a full trial.
+
+__paragraph__
+The learned trial judge found that the bank, without reference to the farming company, had caused to be sold both the 5 tractors that they had permitted the company to put in use and the 5 brand new and unused tractors which they had refused to release to the plaintiffs. He also found that there was no justification for the bank’s detention of the company’s chattels. He found that the relationship between the bank and the company was that of banker and customer and nothing more. He highlighted the fact that the bank had been unable to produce a copy of the agreement under which it purported to exercise a right to take possession of the tractors. In his own words (at pp. 271-2 of the Record):
+
+__paragraph__
+“However, what is missing from various documents tendered in evidence is what should have been the original loan agreement between the plaintiff company and defendant bank which in the first place facilitated the importation of the ten Renault tractors from France into the country. That document governed the relationship between the parties at the time of the seizure of the ten tractors which were warehoused at the instance of the plaintiff company. As it turned out by its conduct the defendant bank assumed the role of owners of all the ten tractors that were ordered at the instance of the plaintiff company and in fact were all consigned to the plaintiff company. I do not think that under the missing agreement document the defendant bank had power to seize the tractors on their arrival and assume the right as owners to compel the plaintiffs to agree to completely new terms under new agreements. If that had been the case the defendant bank would have been quick to tender that document in evidence in support of its despicable conduct in seizing the tractors from the plaintiffs.”
+
+__paragraph__
+Although, as noted above, the company sued in tort, the learned trial judge purported to resolve aspects of the case on the basis of a contractual analysis. He was correct in this regard since the bank, having counterclaimed on its contract of loan for the farming company’s outstanding indebtedness to be enforced, put a contractual dimension of the case into play.
+
+__paragraph__
+Aryeetey JA argued that since the bank was in fundamental breach of the contract of loan with the company by unlawfully seizing the tractors belonging to the company, this breach discharged the company from any further obligations under the contract of loan. Accordingly, the company was no longer under any obligation to repay the loan that it had received. This is a startling proposition of law and one that seems to invoke forfeiture as a penalty against the bank. Although it is in a different context that the maxim “equity abhors a forfeiture” is usually considered, issues of unconscionability and equity cannot be ignored on the facts of this case. The case has very significant commercial implications beyond the facts of this particular case and therefore deserves careful consideration, since the learned trial judge’s holding was in substance upheld on appeal by the Court of Appeal.
+
+__paragraph__
+The learned trial judge articulated the proposition of law referred to above thus (at pp. 279-80 of the Record):
+
+__paragraph__
+“I am of the view that the breach in respect of the five tractors which the defendant bank kept and were not put to any use until they were sold at its instance together with the five other tractors which it had earlier released for use by the plaintiff company, without any reference to the plaintiff company, was fundamental in that the plaintiff company’s ownership of the tractors and its half measure means of repaying the loan were taken away. It also means that the conversion committed by the defendant bank in both instances which amounted to repudiation of its rights under the contract brought everything to an end and in fact by its conduct the defendant bank forfeited its rights to any further claims under the contract. It would not therefore be expected that the plaintiffs would be required to honour their debt obligation in respect of the ten tractors. On the other hand the plaintiff company would be entitled to pursue a claim for wrongful seizure and detention of their tractors. Indeed the plaintiffs claim for general damages for wrongful detention and disposal of all their ten Renault tractors by the defendants or alternatively an order for the replacement by the defendants of the ten Renault tractors plus damages for their wrongful detention and or wrongful disposal.”
+
+__paragraph__
+This position of the learned trial judge would appear, on close analysis, to be awarding, in effect, double compensation in respect of the same injury arising from the same set of triggering facts. The company is released from the obligation to repay the debt it had contracted and received and also allowed to recover damages for conversion by the bank of the chattels purchased with the loan. Causes of action in both contract and tort are upheld on the same facts. Is this justifiable, on the facts of this case?
+
+__paragraph__
+In principle, there can be concurrent liability in both contract and tort. In the past, there was some confusion on this issue of principle in English law, but the modern English law has been authoritatively settled in the English House of Lords case of Henderson v Merrett Syndicates Ltd. \[1994\] 3 All E.R. 506. Lord Goff’s speech in that case is particularly instructive and it is helpful to quote a fairly lengthy passage from it on this issue (at p. 522 et seq.):
+
+__paragraph__
+“All systems of law which recognise a law of contract and a law of tort (or delict) have to solve the problem of the possibility of concurrent claims arising from breach of duty under the two rubrics of the law. Although there are523variants, broadly speaking two possible solutions present themselves: either to insist that the claimant should pursue his remedy in contract alone, or to allow him to choose which remedy he prefers. As my noble and learned friend Lord Mustill and I have good reason to know (see J Bracconot et Cie v Cie des Messageries Maritimes (The Sindh) \[1975\] 1 Lloyd's Rep 372), France has adopted the former solution in its doctrine of non cumul, under which the concurrence of claims in contract and tort is outlawed (see Weir in XI Int Enc Comp Law, ch 12, paras 47-72, at para 52). The reasons given for this conclusion are (1) respect for the will of the legislator, and (2) respect for the will of the parties to the contract (see para 53). The former does not concern us; but the latter is of vital importance. It is however open to various interpretations. For such a policy does not necessarily require the total rejection of concurrence, but only so far as a concurrent remedy in tort is inconsistent with the terms of the contract. It comes therefore as no surprise to learn that the French doctrine is not followed in all civil law jurisdictions, and that concurrent remedies in tort and contract are permitted in other civil law countries, notably Germany (see para 58). I only pause to observe that it appears to be accepted that no perceptible harm has come to the German system from admitting concurrent claims. The situation in common law countries, including of course England, is exceptional, in that the common law grew up within a procedural framework uninfluenced by Roman law. The law was categorised by reference to the forms of action, and it was not until the abolition of the forms of action by the Common Law Procedure Act 1852 that it became necessary to reclassify the law in substantive terms. The result was that common lawyers did at last segregate our law of obligations into contract and tort, though in so doing they relegated quasi-contractual claims to the status of an appendix to the law of contract, thereby postponing by a century or so the development of a law of restitution. Even then, there was no systematic reconsideration of the problem of concurrent claims in contract and tort. We can see the courts rather grappling with unpromising material drawn from the old cases in which liability in negligence derived largely from categories based upon the status of the defendant. In a sense, we must not be surprised; for no significant law faculties were established at our universities until the late nineteenth century, and so until then there was no academic opinion available to guide or stimulate the judges. Even so, it is a remarkable fact that there was little consideration of the problem of concurrent remedies in our academic literature until the second half of the twentieth century, though in recent years the subject has attracted considerable attention.
+
+__paragraph__
+In the result, the courts in this country have until recently grappled with the problem very largely without the assistance of systematic academic study. At first, as is shown in particular by cases concerned with liability for solicitors' negligence, the courts adopted something very like the French solution, holding that a claim against a solicitor for negligence must be pursued in contract, and not in tort (see eg, Bean v Wade (1885) 2 TLR 157); and in Groom v Crocker \[1938\] 2 All ER 394, \[1939\] 1 KB 194 this approach was firmly adopted. It has to be said, however, that decisions such as these, though based on prior authority, were supported by only a slender citation of cases, none of great weight; and the jurisprudential basis of the doctrine so adopted cannot be said to have been explored in any depth. Furthermore, when in Bagot v Stevens Scanlan & Co Ltd\[1964\] 3 All ER 577 at 580, \[1966\] 1 QB 197 at 204-205 Diplock LJ adopted a similar approach in the case of a claim against a firm of architects, he felt524compelled to recognise that a different conclusion might be reached in cases 'where the law in the old days recognised either something in the nature of a status like a public calling (such as common carrier, common innkeeper, or a bailor and bailee) or the status of master and servant'. To this list must be added cases concerned with claims against doctors and dentists. I must confess to finding it startling that, in the second half of the twentieth century, a problem of considerable practical importance should fall to be solved by reference to such an outmoded form of categorisation as this. I think it is desirable to stress at this stage that the question of concurrent liability is by no means only of academic significance. Practical issues, which can be of great importance to the parties, are at stake. Foremost among these is perhaps the question of limitation of actions. If concurrent liability in tort is not recognised, a claimant may find his claim barred at a time when he is unaware of its existence. … It can of course be argued that the principle established in respect of concurrent liability in contract and tort should not be tailored to mitigate the adventitious effects of rules of law such as these, and that one way of solving such problems would no doubt be 'to rephrase such incidental rules as have to remain in terms of the nature of the harm suffered rather than the nature of the liability asserted' (see Weir, XI Int Enc Comp Law ch 12, para 72). But this is perhaps crying for the moon; and with the law in its present form, practical considerations of this kind cannot sensibly be ignored.
+
+__paragraph__
+Moreover I myself perceive at work in these decisions not only the influence of the dead hand of history, but also what I have elsewhere called the temptation of elegance. Mr Weir (XI Int Enc Comp Law ch 12, para 55) has extolled the French solution for its elegance; and we can discern the same impulse behind the much-quoted observation of Lord Scarman when delivering the judgment of the Judicial Committee of the Privy Council in Tai Hing Cotton Mill Ltd v Liu Chong Hing Bank Ltd \[1985\] 2 All ER 947 at 957, \[1986\] AC 80 at 107:
+
+__paragraph__
+'Their Lordships do not believe that there is anything to the advantage of the law's development in searching for a liability in tort where the parties are in a contractual relationship. This is particularly so in a commercial relationship. Though it is possible as a matter of legal semantics to conduct an analysis of the rights and duties inherent in some contractual relationships including that of banker and customer either as a matter of contract law when the question will be what, if any, terms are to be implied or as a matter of tort law when the task will be to identify a duty arising from the proximity and character of the relationship between the parties, 525their Lordships believe it to be correct in principle and necessary for the avoidance of confusion in the law to adhere to the contractual analysis: on principle because it is a relationship in which the parties have, subject to a few exceptions, the right to determine their obligations to each other, and for the avoidance of confusion because different consequences do follow according to whether liability arises from contract or tort, eg in the limitation of action.'
+
+__paragraph__
+It is however right to stress, as did Sir Thomas Bingham MR in the present case, that the issue in Tai Hing was whether a tortious duty of care could be established which was more extensive than that which was provided for under the relevant contract. At all events, even before Tai Hing we can see the beginning of the redirection of the common law away from the contractual solution adopted in Groom v Crocker \[1938\] 2 All ER 394, \[1939\] 1 KB 194, towards the recognition of concurrent remedies in contract and tort. First, and most important, in 1963 came the decision of your Lordships' House in Hedley Byrne & Co Ltd v Heller & Partners Ltd \[1963\] 2 All ER 575, \[1964\] AC 465. I have already expressed the opinion that the fundamental importance of this case rests in the establishment of the principle upon which liability may arise in tortious negligence in respect of services (including advice) which are rendered for another, gratuitously or otherwise, but are negligently performed-viz, an assumption of responsibility coupled with reliance by the plaintiff which, in all the circumstances, makes it appropriate that a remedy in law should be available for such negligence. For immediate purposes, the relevance of the principle lies in the fact that, as a matter of logic, it is capable of application not only where the services are rendered gratuitously, but also where they are rendered under a contract. Furthermore we can see in the principle an acceptable basis for liability in negligence in cases which in the past have been seen to rest upon the now outmoded concept of status. In this context, it is of particular relevance to refer to the opinion expressed both implicitly by Lord Morris of Borth-y-Gest (with whom Lord Hodson agreed) and expressly by Lord Devlin that the principle applies to the relationship of solicitor and client, which is nearly always contractual (see \[1963\] 2 All ER 575 at 590-591, \[1964\] AC 465 at 497-499 where Lord Morris approved the reasoning of Chitty J in Cann v Willson (1888) 39 Ch D 39, and \[1963\] 2 All ER 575 at 610-611, \[1964\] AC 465 at 529 per Lord Devlin). The decision in Hedley Byrne, and the statement of general principle in that case, provided the opportunity to reconsider the question of concurrent liability in contract and tort afresh, untrammelled by the ancient learning based upon a classification of defendants in terms of status which drew distinctions difficult to accept in modern conditions. At first that opportunity was not taken.Groom v Crocker \[1938\] 2 All ER 394, \[1939\] 1 KB 194 was followed by the Court of Appeal in Cook v S \[1967\] 1 All ER 299, \[1967\] 1 WLR 457, and again in Heywood v Wellers(a firm) \[1976\] 1 All ER 300, \[1976\] QB 446; though in the latter case (see \[1976\] 1 All ER 300 at 306, \[1976\] QB 446 at 459) Lord Denning MR was beginning to show signs of dissatisfaction with the contractual test accepted in Groom v Crocker-a dissatisfaction which crystallised into a change of heart in Esso Petroleum Co Ltd v Mardon \[1976\] 2 All ER 5, \[1976\] QB 801. That case was concerned with statements made by employees of Esso in the course of pre-contractual negotiations with Mr Mardon, the prospective tenant of a petrol station. The statements related to the potential throughput of the station. Mr526Mardon was persuaded by the statements to enter into the tenancy; but he suffered serious loss when the actual throughput proved to be much lower than had been predicted. The Court of Appeal held that Mr Mardon was entitled to recover damages from Esso, on the basis of either breach of warranty or (on this point affirming the decision of the judge below) negligent misrepresentation. In rejecting an argument that Esso's liability could only be contractual, Lord Denning MR dismissed Groom v Crocker as inconsistent with other decisions of high authority, viz Boorman v Brown (1842) 3 QB 511 at 525-526, 114 ER 603 at 608 per Tindal CJ; (1844) 11 Cl & Fin 1 at 44, 8 ER 1003 at 1018-1019 per Lord Campbell; Lister v Romford Ice and Cold Storage Co Ltd \[1957\] 1 All ER 125 at 139, \[1957\] AC 555 at 587 per Lord Radcliffe; Matthews v Kuwait Bechtel Corp \[1959\] 2 All ER 345, \[1959\] 2 QB 57 and Nocton v Lord Ashburton \[1914\] AC 932 at 956, \[1914-15\] All ER Rep 45 at 54 per Viscount Haldane LC. He then held that, in addition to its liability in contract, Esso was also liable in negligence. The other members of the Court of Appeal, Ormrod and Shaw LJJ, agreed that Mr Mardon was entitled to recover damages either for breach of warranty or for negligent misrepresentation, though neither expressed any view about the status of Groom v Crocker. It was however implicit in their decision that, as Lord Denning held, concurrent remedies were available to Mr Mardon in contract and tort. For present purposes, I do not find it necessary to comment on the authorities relied upon by Lord Denning as relieving him from the obligation to follow Groom v Crocker; though I feel driven to comment that the judgments in Esso Petroleum Co Ltd v Mardon reveal no analysis in depth of the basis upon which concurrent liability rests. That case was, however, followed by the Court of Appeal in Batty v Metropolitan Property Realizations Ltd \[1978\] 2 All ER 445, \[1978\] QB 554, in which concurrent remedies in contract and tort were again allowed.
+
+__paragraph__
+The requisite analysis is, however, to be found in the judgment of Oliver J in Midland Bank Trust Co Ltd v Hett Stubbs & Kemp (a firm) \[1978\] 3 All ER 571, \[1979\] Ch 384, in which he held that a solicitor could be liable to his client for negligence either in contract or in tort, with the effect that in the case before him it was open to the client to take advantage of the more favourable date of accrual of the cause of action for the purposes of limitation. In that case Oliver J was much concerned with the question whether it was open to him, as a judge of first instance, to depart from the decision of the Court of Appeal in Groom v Crocker. For that purpose, he carried out a most careful examination of the relevant authorities, both before and after Groom v Crocker, and concluded that he was free to depart from the decision in that case, which he elected to do. It is impossible for me to do justice to the reasoning of Oliver J, for which I wish to express my respectful admiration, without unduly prolonging what is inevitably a very long opinion. I shall therefore confine myself to extracting certain salient features. First, from his study of the cases before Groom v Crocker, he found no unanimity of view that the solicitor's liability was regarded as exclusively contractual. …
+
+__paragraph__
+He expressed his conclusion concerning the impact of Hedley Byrne on the case before him in the following words (\[1978\] 3 All ER 571 at 595-596, \[1979\] Ch 384 at 417):
+
+__paragraph__
+'The case of a layman consulting a solicitor for advice seems to me to be as typical a case as one could find of the sort of relationship in which the duty of care described in the Hedley Byrne case \[1963\] 2 All ER 575, \[1964\] AC 465 exists; and if I am free to do so in the instant case, I would, therefore, hold that the relationship of solicitor and client gave rise to a duty on the defendants under the general law to exercise that care and skill upon which they must have known perfectly well that their client relied. To put it another way, their common law duty was not to injure their client by failing to do that which they had undertaken to do and which, at their invitation, he relied on them to do. That duty was broken, but no cause of action in tort arose until the damage occurred; and none did until 17th August 1967. I would regard it as wholly immaterial that their duty arose because they accepted a retainer which entitled them, if they chose to do so, to send a bill to their client.'
+
+__paragraph__
+I wish to express my respectful agreement with these passages in Oliver J's judgment. Thereafter, Oliver J proceeded to consider the authorities since Hedley Byrne, in which he found, notably in statements of the law by members of the Appellate Committee in Arenson v Arenson \[1975\] 3 All ER 901, \[1977\] AC 405 and in the decision of the Court of Appeal in Esso Petroleum Co Ltd v Mardon \[1976\] 2 All ER 5, \[1976\] QB 801, the authority which relieved him of his duty to follow Groom v Crocker \[1938\] 2 All ER 394, \[1939\] 1 KB 194. But I wish to add that, in the course of considering the later authorities, he rejected the idea that there is some general principle of law that a plaintiff who has claims against a defendant for breach of duty both in contract and in tort is bound to rely upon his contractual rights alone. He said (\[1978\] 3 All ER 571 at 598, \[1979\] Ch 384 at 420):
+
+__paragraph__
+'There is not and never has been any rule of law that a person having alternative claims must frame his action in one or the other. If I have a contract with my dentist to extract a tooth, I am not thereby precluded from suing him in tort if he negligently shatters my jaw (Edwards v Mallan \[1908\] 1 KB 1002).'
+
+__paragraph__
+The origin of concurrent remedies in this type of case may lie in history; but in a modern context the point is a telling one. Indeed it is consistent with the decision in Donoghue v Stevenson itself, and the rejection in that case of the view, powerfully expressed in the speech of Lord Buckmaster (see \[1932\] AC 562 esp at 577-578, \[1932\] All ER Rep 1 esp at 10), that the manufacturer or repairer of an article owes no duty of care apart from that implied from contract or imposed by statute. That there might be co-existent remedies for negligence in contract and in tort was expressly recognised by Lord Macmillan in Donoghue v Stevenson \[1932\] AC 562 at 610, \[1932\] All ER Rep 1 at 25 and by Lord Wright in Grant v Australian Knitting Mills Ltd \[1936\] AC 85 at 102-104, \[1935\] All ER Rep 209 at 216-217. Attempts have been made to explain how doctors and dentists may be concurrently liable in tort while other professional men may not be so liable, on529the basis that the former cause physical damage whereas the latter cause pure economic loss (see the discussion by Christine French 'The Contract/Tort Dilemma' (1981-84) 5 Otago LR 236 at 280-281). But this explanation is not acceptable, if only because some professional men, such as architects, may also be responsible for physical damage. As a matter of principle, it is difficult to see why concurrent remedies in tort and contract, if available against the medical profession, should not also be available against members of other professions, whatever form the relevant damage may take.The judgment of Oliver J in Midland Bank Trust Co Ltd v Hett Stubbs & Kemp (a firm) \[1978\] 3 All ER 571, \[1979\] Ch 384 provided the first analysis in depth of the question of concurrent liability in tort and contract. Following upon Esso Petroleum Co Ltd v Mardon \[1976\] 2 All ER 5, \[1976\] QB 801, it also broke the mould, in the sense that it undermined the view which was becoming settled that, where there is an alternative liability in tort, the claimant must pursue his remedy in contract alone. The development of the case law in other common law countries is very striking. In the same year as the Midland Bank Trust case, the Irish Supreme Court held that solicitors owed to their clients concurrent duties in contract and tort: see Finlay v Murtagh \[1979\] IR 249. Next, in Central Trust Co v Rafuse (1986) 31 DLR (4th) 481 Le Dain J, delivering the judgment of the Supreme Court of Canada, conducted a comprehensive and most impressive survey of the relevant English and Canadian authorities on the liability of solicitors to their clients for negligence, in contract and in tort, in the course of which he paid a generous tribute to the analysis of Oliver J in the Midland Bank Trust case. His conclusions are set out in a series of propositions (at 521-522); but his general conclusion was to the same effect as that reached by Oliver J. He said (at 522):
+
+__paragraph__
+'A concurrent or alternative liability in tort will not be admitted if its effect would be to permit the plaintiff to circumvent or escape a contractual exclusion or limitation of liability for the act or omission that would constitute the tort. Subject to this qualification, where concurrent liability in tort and contract exists the plaintiff has the right to assert the cause of action that appears to be the most advantageous to him in respect of any particular legal consequence.'
+
+__paragraph__
+I respectfully agree.
+
+__paragraph__
+Meanwhile in New Zealand the Court of Appeal had appeared at first, in McLaren Maycroft & Co v Fletcher Development Co Ltd\[1973\] 2 NZLR 100, to require that, in cases where there are concurrent duties in contract and tort, the claimant must pursue his remedy in contract alone. There followed a period of some uncertainty, in which differing approaches were adopted by courts of first instance. In 1983 Miss Christine French published her article on the contract/tort dilemma in (1981-84) 5 Otago LR 236, in which she examined the whole problem in great depth, with special reference to the situation in New Zealand, having regard to the 'rule' in McLaren Maycroft. Her article, to which I wish to pay tribute, was of course published before the decision of the Supreme Court of Canada in the Central Trust case. Even so, she reached a conclusion which, on balance, favoured a freedom for the claimant to choose between concurrent remedies in contract and tort. Thereafter in Rowlands v Collow \[1992\] 1 NZLR 178 Thomas J, founding himself principally on the Central Trust case and on Miss French's article, concluded that he was free to depart from the decision of the New Zealand Court of Appeal in McLaren Maycroft and to hold that a person530performing professional services (in the case before him an engineer) may be sued for negligence by his client either in contract or in tort. He said (190):
+
+__paragraph__
+'The issue is now virtually incontestable; a person who has performed professional services may be held liable concurrently in contract and in negligence, unless the terms of the contract preclude the tortious liability.'
+
+__paragraph__
+In Australia, too, judicial opinion appears to be moving in the same direction, though not without dissent: see, in particular, Aluminum Products(Qld) Pty Ltd v Hill \[1981\] Qd R 33 (a decision of the Full Court of the Supreme Court of Queensland) and Macpherson & Kelley v Kevin J Prunty & Associates \[1983\] 1 VR 573 (a decision of the Full Court of the Supreme Court of Victoria). A different view has however been expressed by Deane J in Hawkins v Clayton (1988) 164 CLR 539 at 585, to which I will return later. In principle, concurrent remedies appear to have been accepted for some time in the United States (see Prosser Handbook on the Law of Torts (7th edn, 1984) p 444), though with some variation as to the application of the principle in particular cases. In these circumstances it comes as no surprise that Professor Fleming, writing in 1992, should state that 'the last ten years have seen a decisive return to the "concurrent" approach' (see Fleming Law of Torts (8th edn, 1992) p 187).
+
+__paragraph__
+I have dealt with the matter at some length because, before your Lordships, Mr Temple QC for the managing agents boldly challenged the decision of Oliver J in the Midland Bank Trust case \[1978\] 3 All ER 571, \[1979\] Ch 384, seeking to persuade your Lordships that this House should now hold that case to have been wrongly decided. This argument was apparently not advanced below, presumably because Oliver J's analysis had received a measure of approval in the Court of Appeal: see eg Forster v Outred & Co (a firm) \[1982\] 2 All ER 753 at 764, \[1982\] 1 WLR 86 at 99 per Dunn LJ. Certainly there has been no sign of disapproval, even where the Midland Bank Trust case has been distinguished: see Bell v Peter Browne & Co (a firm) \[1990\] 3 All ER 124, \[1990\] 2 QB 495. Mr Temple adopted as part of his argument the reasoning of Mr J M Kaye in an article The Liability of Solicitors in Tort (1984) 100 LQR 680. In his article Mr Kaye strongly criticised the reasoning of Oliver J both on historical grounds and with regard to his interpretation of the speeches in Hedley Byrne. However, powerful though Mr Kaye's article is, I am not persuaded by it to treat the Midland Bank Trust case as wrongly decided. First, so far as the historical approach is concerned, this is no longer of direct relevance in a case such as the present, having regard to the development of the general principle in Hedley Byrne. No doubt it is correct that, in the nineteenth century, liability in tort depended upon the category of persons into which the defendant fell, with the result that in those days it did not necessarily follow that, because (for example) a surgeon owed an independent duty of care to his patient in tort irrespective of contract, other professional men were under a similar duty. Even so, as Mr Boswood QC for the names stressed, if the existence of a contract between a surgeon and his patient did not preclude the existence of a tortious duty to the patient in negligence, there is no reason in principle why a tortious duty should not co-exist with a contractual duty in the case of the broad duty of care now recognised following the generalisation of the tort of negligence in the twentieth century. So far as Hedley Byrne itself is concerned, Mr Kaye reads the speeches as restricting the principle of assumption of responsibility there established to cases where there is no contract; indeed, on this he tolerates no dissent, stating (p 706) 531that 'unless one reads \[Hedley Byrne\] with deliberate intent to find obscure or ambiguous passages' it will not bear the interpretation favoured by Oliver J. I must confess however that, having studied yet again the speeches in Hedley Byrne in the light of Mr Kaye's critique, I remain of the opinion that Oliver J's reading of them is justified. It is, I suspect, a matter of the angle of vision with which they are read. For here, I consider, Oliver J was influenced not only by what he read in the speeches themselves, notably the passage from Lord Devlin's speech quoted above (see \[1963\] 2 All ER 575 at 610-611, \[1964\] AC 465 at 528-529), but also by the internal logic reflected in that passage, which led inexorably to the conclusion which he drew. Mr Kaye's approach involves regarding the law of tort as supplementary to the law of contract, ie as providing for a tortious liability in cases where there is no contract. Yet the law of tort is the general law, out of which the parties can, if they wish, contract; and, as Oliver J demonstrated, the same assumption of responsibility may, and frequently does, occur in a contractual context. Approached as a matter of principle, therefore, it is right to attribute to that assumption of responsibility, together with its concomitant reliance, a tortious liability, and then to inquire whether or not that liability is excluded by the contract because the latter is inconsistent with it. This is the reasoning which Oliver J, as I understand it, found implicit, where not explicit, in the speeches in Hedley Byrne. With his conclusion I respectfully agree. But even if I am wrong in this, I am of the opinion that this House should now, if necessary, develop the principle of assumption of responsibility as stated in Hedley Byrne to its logical conclusion so as to make it clear that a tortious duty of care may arise not only in cases where the relevant services are rendered gratuitously, but also where they are rendered under a contract. This indeed is the view expressed by Lord Keith of Kinkel in Murphy v Brentwood DC \[1990\] 2 All ER 908 at 919, \[1991\] 1 AC 398 at 466, in a speech with which all the other members of the Appellate Committee agreed.”
+
+__paragraph__
+Even though this extended passage from Lord Goff’s speech shows that there can be concurrent liability in contract and tort, the facts of each case will determine whether the extent of any concurrent imposition of a liability in contract and tort is justifiable.
+
+__paragraph__
+Aryeetey JA, the learned trial judge, justified his decision to release the company from its debt obligation by reference to the law on the discharge of contracts by breach. The learned trial judge relied on the proposition of law enunciated by the Court of Appeal in In re Timber and Transport Kumasi – Krusevac Co. Ltd, Sativa v Bonsu \[1981\] GLR 256 that where a contract party manifests a clear intention to be no longer bound by the terms of the contract or where he openly repudiates it, the innocent party might treat it as at an end and seek such remedies as are open to him or her. In that case, the Court of Appeal said:
+
+__paragraph__
+“The crucial issue which in our view was avoided by the High Court is whether the agreement was still binding on the parties. On this issue, we are thrown back on first principles and particularly on the effect of breaches of an agreement by one or other of the parties. The principle which emerges from a long line of decisions is that where one party manifests a clear intention to be no longer bound by the terms of his contract or where he openly repudiates it, the innocent party may treat the contract as at an end and seek such remedies as are open to him. Where the breach hits at the root or substance of the contract, in other words, where the breach is fundamental, the innocent party may accept the breach and treat it as absolving him from his own obligations under the contract. The question whether a breach is fundamental is, of course, for the court to determine: see Wallis, Son & Wells v. Pratt and Haynes \[1910\] 2 K.B. 1003, C.A.; Sweet & Maxwell Ltd. v. Universal News Services Ltd. \[1964\] 3 All E.R. 30 and Joseph v. Boakye \[1977\] 2 G.L.R. 392 at p. 402, C.A.”
+
+__paragraph__
+Whilst this statement of the law is largely correct, it needs further clarification in the context of the facts of this case. In this connection, I would like to refer to the analysis of Cheshire, Fifoot and Furmston’s Law of Contract (15th Ed, 2007) on the effect of discharge by breach, at p. 691:
+
+__paragraph__
+“A party who treats a contract as discharged is often said torescind the contract. To describe the legal position in such a manner, however, must inevitably mislead and confuse the unwary. In its primary and more correct sense, as we have already seen, rescission means the retrospective cancellation of a contract ab initio, as for instance where one of the parties has been guilty of fraudulent misrepresentation. In such a case the contract is destroyed as if it had never existed, but its discharge by breach never impinges upon rights and obligations that have already matured. It would be better therefore in this context to talk of termination ordischarge rather than ofrescission.”
+
+__paragraph__
+This analysis is illuminating and I accept it. It is supported by the House of Lords decision in Johnson v Agnew \[1980\] AC 367, where Lord Wilberforce said (at pp. 392-3):
+
+__paragraph__
+“it is important to dissipate a fertile source of confusion and to make clear that although sometimes the vendor is referred to …as ‘rescinding’ the contract, this so-called ‘rescission’ is quite different from rescission ab initio, such as may arise for example, in cases of mistake, fraud or lack of consent. In those cases the contract is treated in law as never having come into existence… In the case of an accepted repudiatory breach the contract has come into existence but has been put an end to, or discharged. Whatever contrary indications may be disinterred from old authorities, it is now quite clear, under the general law of contract, that acceptance of a repudiatory breach does not bring about ‘rescission ab initio’."
+
+__paragraph__
+The implication of this analysis for this case is that the obligations of the company that arose before the date of the conduct by the bank held by the learned trial judge to be in breach of contract are not wiped out but remain binding. The company is released from any further performance of the discharged contract, from the date of discharge, but its accrued obligations remain binding. It cannot therefore be correct to hold that it is relieved from the obligation to repay the loan it contracted and which it had received in full. As at the date of discharge of its contract of loan, the company’s debt obligation (that is, the obligation to repay the loan) had already accrued. The debt was accordingly not discharged. The company is limited to recovering damages in contract for the breach found by the learned trial judge, which breach was supported by evidence on the record. This recovery of damages would be governed by the usual contract law principles laid down in Hadley v Baxendale (1854) 9 Exch. 341 as to remoteness of damage. Beyond remoteness and as to the measure of the damages payable to the company, this again would be governed by the usual principle of restitutio in integrum. The company must be restored, so far as money can do it, to the position that it would have been in, had the breach not occurred. This is where the concurrent recovery of damages in tort for the same conduct characterized as breach of contract becomes relevant. If the recovery of damages in tort has already secured for the company a restitutio in integrum, it follows that only nominal damages can be awarded it for the breach identified by the learned trial judge.
+
+__paragraph__
+The learned trial judge’s error in holding that the company was absolved from any obligation under the contract of loan is perpetuated in a different guise by the Court of Appeal and is thus the subject of grounds of appeal before this Court. Grounds (ii) and (iii), which were argued together, are as follows:
+
+__paragraph__
+ii.“The learned Justices of Appeal erred in law when they held that after the consolidation of the debt the Plaintiff/Respondent ceased to be liable for the payment of the debt.
+
+__paragraph__
+iii.The learned Justices misdirected themselves in law on the nature and effect of consolidation of debts which misdirection led them to hold that after consolidation the debt ceased to be payable.”
+
+__paragraph__
+Quaye JA, in delivering the Court of Appeal’s judgment, had said, in relation to the bank’s counterclaim for the payment of the company’s outstanding indebtedness to it, (at p.426 of the Record) that:
+
+__paragraph__
+“The second segment of the counterclaim was in respect of respondent’s outstanding debt. Learned Counsel shot himself in the foot when he contended that the various loans that the respondents contracted with the appellants were consolidated at a point in time. This is a correct statement upon the facts and evidence before us. The loans which were consolidated upon the suggestion, advise (sic) or prompting of the appellants were FF 1.958.180.00 for the ten tractors and c707.500.00 other loan. In order to resolve whether the appellants were entitled to the Court’s decision on this segment of the counterclaim to warrant the setting aside of the finding by the trial Court, it is my candid view that we determine the legal meaning and effect of consolidation….”
+
+__paragraph__
+The learned judge then proceeds to define consolidation and then continues:
+
+__paragraph__
+“The point which I want to bring home is that merging, or fusion or consolidation of two loan accounts had the effect of each of them losing its previous separate identity and from the time of consolidation, they become one. Take for example, pouring water from two different containers into one container. After that, you cannot identify which was previously contained in one or other of the two containers….
+
+__paragraph__
+The total effect therefore is that only one loan account stood in the records of the appellants for the obligation of the respondents after the accounts had been consolidated. In Law, it is not available for the appellants to turn round after the merger at their own prompting, to want to see two separate loan accounts. The law would neither allow a party to take advantage of his own wrong nor to approbate and reprobate at the same time….It is therefore clear that, as at the time this action was commenced, and more specifically, at the time the counterclaim was made, there was only one loan account between the appellants and the respondents, irrespective of how the loan was contracted, the purpose(s) for which segments thereof were given and taken or the time it was done. There was no separate debt standing against the respondent. If there was, then the appellants failed to lead evidence to establish that fact. I can identify no error in the refusal by the learned trial judge to grant the counterclaim and the reasons supporting his refusal. This ground of appeal fails and it is dismissed.”
+
+__paragraph__
+With respect, the learned Justice of Appeal is in error in his view that the company had no debt liability at the time the counterclaim was filed. Apart from the bank’s objection to the issue of consolidation being a ground of decision when it had not been argued in the appeal, on which I will give my view later in this judgment, the learned Justice seems to make the assumption that the only debt in respect of which there could be liability was the “other loan” of c707,500. That seems to be the explanation for the great lengths to which he went to establish the consolidation of the two loans. He seemingly fails to appreciate that the receipt of FF 1.958.180.00 to finance the importation of the ten tractors also resulted in a debt. The counterclaim was thus with reference to both amounts. There is undisputed evidence on record that the bank supplied the funds for purchase of the tractors.
+
+__paragraph__
+In my view, as already set out above, the holding by the learned trial judge that the breach of contract by the bank discharged the company from its accrued obligation to repay the loan it had already received was clearly erroneous. That view equally applies to the holding by the Court of Appeal on this point. The extent of the award of both a tort and a contract remedy, on the facts of this case, leads to overkill in the remedying of the plaintiff’s injury. I would therefore allow the appeal on grounds (ii) and (iii) and give judgment in favour of the appellant on item (b) of its counterclaim, namely, there should be “payment to the defendants of the Plaintiff’s outstanding indebtedness and interest thereon” at the Bank rate. This payment is, however, to be made subject to the payment by the appellant of the damages awarded by the learned trial judge in favour of the plaintiff/respondent/respondent in respect of the tort of conversion committed by the appellant/appellant/defendant. The payment of the plaintiff’s indebtedness is also to be made subject to whatever damages is awarded by this court in respect of the breach by the defendant of the loan agreement.
+
+__paragraph__
+The plaintiff/respondent/respondent, however, disputes this result, in its Statement of Case, and makes the case that the defendant/appellant/appellant had failed to prove its counterclaim and therefore it should be dismissed. This is how it puts its case in its Statement of Case:
+
+__paragraph__
+“As noted earlier in these Submissions, in the case of Claim (ii)(i.e. the second segment of the counterclaim), the Appellants mentioned no specific sum in their Counterclaim. However, two sums were mentioned in the course of the evidence of their Representative as the indebtedness for which they were counterclaiming. On the 27 May 1997, he stated the figure as c 367,624,305.68 (vide p. 99 of the Record, line 19). Then on 4/7/97, he put the figure at c412,679,178.74 (vide p. 105 of the Record, line 9). In both cases, the figure was said to be the outstanding sum as at 30/8/96.
+
+__paragraph__
+A Counterclaim is a fresh action. It is joined to another suit so as to avoid a proliferation of suits. The same standards of proof apply to a counterclaim and a normal suit. The party making a counterclaim must prove the claim. Where the claim is for a liquidated sum, it must be strictly proved. This the Appellants woefully failed to do. In the absence of proof which of the sums mentioned by the Representative, and noted above, is the Judge to accept. In any event, it is submitted that the claim was not properly before the Court because of the Appellant’s failure to specify the amount in their pleadings and to pay the appropriate filing fee thereon (vide p. 149 of the Record) where the Representatives of the Appellants failed to say the Appellants paid a filing fee for this claim.
+
+__paragraph__
+In the circumstances the only decision that can be made fairly on the counterclaim is to dismiss them.”
+
+__paragraph__
+Thus the respondent company, by this argument, tries to move the issue of its liability on the appellant’s counterclaim from one of contract law, as discussed above, to one of evidence and civil procedure. At this level also, I do not think that it can escape liability. There was indisputable evidence on record of its acceptance of a loan from the bank to finance the importation of the tractors. Its endeavour to quibble at the exact amount of the outstanding debt cannot rescue it from liability. The exact amount of the indebtedness was ascertainable from evidence on record. Admitted facts do not need to be proved and the fact that respondent owed money to the appellant was not disputed by the respondent. In the respondent’s own Statement of Claim, he averred in paragraphs 12 to 16 as follows:
+
+__paragraph__
+12.“Defendants granted the Plaintiffs a loan of FF 1,284,780 with interest pegged at 26% per annum. A loan agreement dated 23 June 1988 was signed between Plaintiffs and Defendants.
+
+__paragraph__
+13.The Plaintiffs through their Managing Director secured the total loan now amounting to FF 1,958,180 including the sum of FF 673,400.91 earlier granted by the Defendants with three residential houses situated in Tamale the title deeds of which were lodged with the Defendants.
+
+__paragraph__
+14.The Defendants also unilaterally decided to add the sum of c707,500.00 being an unrelated loan granted to the Plaintiffs in 1986 to the loan for the purchase of the tractors.
+
+__paragraph__
+15.The Defendants charged a processing and commitment fee of c9,317,020.30 to cover the loan made to the plaintiffs.
+
+__paragraph__
+16.In due course, the Plaintiffs took delivery of the 10 Tractors and informed the Defendants.”
+
+__paragraph__
+By these averments, it is clear that, by the plaintiff/respondent/respondent’s own pleadings, it admitted the existence of a loan from the appellant. It is thus estopped by representation from denying the existence of the loan in its defence to the counterclaim of the appellant in the same proceedings. The appellant indeed did admit, in its Statement of Defence, para. 12 of the respondent’s Statement of Claim. The loan agreement of 23 June 1988 was thus an admitted fact. In spite of this, the respondent generally traversed, in its Defence to the Counterclaim, all the averments in the Counterclaim of the appellant, which in part relied on this loan agreement and the other loan of c707,500 which existed in the appellant’s books. The respondent was thus approbating and reprobating.
+
+__paragraph__
+Beyond the pleadings, there was testimony at the trial, which established the respondent’s liability on the loans that were the basis for the Counterclaim of outstanding indebtedness. In the evidence in chief of the respondent’s representative, Mr. Abdu Aziz, he made the following admission (at p. 72 of the Record) when asked:
+
+__paragraph__
+“Q. Has your company paid any part of the loan to the bank.
+
+__paragraph__
+A.No.”
+
+__paragraph__
+Also, there was testimony by the Appellant’s representative, in his evidence-in-chief to the following effect (at p. 99 of the Record):
+
+__paragraph__
+“It is normal practice for the bank to open a loan account for all our borrowing customers. It is expected that loan repayments for the customers are paid into this account. In the particular case of Hajaara Farms Limited payments into this account Number 76 were mainly by transfers from the two operational account –that is Number 9211. No payments on withdrawal in respect of the loan account are made by cashiers. I have in my hand the loan account Number 76 of the plaintiffs. I would like to tender it in evidence – no objection – admitted and markedExhibit 11. Exhibit 11 indicates that there were only a few repayments into the account. As a result of loan repayment Hajaara Farms as at the statement date on 30/8/96 still owed the bank an amount of c367,624,304.68. Payment for this amount is long overdue.”
+
+__paragraph__
+The respondent, in its Statement of Case, points out that there was testimony given by the same witness in which he stated a different amount as the debt owing as at 30/8/96. At p. 105 of the Record, the Defendant’s representative said:
+
+__paragraph__
+“The plaintiff company is owing the bank. As at 30/8/96 the company owed the bank c412,679,178.74. Judgment should be given to the defendants for that amount with interest. It is due for payment.”
+
+__paragraph__
+This unfortunate internal conflict and contradiction in the evidence of the same witness cannot be interpreted as absolving the plaintiff/respondent/respondent from liability on its admitted loan transaction with the appellant bank. It would be perverse and against the weight of evidence to do so. I would rather resolve the conflict by holding the company liable for the lesser sum, namely, c367,624,304.68 as at 30/8/96, together with interest at the bank rate. In spite of the extensive cross-examination of the witness, he was not shaken in his testimony that there was an outstanding indebtedness of the respondent to the appellant.
+
+__paragraph__
+I am not impressed by the respondent’s captious point about the appellant’s failure to pay a filing fee for its counterclaim. The respondent contends that this is a basis for a dismissal of the counterclaim. The testimony relied on to found this point is inconclusive. The defendant/appellant/appellant’s representative was asked (at p. 149 of the Record):
+
+__paragraph__
+“Q. Do you know how much filing fees was paid for your counter-claim
+
+__paragraph__
+A. I don’t know.”
+
+__paragraph__
+This testimony cannot be the basis for dismissing the counterclaim.
+
+__paragraph__
+The arguments rehearsed above apply, mutatis mutandis, to grounds (iv) and (v) of the Appellant before this court, which it argued together. These are:
+
+__paragraph__
+iv.“The learned Justices of Appeal erred in law when they failed to distinguish between the loan contract and the tort of detinue and conversion which failure led to the erroneous decision that the loan (admitted by the Plaintiff/Respondent) ceased to be payable.
+
+__paragraph__
+v.The learned Justices of Appeal erred in law by avoiding the issue of whether or not the tort of detinue and conversion allegedly committed by the Defendant/Appellant amounted to a repudiation of the loan contract which issue was the main basis upon which the trial court rejected Defendant/Appellant’s Counterclaim for the payment of the debt.”
+
+__paragraph__
+In support of these grounds, the bank argued as follows in its Statement of Case (Para. 20):
+
+__paragraph__
+“One of the grounds on which the High Court dismissed the Appellant’s counterclaim for the outstanding debt (see pages 279 – 280 of the Record quoted above) was that by “seizing” the tractors, the Appellant repudiated the loan agreement under which the Bank wholly financed the importation of the 10 tractors. At pages 406-407 of the Record the Appellant strongly argued at the Court of Appeal that the learned High Court judge failed to distinguish between the loan agreement through which the Bank provided 100% funding for the importation of the ten tractors and the subsequent alleged tort of detinue and conversion committed. The Appellant further argued that if the High Court had drawn the distinction between the two it would have seen its way clear in upholding the legitimacy of the counterclaim for the outstanding debt especially after awarding the Respondent damages for the detinue and conversion. Equity fairness and justice require that the Respondent’s indebtedness should at least have been set off against the damages awarded him in order not to unjustly enrich the Respondent.”
+
+__paragraph__
+It is clear from my earlier discussion and holding in this judgment that I accept the main thrust of the bank’s argument on this point, namely, that its counterclaim should be upheld and that the seizing of the tractors, even if a breach of contract, did not release the company from its obligation to repay the debt. I would, in consequence, uphold ground (iv) of the appellant’s grounds of appeal. Ground (v), however, causes me some discomfort and I would not uphold it in the exact language through which it is expressed. Admittedly, the learned Justices of Appeal were in error in not addressing the issue of whether the bank’s conduct in seizing the tractors constituted a breach of contract and what were the consequences of that breach of contract. However, their error was not in failing to address the issue of whether “the tort of detinue and conversion allegedly committed by the Defendant/Appellant amounted to a repudiation of the loan contract”, as alleged in the ground of appeal. The learned trial judge had held the defendant bank liable in both contract and tort and it would have been right for the learned Justices of Appeal to have adverted to the issue of whether the bank’s conduct had indeed been a breach of the contract of loan.
+
+__paragraph__
+However, I do not accept the argument made by the bank in support of this ground of appeal to the effect that the High Court’s decision that there was a fundamental breach of the loan agreement was an error of law. I uphold the High Court’s decision that there was a fundamental breach of the loan agreement. My disagreement with that Court relates to the consequences of that fundamental breach, and not to the breach itself. To my mind, the consequence of the fundamental breach was the bank’s liability to pay damages and not the cancellation of the debt obligation owed to it by the plaintiff/respondent/respondent. This is an implication of the law explained above that discharge by breach does not relate back to set aside obligations that had accrued before the date of discharge. However, the damages payable, on the facts of this case, might only be nominal, because of the substantial damages awarded by the learned trial judge in respect of the tort liability of the appellant bank, unless there is evidence that the plaintiff has proven a loss not covered by the tort damages. Restitutio in integrum is the purpose of the award of contract damages and not unjust enrichment of the innocent party beyond restoring him or her to the position he or she would have been in if the breach had not taken place. Accordingly, in place of the learned trial judge’s cancellation of the plaintiff company’s debt obligation to the defendant bank, I would substitute nominal damages payable by the bank to the plaintiff/respondent/respondent company for the breach of the loan agreement, unless the Record discloses that the Plaintiff has proven substantial damages beyond the loss covered by the tort damages.
+
+__paragraph__
+Ground (vi) of the Appellant bank’s grounds of appeal reads as follows:
+
+__paragraph__
+“The learned Justices of Appeal erred by upholding the damages awarded by the trial Court in spite of the legal submissions made by the Defendant/Appellant and further by failing to properly take into account the outstanding debt admitted by the Plaintiff/Respondent from which the importation of the ten (10) tractors was financed.”
+
+__paragraph__
+The Appellant supports this ground with only one paragraph in its Statement of Case. That paragraph states:
+
+__paragraph__
+“Our main grievance on the above ground is the fact that the High Court after awarding such damages should have taken into consideration the outstanding debt owed by the Respondent and set it off against the damages so as not to unjustly enrich the Respondent because after all it was the Appellant that wholly paid for the ten tractors for the Respondent and yet ask him not to pay the loan is most unfair, unjust and unconscionable. The Court of Appeal therefore committed an error when it affirmed the High Court’s erroneous decision.”
+
+__paragraph__
+Apart from complaining about the High Court’s failure to take the plaintiff/respondent’s outstanding debt liability to the defendant/appellant into account, this ground of appeal does not appear to complain about the quantum and principles underlying the damages awarded by the High Court in tort. If it does, it is half-hearted. The issue of the outstanding debt has already been dealt with above. Subject to that, I would affirm the damages awarded by the learned trial judge. In explaining how he quantified the damages payable in respect of the conversion, he said (at pp. 281-2 of the Record):
+
+__paragraph__
+“For the moment I would deal with the assessment of damages in respect of the five tractors which the defendant bank refused to release for the use of the plaintiff company. A practical way of assessing the minimum value of the five tractors which were not put to use and remained in the custody of the defendant bank until they were disposed of would be to estimate what amount it cost the plaintiff company to procure all five of them. I think the total indebtedness of the plaintiffs to the bank which emanated from the loan transaction between the bank and the plaintiffs should be a safe guide in arriving at what it least cost the plaintiff to procure the tractors. According to the evidence on record the purchase and importation of the ten tractors were wholly funded by monies provided by the bank. Therefore it would be reasonable in the circumstances to limit the minimum value to be placed on the ten tractors to the total indebtedness of the plaintiff company to the defendant bank. According to exhibit 13 quoted above the plaintiff company, at the inception owed the defendant bank amounts of FF 1,958180.00 and �776470.00 which represent the total amount it cost the plaintiff company to procure the ten Renault tractors. It means therefore that the value of five of the Renault tractors would be half of the two amounts, which would be FF979,090.00 and c388.235.00 respectively. To me the total of the two amounts would be adequate compensation for the plaintiffs in the nature of damages for the conversion committed by the defendant bank in respect of the five tractors which it refused to release to the plaintiff company after their unjustifiable and unwarranted seizure.”
+
+__paragraph__
+In relation to the remaining five tractors which were released to the plaintiffs, the learned trial judge explained his quantification of damages in relation to them as follows (at p. 284 of the Record):
+
+__paragraph__
+“…they were entitled to the award of damages for conversion which would be equal to the value of the five tractors at the time of their sale. Unlike the five tractors which were not released, it would not be relatively easy to compute their value at the time of sale, especially when no evidence was led by the plaintiff company in that regard. That, of course, is understandable since the plaintiffs’ pleading did not anticipate that the court would treat the five tractors which were not released differently from the other five. To be on a safe side we just have to limit our assessment of the value of the five tractors, which were used for some time, to the total amount which was derived from their sale at the instance of the defendant company.”
+
+__paragraph__
+An issue which arises from the learned trial judge’s quantification of the tort damages is whether after the award of those damages, there is any room left for the award of further damages, whether in contract or in tort. In tort, an argument could be made in support of consequential loss of profit by the plaintiff company caused by the commission of the tort. The difficulty for the plaintiff is that such consequential loss of profit has to be proved. Moreover, the plaintiff did not cross-appeal against the quantum of tort damages awarded it.
+
+__paragraph__
+Alternatively, the plaintiff could rely on contract to recover further damages flowing from the fact that the bank’s unlawful seizure of the plaintiff’s chattels, in breach of contract, probably caused it to lose profit. The first problem for a court seeking to award supplementary contract damages on this score is that the plaintiff did not sue in contract. However, the defendant bank did counter-claim in contract. Thus, in determining whether the plaintiff’s liability under the loan contract to the defendant bank remains outstanding, the issue can be legitimately addressed as to whether any loss, beyond that in relation to which tort compensation had already been awarded, had been caused to the plaintiff by the defendant’s breach of the contract of loan such that that loss should be deducted from the plaintiff’s indebtedness to the defendant bank. In principle, it is reasonable to hold that the plaintiff’s indebtedness under the contract of loan should be reduced by the monetary value of any breaches of that contract by the defendant bank. In this regard, the main loss raised by the evidence on record relates to the plaintiff’s probable loss of profits from the use of the five tractors that were never released to them, in consequence of the defendant bank’s breach of contract. Can this be quantified and how is it to be quantified?
+
+__paragraph__
+Because the plaintiff did not sue in contract, it did not lead evidence of any loss of profits from being denied the use of the five tractors that were not released to it. That makes the task of quantifying loss of profit difficult. The failure to lead evidence on loss of profits also raises the issue of whether this court is precluded from awarding substantial damages in respect of the defendant bank’s breach of the contract of loan.
+
+__paragraph__
+The English Court of Appeal case of Sunley and Company Ltd. v Cunard White Star Ltd. \[1940\] 1 KB 740 provides ideas as to how this Court might deal with the absence of evidence on the loss of profit. That case also dealt with how to measure damages for a breach of contract resulting in loss of use of a chattel, in that particular case for a week. The plaintiffs had not led any evidence on loss of profit resulting from this loss of use. Nevertheless, the Court of Appeal held that the plaintiffs were entitled to such damages as would put them pecuniarily in the same position as if the week’s delay had not taken place. The court awarded modest sums in respect of depreciation of the machines that had been delayed, for interest, maintenance and wages. The Court said (at p. 747 of the Report):
+
+__paragraph__
+“In these circumstances, the plaintiffs really failed to prove any facts on which their damages could be estimated. In the absence of evidence they relied on the law. And the learned judge unfortunately succumbed to the invitation to discuss a variety of cases likeThe Mediana \[1900\] A.c. 113 at great length. Those cases establish that when a plaintiff is deprived of the use of a chattel which he does not use for making profit he is not to be debarred from claiming as damages what during that time its use would have been worth to him, had he not been prevented from using it. But those cases are no authority for the proposition that, if the owner of a profit-earning chattel does not prove the loss he has sustained, the judge may make a guess in the dark and award him some arbitrary sum.”
+
+__paragraph__
+The court, therefore, set aside the trial judge’s award of 250 pounds as damages for the plaintiffs’ loss of use of their machinery because of the defendants’ delivery of the machinery a week late in breach of contract. The court, however, did go on to award damages under the following principles (at p. 748):
+
+__paragraph__
+“The machine here was a chattel of commercial value, but on the facts before us there are only four possible heads of damage: (1) depreciation which was running on, (2) interest on the money invested which was being wasted, (3) some trivial amount of maintenance which was no doubt involved, (4) some expenditure of wages which were thrown away.”
+
+__paragraph__
+The total amount of damages awarded by the court under these heads was in total 14 pounds. This case illustrates that, in the absence of evidence of loss of profits, a court may assess some damages under the four heads mentioned above, but those damages should be modest, though more than nominal.
+
+__paragraph__
+Applying the approach of Sunley v Cunard White Star Ltd. (supra) to the facts of this case, I would be inclined to deduct from the plaintiff’s indebtedness to the defendant bank the interest that was due to be paid, from the date of seizure of the tractors to the date of their sale, on the debt payable. I do not consider that the other possible heads of damage are relevant, on the facts of this case.
+
+__paragraph__
+The Appellant bank abandoned ground (vii) of its grounds and therefore it will not be dealt with here. That leaves only ground (i) as the ground not yet dealt with in this judgment. Ground (i) reads as follows:
+
+__paragraph__
+“The learned Justices of Appeal erred by suo motu raising and basing their decision on the legal effect of consolidation of the loan without giving the parties an opportunity to be heard on the issue.”
+
+__paragraph__
+In arguing this ground in its Statement of Case, the appellant/appellant/defendant, whilst admitting that in appropriate cases the Court of Appeal could raise an issue not canvassed by any of the parties to determine an issue before it, urged that the power should be exercised with great circumspection and pointed out that the authorities made it clear that the parties should be given a reasonable opportunity to react or comment on an issue raised suo motu by the Court. The Appellant relied on the well-known case of Dam v Addo \[1962\] 2 GLR 200 to sustain its argument. In that case, Adumua-Bossman JSC, delivering the judgment of the Supreme Court, said (at p. 203):
+
+__paragraph__
+“The process of consideration and weighing up of the respective cases of the parties by which the learned judge arrived at the conclusion at which he did arrive, would appear to have involved the substitution by him proprio motu of a case substantially different from, and inconsistent with, the case put forward by the respondents and the ultimate acceptance by him of that substituted case which was not the respondents’ case at all. This acceptance in favour of a party of a case different from and inconsistent with that which he himself has put forward in and by his pleadings, has been consistently held to be unjustifiable and fundamentally wrong both by the English superior courts and our local superior courts.”
+
+__paragraph__
+The issue is whether this principle is relevant to the facts of this case. Whilst, undoubtedly Quaye JA discussed the legal issue of the consolidation of the loans disclosed by the evidence in this case, it would not appear that the legal issue raised in it was inconsistent with the case put forward by the plaintiff company in the High Court, as my discussion earlier in this case has shown. He did not rely on any new facts or on a case incompatible with the plaintiff’s case that it was not liable on the counterclaim. Whilst it is desirable and prudent for an appellate court to invite arguments on propositions of law it intends to rely on other than those canvassed by the parties before it, there is no absolute bar on an appellate court from deciding a case on the basis of such a proposition of law. In any case, what occasioned the miscarriage of justice, through the application of the proposition of law relating to the consolidation of the loans, in this case was its perpetuation of the learned trial judge’s error in refusing to enforce the plaintiff company’s admitted indebtedness, rather than the lack of notice of the legal gloss in the argument adopted by Quaye JA. I would accordingly dismiss this ground of appeal.
+
+__paragraph__
+In the result, the appeal is allowed in part. The damages for conversion awarded by the learned trial judge and affirmed by the Court of Appeal are hereby further affirmed, subject to a deduction from them of the plaintiff/respondent/respondent’s outstanding indebtedness to the defendant/appellant/appellant, which stood at c367,624,304.68 as at 30/8/96, together with interest at the bank rate, in accordance with the Court (Award of Interest and Post Judgment Interest) Rules, 2005 (CI 52). However, there should be deducted from the interest thus payable the interest due on the sum owed to the defendant from the date of seizure of the tractors to the date of their sale. This deduction of interest represents a measure of damages for breach of the contract of loan which is more than nominal damages. Of course, the post-judgment interest rate applicable under CI 52 will equally apply to the damages awarded by the High Court for conversion.
+
+__paragraph__
+(SGD) DR. S. K. DATE BAH
+
+__paragraph__
+JUSTICE OF THE SUPREME COURT
+
+__paragraph__
+ATUGUBA J.S.C:
+
+__paragraph__
+Certain matters on which I would have liked to express an opinion have not been raised by the parties and the evidence relating to them does not appear to be incontrovertible. I therefore, on the facts of this case, agree with the learned, comprehensive and masterly analytical judgment of my able brother Dr. Date-Bah, JSC.
+
+__paragraph__
+(SGD) W. A. ATUGUBA
+
+__paragraph__
+JUSTICE OF THE SUPREME COURT
+
+__paragraph__
+ANSAH JSC.
+
+__paragraph__
+I had the benefit of reading before hand the didactic and eclectic judgment of my noble and respected brother, Date Bah JSC. I agree with his analysis of the facts giving rise to this suit. I also agree he has carefully and fairly dealt with the un-treaded issue of concurrent causes of action in tort and contract in our jurisdiction; I agree with his conclusion that the appeal before us be dismissed in part.
+
+__paragraph__
+With the above, there would not be any need for me to say anything more except perhaps only to add some few words in further support.
+
+__paragraph__
+I shall limit myself to the issue of contact obligations as far as loans are concerned just to lend further support to what has been said already.
+
+__paragraph__
+The case of Barclays Bank Ghana Ltd v Sakari 1997-98 1 GLR 746, SC, is worthy of mention. The facts of the case as reported in the head-notes are that:
+
+__paragraph__
+“The plaintiff-bank granted an application by the defendant a customer for a loan of �2,145,420 to enable him purchase two Mercedes Benz trucks hr required for the operation of his business. However, without the consent of the plaintiff, the defendant used the loan to purchase a Saurer tanker instead of the Mercedes Benz trucks. A week after the purchase of the tanker, it was seized by the government on the ground that Saurer trucks were to be operated exclusively by the State and not individuals. After repeated unsuccessful demands by the plaintiff on the defendant to repay the loan, the plaintiff brought an action against him at the High Court, Tamale, for, inter alia, recovery of the loan plus the accrued interest thereon. In his defence, the defendant contended that the unexpected seizure of the Saurer tanker by the government had frustrated the loan agreement and had thereby discharged him his obligations under the contract. The trial High Court found that it was a term of the loan agreement that the defendant was to operate the Saurer tanker and repay the loan from its proceeds. It therefore dismissed the plaintiff’s claims on the ground that the loan transaction had been frustrated by the seizure of the Saurer tanker by the government. On appeal by the plaintiff to the Court of Appeal, the decision of the High Court was affirmed by a two to one majority decision. The plaintiff then appealed to the Supreme Court against the majority decision of the Court of Appeal.”
+
+__paragraph__
+The Supreme Court allowed the appeal. While the court held that the events leading to the seizure of the vehicles did not amount to frustration it nonetheless addressed the issue of the supposed frustration of the contract vis-�-vis the obligations to the parties under the contract, Acquah JSC as he then was held thus:
+
+__paragraph__
+“Now what is the obligation created under this loan contract, a breach of which would entitle the other to sue? The obligation of the bank was to advance the money which it did and that of the defendant was to repay the loan together with interest if any. This is the obligation of the parties under this loan contract, and indeed almost all loan contracts. When a bank lends money to its customer, the obligation of the customer is to repay the loan….Thus the obligation of a borrower in a loan contract as opposed to other types of contracts is to repay the loan and not the performance of the purpose for which the loan was sought.”
+
+__paragraph__
+In my view, the above case applies mutatis mutandis to the issue of the appellant’s counterclaim which had been dismissed by the Court of Appeal to the effect that the seizure of the respondent’s tractors by the appellant bank did not release the respondent company of its primary obligation under the loan contract. In this case, the respondent owed the appellant an obligation to repay the loan, whether or not there was a breach occasioned by the appellant. The primary obligation to repay the loan had not changed and its obligation was not dependent on the performance of the purpose of the loan or a breach of contract by the appellant bank.
+
+__paragraph__
+The issue of the quantum of damages for breach has been dealt with by my learned brother and I have nothing to add in that regard.
+
+__paragraph__
+I agree that the appeal be dismissed in part.
+
+__paragraph__
+(SGD) J. ANSAH
+
+__paragraph__
+JUSTICE OF THE SUPREME COURT
+
+__paragraph__
+BAFFOE-BONNIE J.S.C:
+
+__paragraph__
+I agree that the appeal be allowed in part.
+
+__paragraph__
+(SGD) P. BAFFOE-BONNIE
+
+__paragraph__
+JUSTICE OF THE SUPREME COURT
+
+__paragraph__
+AKOTO BAMFO \[MRS.\] J.S.C:
+
+__paragraph__
+I have had the privilege of reading the well-researched opinion of my learned and respected brother Dr. Date-Bah JSC. I agree with him and therefore have nothing useful to add.
+
+__paragraph__
+(SGD) V. AKOTO-BAMFO (MRS.)
+
+__paragraph__
+JUSTICE OF THE SUPREME COURT

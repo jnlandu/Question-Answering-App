@@ -1,0 +1,254 @@
+__paragraph__
+JUDGMENT
+
+__paragraph__
+DR. DATE-BAH JSC: This case calls for resort to the basic analytical tools for determining the formation of contracts, including offer, invitation to treat, acceptance and intention to create legal relations, which are to be found set out in the earlier chapters of textbooks, and practice books, on the law of contract. To our mind, the outcome from the application of those tools is clear and self-evident. We are, thus, surprised that this case has had to travel this far for its resolution.
+
+__paragraph__
+The plaintiff at one time worked for the defendant as head of its Legal Department. Whilst still in its employment, she received the following letter from the defendant.
+
+__paragraph__
+“17 January 2005
+
+__paragraph__
+Ms. Yaa Antwi
+
+__paragraph__
+NTHC Limited
+
+__paragraph__
+ACCRA
+
+__paragraph__
+Dear Madam
+
+__paragraph__
+OFFER FOR SALE – HOUSE NO. 4 PLATEAU CLOSE
+
+__paragraph__
+EAST LEGON EXTENSION
+
+__paragraph__
+The Board of Directors at the emergency Board meeting held on Friday, 31 December 2004 proposed to sell the Company’s houses being occupied by the Management Staff.
+
+__paragraph__
+In this regard, you are being given the first offer to purchase the above-mentioned house at the cost price of US $70,307 or its Cedi equivalent. Payment shall be within 6 months.
+
+__paragraph__
+If you are interested, you are to indicate, in writing, to the undersigned by Monday, 31 January 2005.
+
+__paragraph__
+Yours faithfully
+
+__paragraph__
+Gladys A. Odoi (Ms)
+
+__paragraph__
+Board Secretary
+
+__paragraph__
+Cc Managing Director”
+
+__paragraph__
+The plaintiff, in reply to this letter, stated in a letter dated 31st January, 2005 that:
+
+__paragraph__
+“I refer to the offer by the Board to sell the above-referenced house to me as contained in your letter of January 17, 2005 referenced NTHC/ADMI/GEN/.
+
+__paragraph__
+I accept the offer to purchase House No. 4 Plateau Close at the cost price of US $ 70,307 or its cedis equivalent and to make payment within the stipulated 6 months.
+
+__paragraph__
+It would be greatly appreciated if details of bank accounts into which payment may be made are provided for the benefit of the house loan company.”
+
+__paragraph__
+There was no further correspondence between the parties until the dispatch of the following letter, dated 7th November, 2005 by the defendant to the plaintiff:
+
+__paragraph__
+“Dear Ms. Antwi
+
+__paragraph__
+RE: OFFER FOR SALE – HOUSE NO 4 PLATEAU CLOSE, EAST LEGON
+
+__paragraph__
+I am directed by the Board Chairman to inform you that, as was previously communicated to you following extensive deliberations on the above matter, the Board of Directors have decided to withdraw the offer for sale of the said property to enable the Company house its new management staff.
+
+__paragraph__
+Any inconvenience is very much regretted.”
+
+__paragraph__
+This letter was signed on behalf of the defendant by its Deputy Managing Director.
+
+__paragraph__
+In the meantime, the plaintiff had left the employment of the defendant and had begun working for a different employer from 8th August, 2005. This fact was relied upon by the defendant in its next letter to the plaintiff, dated 10th November, 2005, which sought to require the plaintiff to vacate the house in dispute. The letter advised the plaintiff to vacate the house, following her resignation from the employment of the defendant.
+
+__paragraph__
+On these facts, the plaintiff brought action against the defendant, claiming that the exchange of letters in January 2005 resulted in an agreement that the defendant would sell to the plaintiff House No. 4 Plateau Close, East Legon Extension for the sum of US $ 70,307 or its equivalent in cedis and that the plaintiff would pay the purchase price within 6 months of the offer. She averred that though she had requested of the defendant the particulars of the bank account into which to pay the purchase price of the property, the defendant had neglected to furnish such particulars. The plaintiff sought specific performance of the agreement made in January 2005 and a perpetual injunction to restrain the defendant from ejecting the plaintiff from the property.
+
+__paragraph__
+The defence proferred by the defendant was that its letter of 17th January 2005 was not an offer, but, according to its statement of defence, “only an invitation to staff to make offers to purchase the premises, the final decisions on the matter rested with Defendant”. The defendant thus denied the existence of any enforceable agreement between the parties.
+
+__paragraph__
+The main issue in this case, therefore, hinges on the interpretation to be put on the letter of 17th January, in its context. Was the letter an offer or a mere invitation to treat? The learned trial judge, Ofoe J., as he then was, considered the letter to be a mere invitation to treat. In his judgment, he laid emphasis on the use of the word “proposed” in relation to “sell” and thus persuaded himself that the company’s proposal to sell was not a definite enough offer of the property to the plaintiff. He therefore dismissed the plaintiff’s action, holding that no contract had been formed. Ofoe J. explained his decision thus (at p. 86 of the Record):
+
+__paragraph__
+“The letter provides that at the Board Meeting the Board “proposed to sell the company’s houses”. I have no reason for interpreting the word proposed other than what it is and what it means. The last paragraph also provides:
+
+__paragraph__
+“If you are interested, you are to indicate in writing to the undersigned by Monday 31st January, 2005.”
+
+__paragraph__
+Can it be said that this last paragraph read together with other paragraphs in Exhibit A, Exhibit A was a firm offer of the property to the plaintiff? I think not. It is my view that Exhibit A even though the word “offer” is used, was initiating negotiations with the staff on the proposal of the defendant to dispose of their properties. The request for plaintiff to show interest in the property I see it as asking the plaintiff rather to make the offer. It is my view that plaintiff’s response declaring her interest as she did in Exhibit B cannot be an acceptance of an offer by the defendant but rather offering for the defendant’s acceptance her interest in the purchase of the property.”
+
+__paragraph__
+On appeal by the plaintiff to the Court of Appeal, the judgment of the trial court was reversed. The Court of Appeal, in a judgment written by Marful-Sau JA, arrived at the conclusion that the letter of 17th January contained an offer. The learned judge expressed himself thus (at p. 129 of the Record):
+
+__paragraph__
+“From the way Exhibit A is written and its content as a whole, I am satisfied that it qualifies to be an offer properly called in contract. The letter was not conducting any enquiry. It is clear from the body that a specific house, House No. 4 Plateau Close, East Legon Extension was offered to Appellant to purchase at a quoted price and to be paid within six months. The letter only requested the Appellant to indicate her interest as to whether she accept the terms offered in Exhibit A or not.”
+
+__paragraph__
+We are, in this court, called upon to determine which of the two lower courts was right in its interpretation of the letter of 17th January. The grounds of appeal filed by the defendant in this court against the Court of Appeal’s decision are as follows:
+
+__paragraph__
+“a. The Court of Appeal erred when it held that Exhibit A and Exhibit B amounted to a contract.
+
+__paragraph__
+Before resolving the issue of interpretation raised in ground (a), however, it would be useful to remind ourselves, in outline, of the principles to be applied in distinguishing between offers and invitations to treat.
+
+__paragraph__
+Basically, an offer is an indication in words or by conduct by an offeror that he or she is prepared to be bound by a contract in the terms expressed in the offer, if the offeree communicates to the offeror his or her acceptance of those terms. Accordingly, the offer has to be definite and final and must not leave significant terms open for further negotiation. By significant, we here mean terms that are essential to the bargain contemplated. It is important to emphasise the proposition that the mere acceptance of an offer is sufficient to turn the offer into a contract, if there is consideration for it, together with an intention to create legal relations.
+
+__paragraph__
+It is this need for finality and definiteness which leads to the analytical need for the concept of invitation to treat. If a communication during negotiations is not the final expression of an alleged offeror’s willingness to be bound, it may be interpreted as an invitation to the other party to use it as a basis for formulating a proposal emanating from him or her that is definite enough to qualify as an offer. Thus the indefinite communication may be what generates an offer from the other side. An invitation to treat is thus to be distinguished from an offer on the basis of the proposal’s lack of an essential characteristic of an offer, namely, its finality which gives a capacity to the offeree to transform the offer into a contract by the mere communication of his or her assent to its terms. Thus Chitty on Contracts (28th Edition, 1999) Vol. 1 para. 2-007 at p. 93 states that:
+
+__paragraph__
+“A communication by which a party is invited to make an offer is commonly called an invitation to treat. It is distinguishable from an offer primarily on the ground that it is not made with the intention that it is to become binding as soon as the person to whom it is addressed simply communicates his assent to its terms.”
+
+__paragraph__
+A case relied on by the appellant, Gibson v Manchester City Council \[1979\] 1 All ER 972, is illustrative of a communication during “negotiations” which was not definite and final enough to be treated as an offer and therefore was rightly categorized as an invitation to treat. The case involved the tenant of a council house in Manchester, England, who wanted to buy the house from the council. In the middle of the process for the purchase of the property, following local government elections in May 1971, the local council changed its policy and decided not to proceed with the sale of any house in respect of which there had not yet been an exchange of contracts. The correspondence between the tenant and the council before this reversal of policy was as follows:
+
+__paragraph__
+After the city council had adopted a policy of selling houses to its tenants, the City Treasurer, following a request made by the tenant in this case for details of the price of the house he was renting and the mortgage terms available, had written on 10th February 1971 to the tenant stating that the council “may be prepared to sell the house to you at the purchase price 2,725 pounds less 20% - 2,180 pounds (freehold).” The letter then set out the mortgage terms likely to be made available and continued:
+
+__paragraph__
+“If you would like to make formal application to buy your Council house please complete the enclosed application form and return it to me as soon as possible.”
+
+__paragraph__
+Accordingly, the tenant duly completed an application form with the heading “Application to buy a council house”, except that he did not fill in the purchase price, and returned it to the council. The form concluded with the statement: “I…now wish to purchase my Council house. The above answers are correct and I agree that they shall be the basis of the arrangements regarding the purchase…” The tenant followed up his application form a few days later with a letter dated 18th March 1971 in which he said: “I would be obliged if you will carry on with the purchase as per my application already in your possession.” Before contracts for the house could be exchanged, the May elections intervened which led to the reversal of the council’s policy on sales of houses to tenants, to which we have already alluded. The council subsequently wrote to the tenant to advise him that his application for a purchase of a council house could not be processed any further. When the tenant contended that the City Treasurer’s letter of February 1971 was an offer and that his completed application form of March 1971 was an acceptance and he therefore brought action for specific performance of the contract, the House of Lords held that the City Treasurer’s letter was at most an invitation to treat and that it was the tenant’s application form which was rather the offer. Lord Russell of Killowen declared (at p. 980) that:
+
+__paragraph__
+“My Lords, I cannot bring myself to accept that a letter which says that the possible vendor ‘May be prepared to sell the house to you’ can be regarded as an offer to sell capable of acceptance so as to constitute a contract. The language simply does not permit such a construction.”
+
+__paragraph__
+We do not agree with the defendant/respondent/appellant in this case when it asserts in its Statement of Case (paragraph 10) that its case is on all fours with the Gibson case. There is no question that the City Treasurer’s letter lacked finality. It could not be turned into a contract by mere acceptance. There were still significant terms which needed to be agreed upon. This is in marked contrast with the facts of this case where the letter from the defendant/respondent/appellant proposed the sale to the plaintiff of an identified property at a price certain. What was left to be communicated were the details of the bank account into which the price was to be paid. This was a subsidiary question which did not affect the finality of what we construe to be the offer contained in the letter.
+
+__paragraph__
+The appellant also strenuously sought to make a distinction between the language construed to be an offer in Fofie v Zanyo \[1992\] 2 GLR 475 and the language in the present case. This contention was in rebuttal of the view taken by the Court of Appeal that the decision in the Fofie case should lead to the letter of 17 th January 2005 being construed as an offer. Marful-Sau JA had said in the court below, after quoting the text of the offer in the Fofie case, that:
+
+__paragraph__
+“Indeed comparing the above letter which was held to be a valid offer to Exhibit A in the instant appeal it will be untenable to hold that Exhibit A is not a valid offer. The above letter suggested that should the offeree indicate his acceptance, a further meeting was to be held, yet the Supreme Court affirmed the holding by both the trial High Court and the Court of Appeal that it was a valid offer.”
+
+__paragraph__
+In the Fofie case, what the plaintiff contended was an offer was in the following terms:
+
+__paragraph__
+“…I am prepared to offer the house to you for sale. The selling price is c75,000. If this is acceptable to you, please confirm to enable us hold a meeting with your solicitor on the matter. Hoping to hear from you soon.”
+
+__paragraph__
+The learned trial judge, Lutterodt J, as she then was, and the Court of Appeal construed this language to be a valid offer. The disagreement in that case between the Court of Appeal and the trial judge was as to whether there had been any acceptance of this offer. The appellant in the present case in its Statement of Case argues that the distinction between what was construed to be an offer in the Fofie case and the alleged offer in this case lies in the fact that the parties in the Fofie case had had an earlier discussion and the quotation set out above was from a confirmatory letter. The appellant’s argument is set out as follows in its Statement of Case (para. 14):
+
+__paragraph__
+“The said Exhibit B was thus written in furtherance of the earlier discussions between the parties and was only to formalize the earlier discussion. It is on this basis that all the Courts from the High Court through to the Supreme Court, took the position that Exhibit B, the confirmation letter, was an offer. This is clearly distinguishable from this case where there is no evidence on record that the Parties had had any initial discussion on the subject and that Exhibit A herein was a confirmation of any such previous discussion. My Lords, being “prepared to offer … for sale” is very different from “proposing to sell!! It is therefore faltering, with respect, to say that the instant case is on all fours with the Fofie case, for the Fofie case to be used as a measuring rod for the fortunes of the instant suit.”
+
+__paragraph__
+The respondent answers the appellant’s point on the Fofie case as follows (in para.27 of its Statement of Case):
+
+__paragraph__
+“…As regards the argument that the Fofie case is distinguishable from the instant case because there had been previous discussions between the parties in that case, it is our submission that whether or not there had been previous discussions is quite irrelevant to the interpretation of Exhibit A and that what is important is that the language of that letter expresses and conveys an intention to contract.”
+
+__paragraph__
+We find this riposte by the respondent persuasive. Whilst recognising that the decision as to whether any particular set of language and context amounts to an offer or an invitation to treat depends on the detailed facts of specific cases, we also consider that the Fofie case provides a useful pointer regarding how to interpret the alleged offer in this case. In our view, the statement that: “The Board of Directors at the emergency Board meeting held on Friday, 31 December 2004 proposed to sell the Company’s houses being occupied by the Management Staff,” when read together with the two sentences that follow it that: “In this regard, you are being given the first offer to purchase the above-mentioned house at the cost price of US $70,307 or its Cedi equivalent. Payment shall be within 6 months.” and the totality of the context within which the transaction took place, can hardly be given any other interpretation than that it was an offer by the defendant/respondent/appellant company. The appellant’s argument that the use of the word “proposed” in the text quoted above robbed the alleged offer of “definitiveness” and therefore rendered it an invitation to treat is weak, because of the existence in that same text of the next two sentences. In those sentences, as will have been noted, the appellant itself characterises its proposal as an “offer”. Although this is not a determinative factor, it is an important indication of what the appellant intended.
+
+__paragraph__
+The first sentence was, in any case, merely introductory to the next two sentences, which contain the substantive offer. The use of the expression “proposed to sell” in the introductory sentence does not, therefore, detract from the definiteness of the offer contained in the next two sentences. In any case, the expression “proposed to sell”, in its context, does not necessarily indicate an absence of an intention to make a final proposal capable of being turned into a contract, or, in other words, an offer. We are thus somewhat mystified by the decision of the learned trial judge. We do not agree with him that the letter of 17th January was an invitation to treat. The defendant/respondent/appellant clearly gives to the plaintiff ‘the first offer’ to purchase its house. We thus hold that the letter of 17th January constituted an offer, and not an invitation to treat, and that this offer was converted into a contract by the respondent’s acceptance letter of 31st January 2005. From the facts set out above, there was clearly an intention to create legal relations and the respondent’s undertaking to pay the purchase price was consideration enough to result in the formation of a contract.
+
+__paragraph__
+Next, we will quickly and easily dispose of ground (b) of the grounds of appeal. The appellant’s grievance expressed there was that the Court of Appeal erred in decreeing an order of specific performance in the circumstances of this case. Expatiating on this in its Statement of Case, the appellant argued that the doctrine of part performance could not avail the respondent to warrant specific performance. We agree with the reply of the respondent that the doctrine of part-performance is irrelevant, on the facts of this case. We have held that a contract was formed by the exchange of letters in January 2005. This contract relating to land is evidenced in writing. Therefore, there is no need to resort to a doctrine of part-performance. Contracts for the sale of land are preeminently those in relation to which the remedy of specific performance is appropriate and typically applied by the courts. As Chitty on Contracts (28th Edition) puts it (in para 28-007):
+
+__paragraph__
+“The law takes the view that the purchaser of a particular piece of land or of a particular house (however ordinary) cannot, on the vendor’s breach, obtain a satisfactory substitute, so that specific performance is available to him.”
+
+__paragraph__
+It is trite law that the equitable remedy of specific performance will be granted, where damages are not an adequate remedy. More recent case-law has tended to state the law in terms of whether it is just in all the circumstances of a particular case for the aggrieved party to be confined to a remedy of damages. However the question is framed, though, there is little doubt that contracts for the sale of land qualify for the remedy, ceteris paribus. We therefore think there is no merit in this ground of appeal and it is dismissed.
+
+__paragraph__
+Finally, we will consider grounds (c) and (d) of the grounds of appeal. It will be recalled that these complained that the Court of Appeal’s order to the appellant to refund to the respondent all rents paid by the respondent to the appellant was in error and, further, that the Court of Appeal erred when it retrospectively decreed specific performance of the contract without awarding the plaintiff interest on the purchase price. The appellant contends, in its Statement of Case, that if the respondent had paid the consideration for the contract, which we have found to exist, when it was due, or even at the commencement of the suit, the appellant could have invested that price. The appellant further argues that judicial notice should be taken of the notorious fact that in Ghana property values appreciate. It would thus be unfair for the respondent to pay what is in effect a 2005 price for the property today without the payment of interest to compensate the appellant for the difference in the value of the property between 2005 and currently. The appellant argues that since the price of US $ 70,307 should have been paid in August 2005, “By denying the Appellant interest on the purchase price (and assuming there was a binding contract which is denied), the Respondent had been unjustly enriched thereby.” (Para. 18 of the Statement of Case.)
+
+__paragraph__
+In reply, the respondent maintains in her Statement of Case that the Court of Appeal was not in error in making the consequential order, after delivering its judgment, that any rents paid by the respondent after November 2005 should be refunded to her, after she had paid the purchase price. She explains that the circumstances that had led to that order were the need to reverse the High Court’s order, made after its judgment, which required the respondent, as part of the terms on which the High Court judgment was stayed, to pay c1,500,000 (GHc150) monthly to the appellant. She argued that since the Court of Appeal had found that she was the equitable owner of the property from January 2005, there was no obligation on her part to pay any rent to the appellant. The reversal of the High Court’s order was thus necessary to reflect the Court of Appeal’s reversal of the High Court’s decision that there was no contract between the parties. We have no difficulty in agreeing with this view and we thus affirm the Court of Appeal’s order that any rents paid to appellant after the High Court’s judgment should be refunded after the order of specific performance has been executed.
+
+__paragraph__
+Regarding the distinct issue of the payment of interest on the purchase price, which had been computed with a completion date in 2005 in mind, the counter-argument put up by the respondent is that the appellant failed to provide the respondent with the bank particulars that she had requested to enable her to make payment of the purchase price. Further, she argued that in none of the papers filed before the Court of Appeal was there a claim of interest on the basis of which the Court would have had jurisdiction to award interest in the appellant’s favour.
+
+__paragraph__
+In considering what merit there is in this latter argument against the payment of interest, we consider it helpful to refer to the following passage from the judgment of the Supreme Court in Butt v Chapel Hill Properties & Anor \[2003-2004\] SCGLR 636 at p. 652:
+
+__paragraph__
+“Once this Court holds that there was, in effect, an implied loan transaction between the Plaintiff and the first Defendant or the Defendants, the Court is obliged to exercise its statutory power to award interest on the loan implied in order to preserve the value of the capital originally borrowed. Justice requires that on the facts of this case interest be awarded to the Plaintiff, even if not expressly claimed. The High Court, under Order 63 rule 6 of the High Court (Civil Procedure) Rules 1954 LN140A, has authority to make any order which it considers necessary for doing justice, whether such order has been expressly asked for by the person entitled to the benefit of the order or not. This is an appropriate case for the Supreme Court to exercise this power of the High Court, pursuant to section 2(4) of the Courts Act 1993 under which the Supreme Court has all the powers, authority and jurisdiction vested in any court established by the Constitution or any other law.”
+
+__paragraph__
+Although the Order 63 rule 6 of the repealed High Court Rules referred to in the passage quoted above appears not to have been re-enacted in the High Court (Civil Procedure) Rules 2004 (CI 47), we believe that the High Court has an inherent jurisdiction to make such consequential orders as are necessary for doing justice, even if the beneficiary of such order has not expressly requested it. The Supreme Court would thus vicariously also have this power.
+
+__paragraph__
+In our view, the effect of ordering specific performance of the contract is that the purchaser becomes liable to pay the price at the contractually stipulated due date. On the facts of this case, the price was to be paid within 6 months. Since the acceptance letter was dated 31st January, the due date was no later than the end of July 2005. Correspondingly, the vendor is obliged to convey its interest to the purchaser with effect from the same date. Prior to conveyance and after the conclusion of the contract, the purchaser is the owner of the property in equity. It follows from the analysis above that the purchaser should be liable to pay interest on the purchase price from the date it was due until the date of judgment in order to preserve the economic value of the purchase price.
+
+__paragraph__
+This Court has power under Rule 1 of the Court (Award of Interest and Post Judgment Interest) Rules 2005 (CI 52) to award interest “on a sum of money due to a party” in an action and we consider that this case is an appropriate one in which to exercise the power in order to avoid a miscarriage of justice. As the appellant points out, there is danger of unjust enrichment on the part of the purchaser (i.e., the respondent) if the power to award interest is not exercised. Accordingly, whilst confirming the Court of Appeal’s order of specific performance, we also order, pursuant to Rule 1 of CI 52, that the respondent should pay interest to the appellant on the cedi equivalent of the price of US $ 70,307 from 1st August 2005 till today at the bank rate prevailing today. We do not consider that the neglect of the appellant to furnish the respondent with the particulars of the bank account into which the price should be paid is sufficient reason for the appellant to forfeit its entitlement to interest. That neglect was in the heat of a legal dispute which has only now been finally settled. Since specific performance is an equitable remedy, its enforcement should not lead to the inflicting of hardship on the appellant. As Lord Parker has said:
+
+__paragraph__
+“Indeed, the dominant principle has always been that equity will only grant specific performance if, under all the circumstances, it is just and equitable so to do.” (See Stickney v Keeble \[1915\] AC 386 at p. 419).
+
+__paragraph__
+It is our considered view that in the circumstances of this case, it would only be just and equitable for the contract of January 2005 to be specifically enforced if the value of the purchase price under it is preserved through the payment of interest by the respondent to the appellant, along the lines already explained. Accordingly, ground (d) of the appellant’s grounds of appeal is upheld and the respondent is to pay interest on the purchase price to the appellant at the bank rate prevailing today, as already indicated, on the purchase price from 1st August 2005 till today. After judgment, interest will remain payable, by operation of law, till date of final payment, pursuant to Rule 2 of CI 52. Subject to this, the appeal is dismissed.
+
+__paragraph__
+DR. S. K. DATE-BAH
+
+__paragraph__
+(JUSTICE OF THE SUPREME COURT)
+
+__paragraph__
+I agree
+
+__paragraph__
+S. A. B AKUFFO (MS)
+
+__paragraph__
+(JUSTICE OF THE SUPREME COURT)
+
+__paragraph__
+I agree
+
+__paragraph__
+S.O.A. ADINYIRA (MRS)
+
+__paragraph__
+(JUSTICE OF THE SUPREME COURT)
+
+__paragraph__
+I agree
+
+__paragraph__
+R.C. OWUSU (MS)
+
+__paragraph__
+(JUSTICE OF THE SUPREME COURT)
+
+__paragraph__
+I agree
+
+__paragraph__
+J. V. M. DOTSE
+
+__paragraph__
+(JUSTICE OF THE SUPREME COURT)

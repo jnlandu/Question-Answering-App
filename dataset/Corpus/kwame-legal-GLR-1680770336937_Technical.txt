@@ -1,0 +1,245 @@
+__paragraph__
+Practice and procedure�Admissible evidence�Right to call�Application by plaintiff to call evidence�Effect of wrongful rejection of application by trial court�Failure to request trial court to record refusal of calling fresh evidence�Effect.
+
+__paragraph__
+HEADNOTES
+
+__paragraph__
+The plaintiff was arrested and detained by the police on information given by the defendant. He was kept in custody for a week before being put before court, charged \[p.198\] with threat of death of the defendant. At the trial the defendant have evidence for the prosecution but the plaintiff was acquitted and discharged. The plaintiff then sued the defendant at the District Court Grade 1, Tamale claiming damages for false imprisonment and malicious prosecution. The plaintiff�s unchallenged evidence at the trial was that it was the defendant who procured his arrest and detention, in that the defendant led the police to his house and in his absence left instructions for him to report himself. Later whilst in custody, the defendant pointed him out to a policeman who assaulted him even before he was told of the offence he had committed. Counsel for the defendant submitted that the defendant had performed his civic duty by reporting a crime to the police and that the plaintiff not being entitled to judgment should, be non-suited under the Courts Ordinance, Cap. 4 (1951 Rev.), Sched. 1, Order 40, rr.1-3. The magistrate accepted the submission, non-suited the plaintiff and awarded costs against him. In the instant appeal against the decision of the trial magistrate, the High Court having around that there was nothing on the record of appeal indicating that the plaintiff intended calling additional evidence.
+
+__paragraph__
+Held, allowing the appeal:
+
+__paragraph__
+(1) under the Courts Ordinance, Cap. 4 (1951 Rev.), Sched. 1, Order 40 rr.1-3, the trial court might, in its discretion, non-suit a plaintiff: (a) when he had closed his case. Where at the close of the evidence, the defendant was not found to be the person liable to the plaintiffs claim, the plaintiff should not be non-suited but judgment should be entered for the defendant so as to avoid the situation whereby the plaintiff was left free to harass the defendant with another suit on the same cause of action; (b) the plaintiff had not discharged the burden of producing sufficient evidence and he was unable to make out his case, judgment should be entered for the defendant and not merely should the plaintiff be non-suited; (c) the court might direct that notwithstanding the non-suit, the plaintiff should be at liberty to set aside any judgment of non-suit in any case of surprise, mistake or accident; and (d) the court might non-suit the plaintiff without any application by the defendant and even after judgment on a motion for retrial or review. Since in the instant case the plaintiff�s evidence had raised a prima facie case of false imprisonment and malicious prosecution, the order non-suiting the plaintiff was wrong and it would be set aside. Ryder v. Wombwell (1868) L.R. 4 Exch. 32 and Eduful v. Pantsil \[1966\] G.L.R. 27 at 30, S.C. cited.
+
+__paragraph__
+Per curiam. The relevance and usefulness of this practice of non-suit has been questioned even in England which ... abolished the practice in the High Court in 1883 ... Order 40 of Cap.4 remains good law in practice in the district courts notwithstanding my personal opinion that it should be reviewed since a magistrate who is so minded, can use it to let an unsuccessful plaintiff harass a defendant with another suit in respect of the same cause of action.
+
+__paragraph__
+(2) The plaintiff was entitled to call such evidence as would help him establish his claim. And if such admissible evidence had been rejected by the trial court and substantial injustice occasioned thereby, the injured party was entitled to a new trial. Provided he formally tendered such evidence at the trial and requested the court to make a note of it or, if the request was refused, to enter an exception upon the record. Otherwise it would not be open to the affected party to challenge the trial court's record on appeal. In the instant case, at the end of the plaintiff�s evidence there was nothing on record to show that his counsel intimated calling additional evidence nor did he mention in his address that he had not closed his case. In the event, the plaintiff was never denied a right of being heard. Gibbs v. Pike (1842) 9 M & W 351; Whitehouse v. Hemmant (1858) 27 L.J.Ex. 295; Campbell v. Loader (1865) 27 L.J.Ex. 58; Penn v. Bibby (1866) L.R. 3 Eq. 308 and Mensah v. Adu \[1972\] 2 G.L.R. 218 at 285, C.A. cited.
+
+__paragraph__
+\[p.199\]
+
+__paragraph__
+CASES REFERRED TO
+
+__paragraph__
+(1) Clack v. Arthur's Engineering Ltd. \[1959\] 2 Q.B. 211; \[1959\] 2 W.L.R. 916; \[1959\] 2 All E.R. 503, C.A.
+
+__paragraph__
+(2) H. R. H. Prince Ernest Augustus of Hanover v. Attorney-General \[1956\] Ch.188; \[1955\] 3 W.L.R. 868; \[1955\] 3 All E.R. 647, C.A.
+
+__paragraph__
+(3) Eduful v. Pantsil \[1966\] G.L.R. 27 S.C.
+
+__paragraph__
+(4) Ryder v. Wombwell \[1868\] L.R. 4 Exch. 32; 19 L.T. 491.
+
+__paragraph__
+(5) Westgage v. Crowe \[1908\] 1 K.B. 24.
+
+__paragraph__
+(6) Atta v. Amoasi \[1976\] 2 G.L.R., 201.
+
+__paragraph__
+(7) Narwu v. Armah \[1972\] 2 G.L.R. 331, C.A.
+
+__paragraph__
+(8) Appiah v. Mensah \[1978\] G.L.R. 342.
+
+__paragraph__
+(9) Soadwah alias Sondura v. Obeng \[1966\] G.L.R. 338, S.C.
+
+__paragraph__
+(10) R. v. Sarpong \[1959\] G.L.R. 383, C.A.
+
+__paragraph__
+(11) Darke IV v. Darke IX \[1981\] G.L.R. 145, C.A.
+
+__paragraph__
+(12) R. v. Deputy Industrial Injuries Commissioner, Ex parte Moore \[1965\] Q.B. 456; \[1965\] 2 W.L.R. 89; \[1965\] All E.R. 81, C.A.
+
+__paragraph__
+(13) Osgood v. Nelson (1872) L.R. 5 H.L. 636; 41 L.J.Q.B. 329.
+
+__paragraph__
+(14) Campbell v. Loader (1865) L.J.Ex. 58.
+
+__paragraph__
+(15) Gibbs v. Pike (1842) 9 M & W 351; 12 L.J.Ex. 257.
+
+__paragraph__
+(16) Whitehouse v. Hemmant (1858) 27 L.J.Ex. 295.
+
+__paragraph__
+(17) Penn v. Bibby (1866) L.R. 3 Eq. 308; 36 L.J.Ch. 277.
+
+__paragraph__
+(18) Mensah v. Adu (1972) 2 G.L.R. 218, C.A.
+
+__paragraph__
+(19) Huffer v. Allen (1866) L.R. 2 Exch. 15; 4 H. & C. 634; 15 L.T. 225
+
+__paragraph__
+(20) Devenish v. P. D. I. Homes (Hythe) Ltd. (1959) 1 W.L.R. 1188; \[1959\] 3 All E.R. 843.
+
+__paragraph__
+NATURE OF PROCEEDINGS
+
+__paragraph__
+APPEAL against the decision of the District Court Grade 1, Tamale, whereby the plaintiff was non-suited. The facts are set out in the judgment.
+
+__paragraph__
+COUNSEL
+
+__paragraph__
+R. C. A. Azumah for the appellant.
+
+__paragraph__
+S. B. Dy-Yakah for the respondent.
+
+__paragraph__
+JUDGMENT OF BENIN J.
+
+__paragraph__
+The plaintiff-appellant herein issued out a writ of summons at the District Court Grade 1, Tamale. By the particulars of claim, the appellant claimed against the defendant-respondent damages for false imprisonment and malicious prosecution. The court did not order the parties to file any pleadings so the case proceeded to trial summarily under Order 25, r.1 of the Courts Ordinance, Cap.4 (1951 Rev.). On \[p.200\] the hearing date the plaintiff gave evidence on the events leading to his arrest by the police, his subsequent detention and assault on him by the police and finally his being unsuccessfully prosecuted at the District Court Grade II, Tamale. He was cross-examined by counsel for the respondent who made a submission under Order 40 of Cap. 4, which was replied to by counsel for the appellant. The learned trial magistrate there and then accepted the submission and non-suited the appellant and awarded �1,000 costs against him.
+
+__paragraph__
+At the trial the appellant had testified that his arrest was caused by the respondent. That when the respondent and the policeman came to look for him the first time in order to arrest him, they met him absent and they left a message for him to report to the police at a stated time. He did report himself to the police who locked him up for some time. Thereafter the respondent in the company of one named police corporal came to the station and identified him. The police corporal who had come with the respondent started assaulting him (the appellant) and it was then he mentioned the reason why he (the appellant) had been arrested; and the reason being that he the appellant had been hired by a Dagarti man to kill the respondent. The appellant was locked up in police cell and later in prison custody for a week or so before he was put before court. The respondent testified for the prosecution in that case in which the appellant was charged with threat of death, but he was acquitted and discharged. And according to the appellant, this prosecution has led to his business partners ceasing to do any business with him. He also suffered damage to his reputation before his in-laws. That was the plaintiff�s evidence-in-chief. I shall quote the entire cross-examination at this stage:
+
+__paragraph__
+"Q. From what you stated it was you who surrendered yourself to the police.
+
+__paragraph__
+A. That is so.
+
+__paragraph__
+Q. The defendant gave evidence as witness only for the State (the Republic).
+
+__paragraph__
+A. That is so.
+
+__paragraph__
+Q. You know that the defendant has no power over the police?
+
+__paragraph__
+A. That is so."
+
+__paragraph__
+Then followed the submission that the appellant had led no satisfactory evidence to entitle him to any judgment in the sense that the respondent only made a report to the police who then took their own steps to prosecute the appellant. The respondent only performed his civic duty by reporting a crime to the police. His counsel submitted \[p.201\] and I quote: " Where witnesses are called this case will not be made better for the plaintiff; he therefore is not entitled to judgment and he should be non-suited under Order 40 of Cap. 4."
+
+__paragraph__
+Counsel for the appellant replied that the plaintiff had led satisfactory evidence in that the police acted only at the instigation of the respondent and hence there was a cause of action.
+
+__paragraph__
+This whole appeal has turned up on what interpretation to put on Order 40 of Cap. 4 which has the following as its provision:
+
+__paragraph__
+"Non-suit
+
+__paragraph__
+1\. The Court may in any suit, without the consent of parties non-suit the plaintiff; where satisfactory evidence shall not be given entitling either the plaintiff or the defendant to judgment of the Court.
+
+__paragraph__
+2\. The Court may upon motion for new trial or review of judgment, order a non-suit or judgment to be entered, although no leave has been reserved at the trial.
+
+__paragraph__
+3\. Any judgment of non-suit, unless the Court or Judge otherwise directs, shall have the same effect as judgment on the merits for the defendant but in any case of mistake, surprise, or accident, any judgment of non-suit may be set aside on such terms as to payment of costs and otherwise as to the Court or judge may seem just."
+
+__paragraph__
+There is a dearth of authority on this practice of non-suit probably because it does not exist in the High Court (Civil Procedure) Rules, 1954 (L.N. 140A), or more probably because it is not often invoked. Defendants have often relied on a submission of no case in civil trials rather than invoking Order 40 of Cap. 4. Probably too, it is because the district courts and legal practitioners do not actually appreciate the scope of the practice. Before 1875 the advantage of this practice which was peculiar to common law courts was that the plaintiff could, on paying all costs, bring another action against the defendant for the same cause of action. However under Order 41, r.6 of the R.S.C. 1875, any judgment of non-suit, unless the court otherwise directed, had the same effect as a judgment on the merits, that is it barred the plaintiff from bringing another action for the same cause Order 41, rule 6 of R.S.C. 1875 which is similar to Order 40, r.3 of Cap. 4, was abolished in 1883 and there is thus no such thing as a non-suit in the High Court of England. In fact the relevance and usefulness of this practice of non-suit have been questioned even in England which as I have said abolished that practice in the High Court in 1883, over a century ago. Hence Wilmer L.J. lamented over its continued existence \[p.202\] in the English county court in the case of Clack v. Arthur Engineering Ltd. \[1959\] 2 All E.R. 503 at 511, C.A. where he said:
+
+__paragraph__
+�We cannot leave this case ... without venturing to offer the suggestion that consideration might well be given to the desirability of abolishing the power to non-suit in the county court, as it has been abolished in the High Court. Non-suit was a remedy suitable enough in an age when the plaintiff won or lost his case according to the way in which it was pleaded, and when no right of amendment existed such as exists today. Bearing in mind the right of discontinuance which is conferred by C.C.R, Order 18, and the abundant facilities for amendment provided under C.C.R, Order 15 we find it difficult to appreciate what object is served by preserving in the county court today the old common law remedy of non-suit which we venture to think few practitioners of today fully understand."
+
+__paragraph__
+Like the prophet Jeremiah lamenting over the woes of Israel which still did not reform, Wilmer L.J�s lamentation for the abolishment of non-suit practice has fallen on deaf ears and in Ghana it still remains in our statute books. And the fact that it is not used does not mean it does not exist. There is no rule in Ghana or in England, as there is in Scotland (see Craies, Statute Law (5th ed.) at 4), that a statute or law is impliedly repealed by age, non-user or desuetude. In H.R.H. Prince Ernest Augustus of Hanover v. Attorney-General \[1955\] 3 W.L.R. 868 at 879, C.A. the Attorney-General expressly disclaimed any reliance on the argument that the statute (1705) 4 Anne, c.4 was a "dead letter." Thus Order 40 of Cap. 4 remains good law in practice in the district courts notwithstanding my personal opinion that it should be reviewed since a magistrate who is so minded, can use it to let an unsuccessful plaintiff harass a defendant with another suit in respect of the same cause of action. This latter practice was frowned upon by the Supreme Court in the case of Eduful v. Pantsil \[1966\] G.L.R. 27 at 30, S.C.
+
+__paragraph__
+Now let me examine the scope and extent of Order 40, rr.1-3 of Cap. 4. From Order 40, r.1 the trial court may non-suit a plaintiff when at the close of the evidence there is no satisfactory evidence led entitling the plaintiff or the defendant to the judgment of the court. This is a discretionary power and must thus be exercised judicially. By rule 3, the court has a discretion to direct judgment to be entered for the defendant, but it should non-suit the plaintiff when there is no evidence to support the plaintiff�s case: see Ryder v. Wombwell \[1868\] L.R. 4 Exch. 32. The court may hold that there is for this purpose no \[p.203\] evidence when there is no substantial evidence, a mere scintilla of evidence not being sufficient to preclude a non-suit. Whether the evidence which the plaintiff gives can be considered any evidence at all of a cause of action is a question of law for the court. It was held in Westgate v. Crowe \[1908\] 1 K.B. 24 that where from the plaintiff's evidence it appears that the defendant is not the person liable, the latter is entitled to judgment and the court should not enter a non-suit.
+
+__paragraph__
+From the foregoing and under Order 40 the practice of non-suit may be summed up as follows:
+
+__paragraph__
+(i) the court may only consider a non-suit when the plaintiff has closed his case. By Order 36, rr. 2 and 3 of Cap 4 he closes his case after he has testified (if need be) and called his witnesses (if any). Thus not until the plaintiff has announced to the court that he has closed his case, the question of a non-suit does not arise;
+
+__paragraph__
+(ii) the court may only consider a non-suit if the plaintiff has not discharged the burden of producing sufficient evidence to support his cause of action. Order 40, r.1: see Ryder v. Wombwell (supra). Ordinary rules of evidence will apply here;
+
+__paragraph__
+(iii) where at the close of the evidence the defendant is not found to be the person liable to the plaintiff's claim, the plaintiff should not be non-suited but judgment should be entered for the defendant. This is to avoid the situation whereby the plaintiff is left free to harass the defendant with another suit on the same cause of action: see Westgate v. Crowe (supra);
+
+__paragraph__
+(iv) where from the evidence the plaintiff is unable to make out his case, judgment should be entered for the defendant, and not merely should the plaintiff be non-suited.
+
+__paragraph__
+(v) The rationale is the same was for (iii) above: see Eduful v. Pantsil (supra); the court may direct that notwithstanding the non-suit, the plaintiff shall be at liberty to bring fresh suit: see Order 40, r.3;
+
+__paragraph__
+(vi) the court is entitled to set aside any judgment of non-suit in any case of surprise, mistake, or accident: see Order 40, r.3;
+
+__paragraph__
+(vii) the court may non-suit the plaintiff without any application by the defendant: see Order 40, r.1;
+
+__paragraph__
+(viii) the court may non-suit a plaintiff even after judgment when a motion for a retrial or review is brought. see Order 40, r.2, and Order 42, r.1 of Cap. 4.
+
+__paragraph__
+In the instant case the grounds of appeal were formulated thus:
+
+__paragraph__
+\[p.204\]
+
+__paragraph__
+"1. The trial magistrate erred in law when he held that the evidence adduced by the plaintiff is caught by the provision in Cap.4, Order 40 and therefore should be non-suited.
+
+__paragraph__
+2\. The trial magistrate erred in law by not allowing other witnesses for the plaintiff to testify so as to appreciate the weight of the totality of evidence in favour of the plaintiff�s case.
+
+__paragraph__
+3\. The learned trial magistrate erred in law by allowing a non-suit application prematurely."
+
+__paragraph__
+He therefore prayed that the judgment of the district court grade 1 be set aside and judgment be entered in favour of the plaintiff-appellant.
+
+__paragraph__
+Ground (1) has to do with the elements constituting the tortious heads under which the damages were sought. There is first the tort of false imprisonment and, next, malicious prosecution. On false imprisonment, first it meant the complete deprivation of liberty for any time, however short, without lawful justification, and thus the starting point in the consideration of a case of false imprisonment was the point where total restraint was imposed: see Atta v. Amoasi \[1976\] 2 G.L.R. 201, C.A., holding (1). In the case of Narwu v. Armah \[1972\] 2 G.L.R. 331, C.A. it was held (as stated in the headnote) that:
+
+__paragraph__
+". . . where a complainant gives information to a police officer and the officer acts according to his own judgment and makes an arrest, the complainant incurs no responsibility in tort for false imprisonment, but where a complainant does not merely give information but directs the officer to effect the arrest, the officer in that case is considered as the servant of the complainant for that purpose and the complainant will incur liability in the tort of false imprisonment ...
+
+__paragraph__
+Malice on the part of the appellant does not displace the necessity for the respondent to prove actual direction or authorisation."
+
+__paragraph__
+This last cited case was relied on in the case of Appiah v. Mensah \[1978\] G.L.R. 342, where the court found that the conduct of the first defendant went beyond that of a person merely making a complaint in that he led the other defendants who were soldiers to the house of the plaintiff to arrest him, provided transport to convey the plaintiff and went with the soldiers to seize the tractor of the plaintiff and to arrest him.
+
+__paragraph__
+In this case the plaintiff testified that on the first day the defendant and the police came to his house to arrest him but met him absent. He reported himself to the police as instructed and was kept in custody. Whilst in custody the defendant came and identified him to a \[p.205\] policeman who thereafter assaulted and detained him. Having led the police to the plaintiff, having been arrested by the police, the defendant if he was a mere informer, would have no business doing with the plaintiff�s detention again. Yet he came to the police station and pointed the plaintiff out to a particular policeman. It was after this that the plaintiff was even told the reason for his arrest. These material facts were never challenged in cross-examination, and in the absence of any rebuttal evidence, these facts were deemed to have been admitted by the respondent. The respondent's conduct, prima facie, did not suggest a person whose only interest in the matter was to make a genuine complaint against the plaintiff. It was held in the Atta v. Amoasi case (supra), holding (6), that whether an arrest had been procured by the defendants was a question of fact which had to be determined by the trial judge. In the instant case the learned trial magistrate made no findings of fact at all. So that he could not non-suit the plaintiff since he had not found as a fact on the evidence that the plaintiff's arrest was not directed or authorised by the defendant. In this respect he erred.
+
+__paragraph__
+Similarly, he made no finding of fact with regard to the second claim founded on malicious prosecution. What a plaintiff must allege and establish in order to succeed in an action based on malicious prosecution has been neatly set out by the Supreme Court in the case of Soadwah alias Sondura v. Obeng \[1966\] G.L.R. 338. The learned trial magistrate did not consider at all whether the evidence adduced by the plaintiff could at least support a prima facie case of malicious prosecution. Having made no findings of fact in the first place, the learned trial magistrate also failed completely to give any reasons for accepting the submission of the respondent's counsel as against that of the appellant's counsel. The need to give reasons for any judgment cannot be over emphasised especially where, as in this case, a party is being thrown out of court with costs against him. On the need to give reasons see the following Court of Appeal cases: R. v. Sarpong \[1959\] G.L.R. 383 at 386, C.A. and Darke IV v. Darke IX \[1981\] G.L.R. 145 C.A. Thus for the reasons: (i) that the plaintiff's evidence raised a prima facie case of false imprisonment and malicious prosecution; (ii) that the learned trial magistrate failed completely to make any findings of facts; and (iii) that he failed to give any reasons for accepting the submission and also for his decision, the first ground of appeal succeeds.
+
+__paragraph__
+I believe the second and third grounds can be taken together since the third appears to be a derivative of the second. Those grounds touch on rules of evidence and more importantly on the audi alteram patem rule. Where an oral hearing is given, a court must, it has been \[p.206\] laid down, (a) consider all relevant evidence which a party wishes to submit, and (b) allow witnesses to be questioned, etc: see R. v. Deputy Industrial Injuries Commissioner; Ex parte Moore \[1965\] 1 Q.B. 456, C.A. The right to call and to cross-examine a witness is therefore, as a general rule, part of the procedure required by natural justice: see Osgood v. Nelson (1872) L.R. 5 H.L. 636.
+
+__paragraph__
+Counsel for the appellant said he intimated to the trial court that he intended calling a police officer as a witness. But the record is totally silent on this. Counsel for the respondent said he did not hear any such request made. Certainly the appellant was entitled at the trial to call such evidence as would help him establish his claim. And if such admissible evidence has been rejected by the trial court and substantial injustice thereby occasioned, the injured party is entitled to a new trial provided he formally tendered such evidence at the trial and requested the trial court to make a note of the point, or, if that request be refused, to enter an exception upon the record: see Campbell v. Loader \[1865\] L.J.Ex.58; Gibbs v. Pike (1842) 9 M & W 351; Whitehouse v. Hemmant (1858) 27 L.J.Ex. 295 and Penn v. Bibby (1866) L.R.3 Eq. 308. If this is not done at the trial I do not think it will be open to the affected party to challenge the trial court's record on appeal. As the Court of Appeal held in Mensah v. Adu \[1972\] 2 G.L.R. 218 at 225, C.A. � adopting the words from Huffer v. Allen (1866) L.R. 2 Exch. 115 whilst the order of the court stands and forms part of its record, the parties are estopped from denying the correctness of the order. However:
+
+__paragraph__
+�. . . it is always open to the court on a motion to correct the order, so as to relieve any party who may be unduly prejudiced by any act done under its order, and to prevent any injurious consequences which may flow from the error.�
+
+__paragraph__
+Counsel for the appellant on receipt of the appeal record could have applied to the court below to rectify the record if he felt there was an error in it. Having failed to do so he cannot complain to this court which did not do the recording. In this case at the end of the appellant's evidence there is nothing on the record to show that counsel intimated he was calling additional evidence. Nor in his address in reply to the submission of the respondent counsel did he mention that he had not closed his case. Hence the submission was premature. In reality he replied to the submission on its merits. I am thus unable to hold that the appellant was denied his right of being heard. However in view of my holding that the plaintiff's evidence raised a prima facie case, I think the submission of non-suit was wrongly received and this I think has occasioned a miscarriage of justice. I therefore set aside the lower court's order and order a trial de \[p.207\] novo. I must here point out that on this new trial the case must be proved afresh, for it is contrary to principle to allow a new trial for the purpose of calling further evidence where the plaintiff being professionally represented, did not call such evidence when available: see Devenish v. P. D. I. Homes (Hythe) Ltd. \[1959\] 1 W.L.R. 1188. I also set aside the costs awarded and if already paid by the appellant it should be refunded to him. I award no cost in this appeal.
+
+__paragraph__
+DECISION
+
+__paragraph__
+Appeal allowed.
+
+__paragraph__
+J.N.N.O.

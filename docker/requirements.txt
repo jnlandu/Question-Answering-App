@@ -1,0 +1,7 @@
+flask
+elasticsearch
+sentence-transformers
+streamlit
+gunicorn
+pandas
+numpy

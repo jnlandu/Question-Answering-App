@@ -1,0 +1,581 @@
+__paragraph__
+Courts�Jurisdiction�Co-ordinate�Decisions or orders by courts of co-ordinate jurisdiction�Circumstances under which a court of co-ordinate jurisdiction ought not to entertain an application previously dealt with by another�High Court (Civil Procedure) Rules, 1954 (L.N. 140A), Order 39, r. 4.
+
+__paragraph__
+HEADNOTES
+
+__paragraph__
+The plaintiff-company (hereinafter called the plaintiffs) issued a writ against the defendant, a director and shareholder of the company, claiming the return of some plant equipment and goods alleged to be in the possession of the defendant and damages amounting to �7 million. In a statement of defence filed, the defendant claimed, inter alia, that the Ghana Government had a lien on the properties being claimed by the plaintiffs. Believing that the defence did not constitute an answer to the claim, the plaintiffs brought an application for an order striking out paragraphs 4-9 of the statement of defence and a consequential order for entry of judgment on admissions or in default of defence. In opposition, the defendant filed, inter alia, a judgment of Ampiah J. (as he then was) in which the defendant was a plaintiff and the other three directors of the company were the defendants. In that judgment Ampiah J. made a consent order that a firm of chartered accountants should audit and value the properties of the company, a report of which should be submitted to the court. He also ordered that no one should dispose of the company's properties pending the submission of the report. The defendant contended that in the light of that ruling, the application was incompetent. Adadevoh J. who heard the motion relied on the ruling of Ampiah J. given on 9 November 1984 and ruled that the defence filed by the defendant raised triable issues to be gone into by the court and that the case be heard on the merits and therefore dismissed the application. Exactly one year later, the plaintiffs filed the same application in the High Court in the same terms, word for word, seeking the same remedies before another High Court judge, Lutterodt J. Six months before Lutterodt J. sat on the motion, the plaintiffs filed a supplementary affidavit to which a judgment of the Court of Appeal setting aside the ruling of Ampiah J. (as he then was) was attached, seeking to use that judgment as a new material introducing new circumstances that justified the rehearing of the application by Lutterodt J. The latter whose attention was not drawn to the earlier ruling of Adadevoh J., who had by then left Accra, granted the application and struck out the relevant offending paragraphs of the defence and entered judgment for the plaintiffs. The defendant appealed to the Court of Appeal arguing that there was a subsisting ruling of Adadevoh J., as a judge of co-ordinate jurisdiction, which had not been reversed on appeal; consequently� it was irregular for Lutterodt J. to entertain the motion. The Court of Appeal by a two to one majority decision dismissed the appeal. On further appeal by the defendant to the Supreme Court,
+
+__paragraph__
+Held, dismissing the appeal (Adade and Aikins JJ.S.C. dissenting): (1) there were exceptions to the rule that a judge of co-ordinate jurisdiction ought not to \[p.651\] entertain an application which had been previously dealt with by another. First, Order 39, r. 4 of the High Court (Civil Procedure) Rules, 1954 (L.N. 140A) envisaged that in certain situations judgments and orders might have to be reviewed by a differently constituted court; and secondly, the setting aside by the Court of Appeal of the ruling of Ampiah J. (as he then was) had created a new situation which justified a fresh recourse to the court. With Adadevoh J. no longer in Accra, Lutterodt J. could have done nothing else but to deal with the application. Consequently, her decision striking out the offending paragraphs of the defence and entering judgment for the plaintiffs as affirmed by the majority of the Court of Appeal was right. Republic v. High Court Judge, Koforidua; Ex parte Nsowaa \[1989-90\] 2 G.L.R. 677 S.C. and Vanderpuye v. Nartey \[1977\] 1 G.L.R .428 at 430, C.A. per Amissah cited,
+
+__paragraph__
+Per Francois J.S.C. It seems to me that whatever the merits of the ruling of Adadevoh J., that ruling collapsed alongside the superstructure that was Ampiah J's ruling and equally denuded Adadevoh J.'s . . . The ruling of the Court of Appeal completely demolished any force in Ampiah J.'s ruling of any weight. In any event . . . a new situation had arisen immediately the defendant conceded that his pleadings disclosed no answer to the plaint and the matter should be resolved by other means. When these floundered the defendants case collapsed.
+
+__paragraph__
+Per Adade J.S.C. dissenting. (i) It strikes me that if Lutterodt J. had seen the ruling of Adadevoh J. her reaction to the application then before her might well have been different. Be that as it may, the ruling \[of Adadevoh J.\] that the case be heard on the merits not having been set aside, and being an order of the High Court in the same case, Lutterodt J. in the same High Court lacked jurisdiction to proceed to give a snap judgment without hearing the case on the merits. The impression must on no account be created that litigants and their lawyers can run from judge to judge until they get the ruling and orders they want. There can be no surer recipe for chaos and confusion in the courts. I would not subscribe to a precedent that points in that direction.
+
+__paragraph__
+(ii) Although her \[Lutterodt J's\] attention was called to the supplementary affidavit \[by the plaintiffs\] the judgment of the Court of Appeal was nowhere mentioned, let alone considered, in her reserved ruling, implying that as far as she was concerned, the decision of the Court of Appeal had nothing to do with any changed circumstances. Her assumption of jurisdiction cannot therefore be justified by recourse to changed circumstances or new matters.
+
+__paragraph__
+Per Aikins J.S.C. also dissenting. It is my view that since the ruling and order or both of Adadevoh J. on 4 March 1985 had not been set aside on appeal or otherwise, Lutterodt J. lacked jurisdiction to hear and determine the fresh identical application filed on 4 March 1986 seeking the very reliefs which had been refused and dismissed.
+
+__paragraph__
+CASES REFERRED TO
+
+__paragraph__
+(1) Anane v. Efriyea (1946) 6 W.A.C.A. 169.
+
+__paragraph__
+(2) Republic v. Circuit Court Judge, Tamale; Ex parte Volta \[1984-86\] 1 G.L.R. 367, SC on application \[1984-86\] 1 G.L.R. 372, SC.
+
+__paragraph__
+(3) Republic v. High Court, Koforidua; Ex parte Nsowaa \[1989-90\] 2 G.L.R. 677, SC.
+
+__paragraph__
+(4) Vanderpuye v. Nartey \[1977\] 1 G.L.R. 428, C.A.
+
+__paragraph__
+(5) Onalaja v. Oshinubi (1949) 12 W.A.C.A. 503.
+
+__paragraph__
+\[p.652\]
+
+__paragraph__
+(6) Onwonka v. Minaise (1952) 14 W.A.C.A. 77.
+
+__paragraph__
+(7) Cudjoe v. Conte Ltd. \[1964\] G.L.R. 28, SC.
+
+__paragraph__
+(8) Burnes v. Pennell (1849) 2 H.L. Cas 497; 14 L.T.O.S. 245.
+
+__paragraph__
+(9) Lancashire Welders Ltd. v. Herlane & Wolff Ltd. \[1950\] 2 All ER 1096: 211 LT 63; 94 SJ 855, CA.
+
+__paragraph__
+(10) Re Seymour; Ex parte Trustee \[1937\] 3 All ER 499; 1937 Ch. 668; 53 LTR 940.
+
+__paragraph__
+(11) Re Badham; Ex parte Trustee (1893) 10 Morr. 252.
+
+__paragraph__
+(12) Telemachus, The \[1957\] 1 All ER 72; \[1957\] TR. 1; \[1956\] 2 Lloyd's Rep.490.
+
+__paragraph__
+(13) Island Tug & Barge Ltd. v. SS Makedonia \[1958\] 1 QB 365; \[1958\] 2 W.L.R. 256; \[1958\] 1 All ER 236.
+
+__paragraph__
+(14) In re Burton's Settlements \[1955\] Ch. 82; \[1954\] 3 W.L.R. 581; \[1954\] 3 All ER 193.
+
+__paragraph__
+(15) Salomon v. Salomon & Co. Ltd. \[1897\] AC. 22; 75 LT 426; 13 LTR 46, PC.
+
+__paragraph__
+(16) Jones v. Lipman \[1962\] 1 W.L.R. 832; \[1962\] 1 All ER 442.
+
+__paragraph__
+(17) Pomaa v. Fosuhene \[1987-88\] 1 G.L.R. 244, SC.
+
+__paragraph__
+NATURE OF PROCEEDINGS
+
+__paragraph__
+APPEAL against the majority decision of the Court of Appeal which had affirmed the decision of Lutterodt J. striking out the offending paragraphs of the statement of defence and entering judgment in favour of the plaintiffs on admissions or in default of defence in a claim for, inter alia, the return of plant and machinery. The facts are sufficiently set out in the judgments of Amua-Sekyi, Francois and Adade JJ.S.C.
+
+__paragraph__
+COUNSEL
+
+__paragraph__
+E. D. Kom, SAG (with him George Kom and Mavis Odoi-Sykes) for the appellant.
+
+__paragraph__
+W. A. N. Adumua-Bossman for the respondents.
+
+__paragraph__
+JUDGMENT OF AMUAH-SEKYI J.S.C.
+
+__paragraph__
+The plaintiffs are civil engineers and the defendant was their general manager. In 1984 the plaintiffs issued a writ against the defendant claiming the following reliefs:
+
+__paragraph__
+"1. The return of the machinery, equipment and other goods the property of the plaintiffs listed in the attached letter dated 14 September 1984 from W.A.N. Adumua-Bossman to the defendant.
+
+__paragraph__
+2\. �7 million damages for the wrongful detention of the said listed goods.
+
+__paragraph__
+3\. Mesne profits as from 17 September 1984 at the rate of �1,885,000 per month of 20 working days or in the \[p.653\] alternative at the rate of �94,250 per day until judgment herein or the delivery up of possession of the said listed goods.
+
+__paragraph__
+4\. Further or other relief as in the circumstances may be just, including, in particular, a perpetual injunction restraining the defendant, whether by himself, his servants, agents or privies whomsoever, from retaining or using any one or more of the said listed goods for any purpose whatsoever whilst in his possession, order, custody or disposition."
+
+__paragraph__
+The plaintiffs filed a statement of claim setting out the facts giving rise to the suit and the defendant filed what he said was a defence to the action.
+
+__paragraph__
+Believing that the defence did not constitute an answer to the matters alleged in the statement of claim, the plaintiffs applied to the court to strike out paragraphs 4 to 9 of the defence and enter judgment for them. The application was opposed by the defendant who alleged, as part of his case, that he had earlier sued the plaintiffs and obtained a ruling against them. He exhibited a ruling of Ampiah J. (as he then was) to his affidavit and contended that it rendered the current suit incompetent. The application for judgment came before Adadevoh J. who refused it. Significantly, he referred to, and relied on, the ruling of Ampiah J. (as he then was) which bears the date, 9 November 1984.
+
+__paragraph__
+Both parties then knew that the ruling of Ampiah J. (as he then was) was on appeal to the Court of Appeal. On 25 July 1985 that court gave a judgment allowing the appeal and setting aside the various orders made under the ruling. When, therefore, the plaintiffs decided to have another try they averred in paragraphs 3-6 of their supplementary affidavit as follows:
+
+__paragraph__
+"3. Since filing the plaintiff-company's similar and unsuccessful motion on 14 January 1985 the legal relationship between the plaintiff-company and the defendant, its former director and expert employee, has been radically affected or altered by the judgment of the Court of Appeal dated 25 July 1985 in Civ. App. No. 33/1985 from the ruling dated 9 November 1984 of Ampiah J. (as he then was) in the High Court, Accra in suit No Misc 131/83.
+
+__paragraph__
+4\. I attach hereto, marked GKAA 1, a photocopy of the certified final order made by the Court of Appeal in the said appeal.
+
+__paragraph__
+5\. I further attach hereto, marked GKAA 2, a photocopy of the certified whole judgment dated 25 July 1985 of the Court of Appeal in the said appeal.
+
+__paragraph__
+6\. I am advised and verily believe that the said copy order and the said copy judgment are both relevant matters to be taken \[p.654\] into consideration in the said motion filed by the plaintiff-company."
+
+__paragraph__
+The application came before Lutterodt J. As before, the parties were represented by Mr Adumua-Bossman for the plaintiffs and Mr. Kom for the defendant. The record shows that Mr. Kom agreed that the plaintiffs were entitled to judgment for the reliefs indorsed on their writ. His only plea was that after the Court of Appeal had allowed the appeal, the parties had appeared before Ampiah J. (as he then was) in this suit and agreed that an account be taken so that the plaintiffs might buy out the defendant who was himself a shareholder. He asked that this agreement be enforced. Having heard counsel, Lutterodt J. struck out the offending paragraphs and ordered that judgment be entered for the plaintiffs.
+
+__paragraph__
+The defendant appealed from that decision to the Court of Appeal. Wuaku J.S.C. sitting as an additional judge of the Court of Appeal, and Essiem J.A. dismissed the appeal. Lamptey J.A. dissented and, although the question of jurisdiction had not been raised, held that it was improper for Lutterodt J. to have entertained the application and that her ruling was null and void. He relied on Anane v. Efriyea (1940) 6 W.A.C.A. 169 in which a plea of res judicata having been unsuccessfully raised in the court of the Chief Commissioner of Ashanti, was raised again four years later before a differently-constituted court and sustained. On appeal, the West African Court of Appeal said at 170:
+
+__paragraph__
+"It is simply the blunt and inescapable truth that the Commissioner's Court having given an interlocutory judgment in a particular suit that judgment stands unless in so far as it may be reviewed by the particular Judge who pronounced it or altered by a competent Appeal Court. No other Judge of the Provincial Commissioner's Court can come along and say�either ex proprio motu or, on application of one of the parties, �'I do not agree with the interlocutory judgment already pronounced by this Court and I shall ignore it and compel the parties to litigate the same question afresh.'�
+
+__paragraph__
+The later ruling on the issue of res judicata was set aside as void. But the court did not stop there. They went on to consider whether the first ruling was right and, having decided that it was wrong, set it aside and remitted the case to the court below with a direction that the claim of the plaintiffs be dismissed.
+
+__paragraph__
+A similar situation arose in Republic v. Circuit Court Judge, Tamale; Ex parte Volta \[1984-86\] 1 G.L.R. 367, CA and Republic v. Circuit Court Judge, Tamale; Ex parte Volta \[1984-86\] 1 G.L.R. 372, \[p.655\] S.C. In the Court of Appeal decision (supra) the facts were that the appellant, Zieche, was charged with offences under the Wildlife Reserves Regulations, 1971 (L.I. 710) before the Circuit Court, Tamale. He was acquitted and the judge made an order that the hunting rifle found on him and seized by Volta, Senior Game Warden of the Mole National Park, be returned to him. Volta applied to the High Court, Tamale for an order of certiorari to quash the restitution order for want of jurisdiction. Dove J. dismissed the application; but eight months later Sapong J. set aside the order of Dove J. as void and quashed the restitution order made by the circuit court. On appeal to the Court of Appeal, it was held that the order of Sapong J. was void. When the appeal against the decision of Dove J. also came tip for hearing it was set aside as wrong, and the restitution order of the circuit judge was quashed.
+
+__paragraph__
+There are exceptions to the rule that a judge of co-ordinate jurisdiction ought not to entertain an application which has been previously dealt with by another. In Republic v. High Court, Koforidua; Ex parte Nsowaa \[1989-90\] 2 G.L.R. 677, SC post, this court drew attention to the fact that Order 39, r. 4 of the High Court (Civil Procedure) Rules, 1954 (L.N. 140A) envisages that in certain situations judgments and orders may have to be reviewed by a differently constituted court. The point was also made by the Court of Appeal in Vanderpuye v. Nartey \[1977\] 1 G.L.R. 428, C.A. There, an application for interim reliefs was refused by Griffiths-Randolph J. after he had heard both parties. Subsequently, it was repeated before Edusei J. (as he then was) who held that the matter having been already dealt with by another judge, he could not interfere. On appeal, it was held that as he new matters had arisen since the first decision was given, Edusei J. (as he then was) ought to have entertained the application and given a decision on the merits. The court per Amissah J.A. at 430 said:
+
+__paragraph__
+"If there is new matter which changes the positions of the parties, a court should look at it to determine whether the prayer in a motion for interlocutory relief ought to be granted despite the fact that a similar motion has already been disposed of in relation to the same question. The courts must be left to determine at their discretion when a party is using their processes to pursue his frivolous or vexatious ends."
+
+__paragraph__
+The setting aside by the Court of Appeal of the ruling of Ampiah J. (as he then was) had created a new situation which justified a fresh recourse to the court. With Adadevoh J. no longer stationed in Accra one wonders what else Lutterodt J. could have done but to deal with the application.
+
+__paragraph__
+\[p.656\]
+
+__paragraph__
+The power of the court to strike out pleadings is governed by Orders 19, r. 29 and 25, r. 4 of the High Court (Civil Procedure) Rules, 1954 (L.N. 140A). Order 19, r. 29 provides:
+
+__paragraph__
+"29. The Court or a Judge may at any stage of the proceedings order to be struck out or amended any matter in any indorsement or pleading which may be unnecessary or scandalous or which may tend to prejudice, embarrass, or delay the fair trial of the action; and may in any such case, if they or he shall think fit, order the costs of the application to be paid as between solicitor and client."
+
+__paragraph__
+And Order 25, r 4 also provides:
+
+__paragraph__
+"4. The Court or a Judge may order any pleading to be struck out, on the ground that it discloses no reasonable cause of action or answer, and in any such case or in case of the action or defence being shown by the pleadings to be frivolous or vexatious, the Court or a Judge may order the action to be stayed or dismissed, or judgment to be entered accordingly, as may be just."
+
+__paragraph__
+There is, of course, additionally an inherent jurisdiction to stay or dismiss actions and to strike out pleadings which are vexatious or frivolous or an abuse of the process of the court. These or similar powers were exercised in Onalaja v Oshimubi (1949) 12 W.A.C.A. 503 and Onwonka v. Minaise (1952) 14 W.A.C.A. 77. There is nothing arbitrary in them; rather they are designed to save parties the expense of long and costly trials when there is no cause of action or no reasonable defence, especially in cases where the issue can be resolved by simply looking at the pleadings. The courts must be astute to prevent abuse of the rules of procedure which are designed to ensure the fair trial of genuine claims and defence only.
+
+__paragraph__
+Put simply, the case for the plaintiffs was that the defendant had in his custody and under his control various machines and equipment belonging to them and which he had diverted to undertake work for a rival company formed by him. The defendant admitted that fact, but contended in paragraphs 4-9 of his so-called defence that the Ghana government and its agencies had a lien on the machines and equipment. Clearly, this was no answer to the claim. The mystery is how Adadevoh J. came to be misled into thinking that there were any issues to be tried. Even though the ruling of Ampiah J. (as he then was) declared that the affairs of the plaintiff-company were being conducted in an oppressive manner and granted an injunction it did not make the defendant the custodian of the machines and equipment for the Ghana government.
+
+__paragraph__
+\[p.657\]
+
+__paragraph__
+I am satisfied that, whatever may be the merits of the counterclaim of the defendant, the defence filed by him did not disclose any reasonable answer to the claim of the plaintiffs. The decision of Lutterodt J. was therefore right and ought to be affirmed. This means that the appeal fails, and it is hereby dismissed.
+
+__paragraph__
+JUDGMENT OF FRANCOIS J.S.C.
+
+__paragraph__
+I agree with the leading opinion read by my brother Amua-Sekyi J.S.C. and only wish to add a few words of my own. This matter which began as a simple attempt by a company to enlist the court's aid to suppress a violation of trust by one of its directors, has been transformed into an unsavory legal conflict with the unacceptable result of perpetuating the mischief complained about.
+
+__paragraph__
+The facts briefly are that the plaintiff-respondents (hereinafter called the plaintiffs), an engineering company, sought to restrain one of its directors, the defendant-appellant (hereinafter called the defendant) from utilising the company's assets to his advantage in a rival business operation. The defendant was in charge of the plaintiffs' contract termed "The Weija Irrigation Project." This was a project funded by the European Development Fund under the aegis of the Government of Ghana. The participation of these third parties enabled the plaintiffs to acquire heavy machinery for the company's use at the project site, with arrangements for settling the cost later.
+
+__paragraph__
+In 1989 the plaintiff-company learnt that its servant, the defendant, had set up a rival company, Ladco Ltd., which was using the company's equipment for competitive work. It was the unheeded protest at the breach of the fiduciary relationship of the defendant with the company and the failure to return the equipment of the company that provoked the suit.
+
+__paragraph__
+The above facts were stated in meticulous detail in the plaintiffs' claim. The defendant's response was merely to define his status as a managing director with one-third equity shareholding in the company. The defence admitted unequivocally that the defendant was appointed by the company "to be the director in charge of the Weija Irrigation Pilot Project and to be the sole agent for the plaintiff-company in respect of this project."
+
+__paragraph__
+Save for these averments, which appeared in the first two paragraphs of the defence, the defendant made no pretence at answering the claim. On the contrary, the defendant appeared to project a gratuitous stance as an agent for and protector of government interests.
+
+__paragraph__
+With the state of the pleadings, the plaintiff-company moved the High Court to strike out the irrelevant paragraphs and give judgment, as no contest had been joined. The matter came before Adadevoh J. on \[p.658\] 4 March 1985. The learned judge rejected the application relying principally on a previous ruling of Ampiah J. (as he then was) in a different suit. Pausing for a moment, Ampiah J. (as he then was) found as a fact that the defendant had set up a rival company whose objects were in competition with the plaintiffs'. Ampiah J. (as he then was) however found nothing wrong with this; but the Court of Appeal to which the matter later reached, was very scathing in its condemnation. The ruling of Ampiah J. (as he then was) was accordingly set aside. It seems to me that whatever the merits of the ruling of Adadevoh J., that ruling collapsed alongside the superstructure that was the ruling of Ampiah J. (as he then was).
+
+__paragraph__
+Adadevoh J. also held that there were triable issues, when clearly there were none. No judge is bound by the legal misapprehensions of another judge, let alone one of co-ordinate jurisdiction. Thus the rules of stare decisis do not extend to errors per incuriam even from the highest court of the land. In the leading case of Cudjoe v. Conta Ltd. \[1964\] G.L.R. 28 at 34, it was held that:
+
+__paragraph__
+". . . the company's assets are impressed with the qualities of a trust fund, . . . where the directors make a profit as the result of their fiduciary position, they have to account to the company for it.�
+
+__paragraph__
+Clearly neither on the facts nor on the law had the defendant a title of a right to the company's assets. He had no defence at law to the claim for the return of the company's assets. In the circumstances for any court to rely on any technical reason to order what may amount to a retention in the defendant's hands of the company's property even for the briefest of moments would be perpetuating an inexcusable illegality.
+
+__paragraph__
+On 17 March 1986, long after the vacation of the ruling of Ampiah J. (as he then was), the plaintiffs applied again to the High Court, presided over by Lutterodt J., for the offending paragraphs in the defence to be struck out and judgment entered for the plaintiffs.
+
+__paragraph__
+It was in the consideration of this application that counsel for the defendant claimed an agreement had been struck with the plaintiffs to buy out the defendant and a counterclaim had been filed in the action. Counsel continued: "otherwise I would agree that they are entitled to the reliefs they now seek." Counsel did not challenge the court's jurisdiction; on the contrary he conceded it but raised supervening matters that prohibited a judgment being entered for the plaintiffs on the state of the pleadings.
+
+__paragraph__
+The learned judge's appreciation of the position was summed up as follows:
+
+__paragraph__
+\[p.659\]
+
+__paragraph__
+"My understanding of the plaintiffs' application is that since the defendant admits all the essential facts upon which their action is founded, and since more particularly his own counsel confesses that what they have filed in answer to the claim constitutes no defence at all, they are entitled to have these irrelevant, prejudicial embarrassing paragraphs 4-9 struck out. When these are thrown out, they urge, we shall find the defendant has no defence at all and they are thus entitled to judgment on admission.
+
+__paragraph__
+In view of counsel's own confession therefore, once I have found that there is no agreement which binds the plaintiff-company and stops them from pursuing the claims set forth in the affidavit and as appears in the writ. I shall have no option but to strike out paragraphs 4-9 of the defence and enter judgment in the plaintiffs' favour."
+
+__paragraph__
+One can hardly quarrel with that. Clearly then the two obstacles to entering judgment for the plaintiffs were the existence of a prior agreement which would stay the plaintiffs' hand and the existence of a counterclaim. That was the position of all the parties and it speaks ill of any party resiling from that stand to dangle before this court the absurd red herring of a previous ruling. Taking the two matters in reverse order, it would be noted that the counterclaim was filed late and in breach of the High Court (Civil Procedure) (Amendment) (No 2) Rules, 1977 (LI 1129). This violation of the rules notwithstanding, a counterclaim being a separate action, the claim could proceed without being necessarily bogged down by an incompetent counterclaim.
+
+__paragraph__
+On the second issue, there was nothing on record to show all agreement between the parties which should remove the matter from the court's jurisdiction. A ruling of Ampiah J. (as he then was) of 12 November 1985 placing an embargo on the disposal of the company's assets, never stated any agreement to buy out the defendant. Nor could any such agreement be legitimately inferred therefrom. The defendant neither pleaded nor exhibited it. The normal sanction for contempt is punishment till the contempt is purged. This salutary machinery was never invoked because no one contemplated violating the order. Moreover the shareholders of a company are not its agents for any purpose whatsoever: see Burnes v. Pernell (1849) 2 HLC 497. Consequently, any arrangement allegedly entered into between the defendant and another shareholder could not bind the company unless the company's consent is shown. In my view both issues: of an existing counterclaim and an alleged agreement, are mere red herring, as irritating as they are irrelevant. The defendant relied on those two \[p.660\] issues only and having failed in them, he is estopped from resurrecting any others.
+
+__paragraph__
+Yet the mainstay of the defendant's argument is that there was a subsisting ruling of Adadevoh J. which had not been reversed on appeal; consequently, it was irregular for Lutterodt J. to entertain the application, let alone rule favourably on it. That stance fails to recognise that the ruling of the Court of Appeal completely demolished any force in the ruling of Ampiah J. (as he then as) and equally denuded Adadevoh J.'s ruling of any weight. In any event, I must repeat, a new situation had arisen immediately the defendant conceded that his pleadings disclosed no answer to the plaint and that the matter should be resolved by other means. When these floundered the defendant's case collapsed. As was stated in Phipson on Evidence (10th ed.) at p 45:
+
+__paragraph__
+"Where admissions are made in an action, whether on the pleadings or otherwise, the other party may at any stage apply for such judgment or order as he may be entitled to on such admissions without waiting for the determination of any other question in the action."
+
+__paragraph__
+See also Lancashire Welders Ltd. v. Harland & Wolff Ltd. \[1950\] 2 All ER 1096, CA.
+
+__paragraph__
+Since the case had not been stayed, the court had a duty to continue it to a conclusion even as also the plaintiffs to press their case. The intervening orders could not be other than interlocutory. The reductio ad absurdum of the argument that Lutterodt J. should not have proceeded with the matter in view of Adadevoh J.'s ruling, is to say that a court could stultify another court's proceedings permanently. No interim order can produce that effect.
+
+__paragraph__
+I am of the clearest view that the appeal is completely devoid of merit and must be dismissed.
+
+__paragraph__
+JUDGMENT OF ADJABENG J.A.
+
+__paragraph__
+I also agree that this appeal should be dismissed for the reasons contained in the learned judgments of my brothers Francois and Amua-Sekyi JJ.S.C. I have had the benefit of reading the judgments beforehand and I have nothing useful to add thereto.
+
+__paragraph__
+JUDGMENT OF ADADE J.S.C.
+
+__paragraph__
+The basic facts in this appeal have been sufficiently sketched in the opinions already read. All these being documentary (pleadings, motions, affidavits and rulings) cannot be in dispute.
+
+__paragraph__
+The question that interests me and to which I desire to direct attention is whether in the circumstances of this case, Lutterodt J. was in order in assuming jurisdiction over the application that went to her and in deciding it.
+
+__paragraph__
+\[p.661\]
+
+__paragraph__
+The problem has arisen in very interesting circumstances. On 20 December 1984 the plaintiff-company (hereinafter called the plaintiffs) per their solicitor, Mr W. A. N. Adumua-Bossman, filed an application in the High Court asking for:
+
+__paragraph__
+"(i) an order striking out paragraphs 4-9 of the statement of defence herein on the ground that these paragraphs are all unnecessary or tending to prejudice, embarrass or delay the fair trial of this action; and
+
+__paragraph__
+(ii) a consequential order for judgment upon the defendant's admission or alternatively in default of defence."
+
+__paragraph__
+This was two months after the statement of defence had been filed, but before the plaintiffs had taken any other step in the action. The supporting affidavit was sworn by "George Kofi Asafu Adjaye of Dome, Accra, civil engineer and managing director of the plaintiff-company." The application was naturally opposed. After hearing counsel for the parties (Adumua-Bossman for the plaintiffs, with Edwin Opoku and Ohene-Ampofo for the defendant) the High Court (Adadevoh J.) on 4 March 1985 gave its ruling, refusing the application on the ground that the defence raised triable issues which ought to be gone into. Whatever the merits of this ruling, it disposed of the application. After the ruling, therefore, the case was to take its normal course, i.e. the plaintiffs to file a reply to the statement of defence (if so advised); summons for directions to be taken; issues agreed; and a date fixed for hearing. This is the usual course a civil case takes. Of course, if either party felt aggrieved by the ruling, he had every right to appeal or to apply for a review. Neither party appealed, nor asked for a review.
+
+__paragraph__
+On 4 October 1985 Mr. E. D. Kom filed notice that he had been appointed a solicitor for the defendant, in addition to Mr. K. Ohene-Ampofo. On 4 March 1986, exactly one year after Adadevoh J.'s ruling, Mr. Adumua-Bossman filed in the High Court another application in exactly the same terms and seeking the same remedies as the one which Adadevoh J. dismissed on 4 March 1985. The accompanying affidavit was the same as the earlier one, word for word, paragraph for paragraph, and was sworn by the same person, G. K. Asafu Adjaye. Somehow this new application was not heard until one whole year afterwards, when on 29 April 1987 it was put before a different judge, Lutterodt J. The plaintiff-applicants were again represented by Mr. Adumua-Bossman; but the defendant-respondent was this time represented by Mr. Kom. Lutterodt J. heard the application and in a reserved ruling read on 27 May 1987 granted it. She struck out the paragraphs of the statement of defence sought to be removed, and proceeded to give judgment for the plaintiffs on their \[p.662\] claim: final as regards claims 1 and 4; and interlocutory as regards claims 2 and 3 relating to damages and mesne profits. These orders were the exact opposite of what the same High Court (Adadevoh J.) had decreed on the same application two years earlier, on 4 March 1985. It is this ruling of Lutterodt J. which, passing through the Court of Appeal, is now before us for scrutiny.
+
+__paragraph__
+The question which arises is whether having regard to the subsistence of the ruling of Adadevoh J. Lutterodt J. had jurisdiction to rehear that same application. In the course of attempting an answer to this question, it will be necessary to comment on: (a) the alleged agreement between counsel on or about 12 November 1985 concerning the buying-out of the defendant, together with the orders of Ampiah J. of the same date; and (b) the introduction into the debate of the judgment of the Court of Appeal dated 25 July 1985 in Civil Appeal No 33/1985.
+
+__paragraph__
+As stated earlier, the ruling of Lutterodt J. was appealed to the Court of Appeal. That court, by a majority of two to one (Lamptey J.A. dissenting) affirmed the ruling and dismissed the appeal. From their judgment this appeal has come.
+
+__paragraph__
+For some reason, not easily appreciated, the issue of jurisdiction as formulated above, so glaring on the face of the record, managed to escape the attention of the majority in the Court of Appeal. It was completely side-stepped and never mentioned at all. The proceedings before Adadevoh J. receives a single short reference as follows:
+
+__paragraph__
+"The plaintiffs brought a motion that the defendant's paragraphs 4-9 be struck out as being no defence in law and judgment given them upon their claim.
+
+__paragraph__
+The motion was not heard but was struck out by Adadevoh J. on 4 March 1985 on the grounds, inter alia, that the plaintiffs were unable to carry out the order of High Court made on 9 February 1982 (sic). Costs of �1,000 was awarded against the plaintiffs and the following order made:
+
+__paragraph__
+'By Court: It is ordered that the senior High Court registrar should take the list of equipment in possession of the defendant. It is also ordered that the defendant, his agents, servants and privies should not sell or transfer the equipment to any third party until the final determination of this suit.' This order virtually put the defendant in possession and use of the machinery and the equipment claimed until the final determination of the suit by the High Court."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+With the greatest respect to their lordships, the motion was heard; it was not just struck out. Counsel on both sides addressed the court.
+
+__paragraph__
+\[p.663\]
+
+__paragraph__
+Notes of their submissions took almost a full page of the record. The ruling of Adadevoh J. covered slightly more than one page. Secondly, the final order of Adadevoh J. which the Court of Appeal chose to quote, conceals the substance of, and reasons for, the ruling. The substance of the ruling is as follows:
+
+__paragraph__
+"Having heard counsel for the plaintiff-applicants and having read the affidavit in support of the motion to strike out part of the defence and for judgment, and having heard counsel for the defendant-respondent and having read the affidavit in opposition, I am of the opinion that the defence filed by the defendant has raised certain triable issues which should be gone into."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+He then proceeded to discuss counsel's submissions, the paragraphs sought to be struck out, certain sections of the Companies Code, 1963 (Act 179) and concluded: "I am of the opinion that the averments made in paragraphs 8, 9 and 11 of the statement of defence raise some triable issues which must be gone into. . ." (The emphasis is mine.)
+
+__paragraph__
+The learned judge summarised the reasons for dismissing the motion as follows:
+
+__paragraph__
+"Since the plaintiffs are unable to carry out the orders of the High Court made on 9 February 1982 and \[for\] the reasons given in this ruling, the plaintiff-applicants' motion for judgment and to strike out paragraphs 4, 6 and 9 of the defendant's statement of defence is not granted as prayed for. Motion is dismissed. The plaintiffs should pay �1,000 costs to the defendant."
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+Indeed, in paragraph 9 of his statement of defence the defendant denied that the machines belong to the plaintiffs. It was after the dismissal and the award of costs that the order for the preservation of the machinery, quoted by the Court of Appeal, was made.
+
+__paragraph__
+The above references, which are only a small part of what Adadevoh J. wrote, are enough to show how much the Court of Appeal (majority) inadvertently concealed by that single reference, and how that single reference can be misleading. Adadevoh J.'s ruling was not seen by Lutterodt J. In this court Mr. Adumua-Bossman, for the plaintiffs, says that it escaped counsel on both sides to draw Lutterodt J.'s attention to the ruling. I find this strange. Mr. Kom (for the defendant) was, of course, relatively new to the case at the time. Even so, he surely must have had on his file the plaintiffs' supplementary affidavit filed on 2 October 1986 and in paragraph 2 of which reference was made to: "the plaintiff-company's similar and unsuccessful \[p.664\] motion on 14 January 1985." As regards Mr. Adumua-Bossman, his failure to call the learned judge's attention to the ruling in the "similar and unsuccessful motion" of 1985 is in my view, unfortunate. He had been in the case throughout; he moved the motion in 1985, and was present in court when Adadevoh J. read his ruling. When arguing the same motion before Lutterodt J., he could not possibly have forgotten the fate of the same application before Adadevoh J. particularly as, in argument before Lutterodt J., he referred to his supplementary affidavit.
+
+__paragraph__
+It strikes me that if Lutterodt J. had seen the ruling of Adadevoh J., her reaction to the application then before her might well have been different. Be that as it may, the ruling in 1985 to the effect that the case be heard on the merits not having been set aside, and being an order of the High Court in the same case, Lutterodt J. in the same High Court lacked jurisdiction to proceed to give a snap judgment without hearing the case on the merits. The impression must on no account be created that litigants and their lawyers can run from judge to judge until they get the ruling and orders they want. There can be no surer recipe for chaos and confusion in the courts. I would not subscribe to a precedent which points in that direction.
+
+__paragraph__
+In this connection, I agree with the minority view of Lamptey J.A. in the Court of Appeal that:
+
+__paragraph__
+"There can be no doubt that the ruling of Adadevoh J. finally disposed of the application and the High Court, no matter how constituted, cannot and must not entertain an identical and similar application seeking the very reliefs which it had firmly and finally refused and dismissed. In my opinion the hearing and determination of the application now on appeal before us by Lutterodt J. was an exercise in futility; on the sole ground that the court lacked jurisdiction. On this ground I am of the opinion that the appeal be allowed. The decision of the lower court is a nullity and must be set aside. That the law in point is as I have stated above is supported by the case of Anane v. Efriyea (1940) 6 W.A.C.A. 169. At 170 the court stated as follows:
+
+__paragraph__
+'This is not a question of estoppel by res judicata and not a question of giving in evidence a judgment in another case as res judicata. It is not a question of evidence at all. It is simply the blunt and inescapable truth that the Commissioner's Court having given an interlocutory judgment in a particular suit that judgment stands unless in so far as it may be reviewed by the particular Judge who pronounced it or altered by a competent Appeal Court. No other Judge of the Provincial Commissioner's Court can \[p.665\] come along and say�either ex proprio motu or, on application of one of the parties,�'I do not agree with the interlocutory judgment already pronounced by this Court and I shall ignore it and compel the parties to litigate the same question afresh. "'
+
+__paragraph__
+The court went further to state at 171 that:
+
+__paragraph__
+"The Defendant's remedies, if dissatisfied with the judgment of Dickinson, Acting Assistant Chief Commissioner, were either to appeal as against an interlocutory judgment within the time provided ad hoc or to raise the matter on appeal after final judgment."
+
+__paragraph__
+The present case is on all fours with Anane v. Efriyea (supra).
+
+__paragraph__
+In fairness to Lutterodt J., it must be observed that in coming to a decision on the motion, the learned judge had very little assistance from the Bar, which is a pity. The defence, in spite of all the time at their disposal (a full twelve months), did not file an affidavit in opposition to the application. The motion was filed on 4 March 1986; the plaintiffs' supplementary affidavit was filed on 2 October 1986; the motion was moved on 29 April 1987. An affidavit in opposition could have raised not only Adadevoh J.'s ruling, but also the alleged agreement between counsel which was orally pleaded at the hearing, as well as the ruling of Ampiah J. (as he then was) of 12 November 1985 (of which more anon).
+
+__paragraph__
+Secondly, Lutterodt J. was obviously misled by defence counsel's "confession" (I believe she meant "concession"). But that "concession" was predicated on two grounds: the agreement between counsel and the ruling of Ampiah J. (as he then was) of 12 November 1985. The record shows that after counsel had referred to the agreement to buy out his client, Mr. Kom proceeded:
+
+__paragraph__
+"The result is the order of 12 November 1985. Agyeman-Bempah was present. Both parties have paid an amount and this \[presumably the valuation\] is being done. We filed an interlocutory. In view of these order\[s\] made for valuation and in view of the fact that the company has seen to it that the other (sic) be completed they cannot ask for these reliefs."
+
+__paragraph__
+Counsel then concludes: "Otherwise I would agree that they are entitled to the reliefs they now seek." (The emphasis is mine.) The �concession� therefore was a qualified concession. It cannot be used without inquiring into the conditions upon which it was given. Otherwise it ceases to have any force. The learned judge said she found no record of the agreement, and so discounted it. However, she \[p.666\] did find a full record of the ruling of Ampiah J. (as he then was) which she quoted in extenso, but she failed, respectfully, to consider the effect of that ruling on the proceedings before her: there is no indication in the ruling that such effect was considered. In my view, that failure vitiated the so-called �concession� on which she so heavily relied.
+
+__paragraph__
+The question, however, is: was there, indeed, in all probability, an agreement between counsel binding on their clients, as orally pleaded by Mr. Kom? The issue impinges on professional ethics and must not be glossed over by this court, especially as it was found to be relevant and crucial in the two courts below, and it remains relevant and crucial to a fair and just decision in this appeal.
+
+__paragraph__
+I must premise that in the administration of justice, the courts must be able to accept and rely on statements form counsel at the Bar, in particular, statements concerning agreements, compositions, arrangements, accords, etc. in respect cases in which they are engaged. On a number of occasions, these agreements, etc. will, at the instance of one or both counsel, be recorded in the record book. But very often these agreements, etc. are not recorded, if only because they may not be spoken to the hearing of the judge. It is the outcome of the exchanges which often gets recorded. For example, a harmless record such as "by consent case adjourned for three months" may be hiding a substantial unspoken agreement between counsel that one side has conceded the claims and has asked for time to look for money to pay the other side, so that on the return date counsel are merely going to announce that the case has been settled, and apply for it to be struck out as discontinued. In such a situation, if something should happen, e.g. if the defence should apply to dismiss the action for want of prosecution, the judge will look in vain in the record book for the substantive agreement. But these off-record agreements enormously assist the work of the courts; they are agreements, etc. made between honourable men of an honourable profession, and they are always expected to be honourably kept.
+
+__paragraph__
+If ever there should be a dispute in open court as to what was agreed or not agreed between counsel, off-record, the court should investigate the matter if it is relevant to its decision. In this case, from the nature of the ruling given by Lutterodt J., it is evident that the alleged agreement was material and relevant to her decision. Mr. Kom had alleged orally that there had been an agreement of a certain nature between himself and Mr. Agyeman-Bempah (then representing the plaintiff) on a certain occasion, and that on the basis of that agreement counsel had consented to a certain order being made Mr. Adumua-Bossman denied this agreement. The learned judge, Lutterodt J. adjourned her ruling for a month to enable her check on this. She \[p.667\] combed the record book, found no record of the alleged agreement, and then proceeded to deliver her ruling.
+
+__paragraph__
+I cannot say that I am happy with this aspect of the proceedings. I do not see why, when Mr. Adumua-Bossman found himself unable to agree with Mr Kom, an adjournment was not sought to consult Mr. Agyeman-Bempah on the issue. After all, he represented the plaintiff-company at the material time. Alternatively, when the record book failed to turn up any evidence of the alleged agreement, Mr. Agyeman-Bempah could have been invited to make a statement on the issue, either from the Bar or in writing. This would have settled the matter. None of this happened, a state of affairs which would seem, in the circumstances, to have significantly affected the level of justice or injustice done in this case. It seems to me that from the record there was, in all probability, such an agreement, binding on the plaintiffs, and therefore disabling them, as contended by Mr. Kom, from pursuing their application for judgment.
+
+__paragraph__
+Mr. Adumua-Bossman says that if there was any agreement at all, it was one between the majority shareholders and the defendant, not between the plaintiff-company and the defendant, and therefore the plaintiff-company could not be bound by such an agreement. This argument cannot be right. It must be appreciated that at the material time, Mr. Agyeman-Bempah was representing the plaintiff-company, not any shareholder. Therefore any agreement or concessions he made must have been made on behalf of his client. He could not bind persons who had not instructed him, who were not his clients, and who were not parties to the case anyway. But this argument, misconceived though it was, found favour with the High Court. Said the learned judge:
+
+__paragraph__
+". . . I find no record of the fact that it was agreed that the majority shareholders buy the minority shareholders. In any case, I would agree with the applicants' counsel's submission that the shareholders in particular are a distinct personality from the plaintiff-company. Since no judgment by consent has been entered against the plaintiff-company (as the agreement reached in any settlement) I would find it difficult to hold that they are bound by any such orders."
+
+__paragraph__
+The record shows that on 14 October 1985, Mr. Kom for the defendant, filed an application for interim injunction to restrain the plaintiff-company from "disposing or otherwise alienating any of the assets of the company until the final hearing and determination of the suit." In the affidavit in support of the application the defendant charged that:
+
+__paragraph__
+\[p.668\]
+
+__paragraph__
+"4 . . . my co-director-shareholders, the defendants herein to the counterclaim, have formed a plant-hire company called Asakum Plant Hire Ltd. and I fear that if the application is not made and granted, the machines, the subject of this suit and the other assets of the company may find their way there.
+
+__paragraph__
+5\. That any sale of the company's assets during the pendency of the suit may frustrate my counterclaim."
+
+__paragraph__
+The company did not file any affidavit in opposition. When the application was called before Ampiah J. on 12 November. 1985, the record reads:
+
+__paragraph__
+"Agyeman-Bempah for the plaintiff-respondent, E. D. Kom for the defendant-applicant�Motion for interim injunction. Mr. Agyeman-Bempah: We have agreed that a firm of accountants be appointed to value the assets and liabilities of the company and value the shares. They are to prepare a statement of accounts on the plaintiff-company.
+
+__paragraph__
+Mr. Kom: That is correct."
+
+__paragraph__
+Following from this, the court made the order appointing the accountants. Thus the application for interim injunction was not argued at all, and from the nature of the statement by Mr. Agyeman-Bempah, it is clear that some other discussions and accords must have preceded the result which was announced in open court by Mr. Agyeman-Bempah. The valuation could only have been for the purposes of enabling the parties to know how much each of the persons involved in the company was entitled to. Mr. Kom says that the company was to pay off or buy out the defendant. This does not appear in Mr. Agyeman-Bempah's statement, or in the order finally made by Ampiah J. (as he then was) but the alleged agreement fits squarely the purpose of the valuation as indicated by Mr. Kom.
+
+__paragraph__
+Further, in a letter dated 21 March 1986 addressed by Mr. Adumua-Bossman to Mr. Kom, there appears a passage which lends support to the position taken by Mr. Kom. In that letter, Mr. Adumua-Bossman says:
+
+__paragraph__
+"Re Asakum Engineering & Construction Ltd.
+
+__paragraph__
+Following upon our short discussion in court 2 yesterday morning, I met the directors of Asakum Engineering and Construction Ltd. (save except your client) in the afternoon. I believe I summarise their company's position, accurately as follows:
+
+__paragraph__
+\[p.669\]
+
+__paragraph__
+(1) The other shareholders (whether directors or not) and the company itself are willing in principle to buy out your client (Maxwell Kwasi Agyeman-Agyekum) at a valuation to be made by the accounting firm of Delloite & Co., Accra . . .�
+
+__paragraph__
+(The emphasis is mine.)
+
+__paragraph__
+Delloite & Co. was the company appointed on 12 November 1985 by the court (Ampiah J. (as he then was)) to prepare the accounts of the company and to value the shares." It would seem to me that the plaintiff-company's position had all along been at stated by Mr. Adumua-Bossman, and that it was on the same understanding that Mr. Agyeman-Bempah made the statement on 12 November 1985. It must have been realised on all sides that relations among the directors and shareholders had soured beyond repair, and the only sensible thing to do was to buy out the defendant, so that the group of family members left could become the sole shareholders. I find that on the record the agreement spoken of by Mr. Kom, in all probability, was entered into by the company and bound the company. Contrary to what the Court of Appeal (majority) says, a company may in certain circumstances be ordered by the court to purchase its own shares \[see section 218 (2) (c) of Act 179\]. So that an agreement that the plaintiff-company buy out the defendant cannot be unlawful. In any case, as the Court of Appeal observed on 30 July 1987 in an application for a stay of execution (per Amua-Sekyi J.A. (as he then was)):
+
+__paragraph__
+�. . . the consent order \[of 12 November 1985\] was made in a suit to which the company was a party and in the presence of their counsel. They are bound to comply with it. . ."
+
+__paragraph__
+The letter by Mr. Adumua-Bossman which I have referred to was written on 21 March 1986, and the reply to it, expressing complete agreement with the sentiments contained therein, was dated 10 April 1986. Both documents were in the possession of counsel when Lutterodt J. was dealing with the plaintiffs' motion on 29 April 1987. How, notwithstanding the accords in November 1985 before Ampiah J. (as he then was), counsel could also have glossed over the agreement evidenced in writing in the correspondence of 1986 when they were arguing the motion before Lutterodt J. in April 1987, is a mystery.
+
+__paragraph__
+Commenting on the alleged agreement between counsel, the Court of Appeal (per Wuaku J.S.C.) observed:
+
+__paragraph__
+"I have gone through the record of proceedings and I am entirely in agreement with the trial judge that there is no evidence of any \[p.670\] agreement oral or written between Mr. Kom and Mr. Agyeman-Bempah. If there was one, it was never pleaded. There was no defence to the plaintiffs' claim."
+
+__paragraph__
+This statement shows how crucial the agreement was to the case. But the statement is unfortunate. Mr. Kom never said that the agreement was in existence at or near the commencement of the action. So that pleading the agreement is totally out of the question. A proper reading of the record indicates that the agreement was entered into just when the motion for interim injunction was about to be taken, i.e. on 12 November 1985. In any case, at the Court of Appeal stage when the learned judge said he went through the record, there existed an agreement, evidenced in writing, of the same nature and character as the one spoken of by Mr. Kom, not so much between Mr. Kom and Mr. Agyeman-Bempah, but between Mr. Kom and Mr. Adumua-Bossman, representing the same parties as before. All the letters evidencing this agreement were in existence at the time Lutterodt J. was hearing the motion. They were not put before her; but they were on the record, and were before the Court of Appeal. It would seem that the Court of Appeal, respectfully, failed to adequately examine the evidence on record in this regard.
+
+__paragraph__
+Be that as it may, the hearing before Ampiah J. (as he then was) terminated in a consent order as follows:
+
+__paragraph__
+"By court: By consent Messrs Delloite, Haskins and Sells, Chartered Accountants are appointed to prepare the accounts of the company and to value the shares. They are to submit their report on or by 11 February 1986. The parties should make available to the firm all the available books to the accountants. The accountants will be paid their remuneration as agreed upon. Registrar to act accordingly. In the interim no one is to dispose of any of the properties of the company pending the report."
+
+__paragraph__
+The Court of Appeal's assessment of this order is that it was a mere interlocutory ruling or order:
+
+__paragraph__
+"it \[could\] not therefore operate to stop the case from being heard to its conclusion: it would only remain in force until the final determination of the suit when its force would be spent . . .�
+
+__paragraph__
+I respectfully beg to differ. The order for accounts and for a valuation of the shares had the effect of putting a brake on the further progress of the case, until the accounts and valuation were ready. Notice that the order was by consent of both parties; it was announced \[p.671\] by the plaintiffs, and agreed to by the defence, implying that the parties appreciated that the accounts and valuation were necessary for a final determination of the suit. The hearing of the case therefore could not go on without the accounts and valuation. I think the Court of Appeal (majority), put a wrong interpretation on the order.
+
+__paragraph__
+Mr. Adumua-Bossman argues that the ruling of Adadevoh J. (and by extension that of Ampiah J. (as he then was) too) was not binding on Lutterodt J. because they were all judges of co-ordinate jurisdiction: the ruling or orders of one High Court judge cannot bind another High Court judge. He cites a number of cases in purported support of this proposition. A study of the cases reveals that the statement is correct only in the context that the decision of a judge in one case does not bind another judge of co-ordinate jurisdiction in another case. Thus in Re Seymour: Ex parte Trustee \[1937\] 3 All ER 499, Clauson J. disagreed with Vaughan-William J's interpretation of section 49 of the Bankruptcy Act, 1914 in Re Badham; Ex parte Trustee (1893) 10 Morr. 252 and refused to apply it.
+
+__paragraph__
+In 1957 Willer J. had decided in The Telemachus \[1957\] 1 All ER 72 that payments to salvors should take account of the tax likely to be paid by the salvors on the award. This should be added to the estimated entitlement so that the award is, as it were, free of tax. A year later, Pilcher J. sitting in Island Tug & Barge Ltd. v. S.S. Makedonia \[1958\] 1 All ER 236 refused to follow that ruling. He decided that the salvors should get no more than what they are entitled to, no allowance being made for tax. The salvors should compute their accounts and pay tax on their profits in the usual way. Said the learned judge at 244:
+
+__paragraph__
+"I need not say that it is only after the most anxious thought and careful consideration that I have felt compelled to disagree with the views on this topic expressed by Willmer J. in the Telemachus. I do not feel, as he did, that any principle laid down in British Transport Commission v. Gourley \[1955\] 3 All ER 796, compels, or even inclines, me to take the view that a salvor who is already generously rewarded on well-known principles should have his award further increased so as to indemnify him wholly or in part for the fact that the fiscal law to which he is subject requires him to pay tax on the profit element in his salvage award."
+
+__paragraph__
+In Re Burton's Settlement \[1955\] Ch. 82, again a judge declined to apply an earlier decision of his brother judge in another case. There are countless examples of such situations. I do not find them helpful \[p.672\] here. In all these cases a judge chooses to chart a course for himself, in conflict with an earlier case, leaving it to the appellate tribunal to settle the conflict.
+
+__paragraph__
+I must concede, however, that it has been known for rulings in interim injunctions to be changed in the course of the same case, when the change is warranted by changed circumstances or on the occurrence of new matters. For example, a refusal to grant an application at one stage may, on a repeat application specifying changed circumstances or new matters, especially as to balance of hardship, be reversed and the application granted. So also may an earlier grant be revoked.
+
+__paragraph__
+But neither the situation in the Seymour line of cases nor in the interim injunction cases, applies in this case. Adadevoh J. had ruled, dismissing an application for a quick judgment, that the suit be heard, on the merit. This ruling was not reviewed or appealed against. Later for the purposes of hearing the case, the parties agreed before Ampiah J. (as he then was) that the accounts of the company should be struck and the shares valued. All these rulings being on file, in particular the latter, it could not be right that Lutterodt J. should disregard them and proceed to give a snap judgment.
+
+__paragraph__
+Six months before Lutterodt J. sat on the motion, the plaintiffs had filed a supplementary affidavit to which was attached a judgment of the Court of Appeal in another case begun in 1983 wherein Agyekum, the defendant-appellant herein, was the plaintiff and the company, along with three directors and shareholders, were the defendants. The judgment was dated 25 July 1985. The company pleaded in the supplementary affidavit that the judgment of the Court of Appeal and the order of that court were both "relevant matters to be taken into consideration in the \[motion for judgment\] filed by the plaintiff-company." No doubt the company sought to use the judgment as a new material introducing changed circumstances, and therefore justifying the rehearing of the application by Lutterodt J. I need only to observe that Lutterodt J. did not see it that way. Indeed, the judgment played no part whatever in her declarations. Although her attention was called to the supplementary affidavit, the judgment of the Court of Appeal was nowhere mentioned, let alone considered in her reserved ruling, implying that as far as she was concerned, the decision of the Court of Appeal had nothing to do with any changed circumstances. Her assumption of jurisdiction cannot therefore be justified by recourse to changed circumstances or new matters.
+
+__paragraph__
+It would seem that the existence of Ladco Ltd., a company allegedly formed by the defendant and others, prejudiced the decision against the defendant. It is bad enough that the defendant, a director-shareholder of the plaintiff-company, should have formed a company \[p.673\] in competition with the plaintiffs. Somehow no one seems to find it equally bad and reprehensible that the other director-shareholders should also have formed a rival company, Asakum Plant Hire Ltd., for the purposes of which they were using property, especially plant and machinery, belonging to the plaintiff-company.
+
+__paragraph__
+It has been said that those who come to equity must come with clean hands. It happens that in this case, the courts below shut their eyes to the realities of the situation, and sought escape in the legal fiction that a company is different from its members or directors, when it is patent that such an abstruse argument is bound to result in gross injustice.
+
+__paragraph__
+When courts talk of the separate personality of a company, distinct from the shareholders and directors, relying, particularly on Salomon v. Salomon & Co Ltd. \[1897\] AC 22, PC attention is hardly called to the fact that several exceptions have been created by the courts, wherein the veil is lifted, i.e. "the law disregards the corporate entity and pays regard instead to the economic realities behind the legal facade.": see Gower, Modern Company Law (3 rd. ed.) (1969) at p. 189. The learned author says at p. 216 that the law will crack open the corporate shell "if corporate personality is being blatantly used as a cloak for fraud or improper conduct."
+
+__paragraph__
+In this appeal, given the charges and counter-charges of improper conduct on the part of the directors, I wonder whether any court of justice should maintain the cloak, especially where, as in this case, the veil is not for the protection of members of the company against third parties, but in respect of the interests of the members and directors of the company inter se. In such a case it will be unjust to allow one party (to plagiarise a phrase by Russell J.) to hold the mask of corporate entity "before his face in an attempt to avoid recognition by the eye of equity." (See Jones v. Lipman \[1962\] W.L.R. 832 at 836.)
+
+__paragraph__
+There is no doubt that looking at the record, the real plaintiffs are the other directors and shareholders led by G. K. Asafu-Adjaye. These are the persons referred to by the defendant as the company's alter ego. There is evidence that the company has ceased to operate since 2 October 1984; it therefore exists only in name. Relations among the directors and shareholders have strained to such a limit that the parties can no longer come together to do business. They have pulled apart, breaking up into two groups: one group with the defendant, has formed Ladco Ltd; the other group, with G. K. Asafu-Adjaye, has formed Asakum Plant Hire Ltd. Each group is keeping for its use the plaintiff-company's property (particularly plant and machinery) which it had in its possession at the commencement of the diaspora. There are allegations that some directors have misappropriated funds of the company to put up private houses; that another has diverted cement, \[p.674\] and so on. These are mere allegations, and naturally have been denied. The defendant is described in the statement of claim as "a civil engineer, a shareholder and general manager" of the company. The defendant himself says he is a director-general manager, and owns a third of the shares of the company. And according to the plaintiffs' counsel, the defendant is sued as a director. Notwithstanding these statements by and on behalf of the plaintiffs, counsel is able to assert in the letter of 21 March 1986 that the defendant:
+
+__paragraph__
+�was never allotted any shares, and he never paid for any, so that strictly speaking, he has no shares to be bought in the proposed buying-out process; certainly none to be valued."
+
+__paragraph__
+This no doubt explains the plaintiffs' attitude to the order for accounts which they themselves agreed to before Ampiah J. (as he then was). In an application for a stay of execution, the Court of Appeal, Amua-Sekyi J.A. (as he then was) felt, without expressing an opinion on the matter, that:
+
+__paragraph__
+"the fact that the company have refused to permit the valuation \[of the company's assets\] to be made may at the hearing of the appeal be held to disentitle them to relief, and the learned judge \[Lutterodt J.\] be held to have erred in entertaining the application for judgment."
+
+__paragraph__
+With these sentiments, I am in complete agreement. It would seem that someone is trying to cheat, and the court should not encourage cheating. Someone is trying to use the myth of the separate personality of a company to get into his hands and under his control all the assets of the company to the detriment of the defendant who too is a shareholder, director and general manager.
+
+__paragraph__
+This case once more illustrates how dangerous and unsatisfactory it can be to give judgments on pleadings alone, except in cases where an admission of liability is clear and unequivocal: see, e.g. Pomaa v. Fosuhene \[1987-88\] 1 G.L.R. 244, SC. As far as practicable, cases ought to be decided on oral and sworn evidence from the witness-box, tested by cross-examination, if the truth is to be properly ascertained. In this case, it is apparent that a lot is being conveniently pushed under the carpet, in an effort to arrive at certain ends by the short route�a sad state of affairs indeed.
+
+__paragraph__
+The decision of the Court of Appeal has the effect of putting all the plants and machinery of the company into the hands of one set of directors, to the detriment of the other set. The one redeeming feature of that decision (majority) is the court's ruling that the defendant's counterclaim is voidable, not void. It would seem therefore, that not having been avoided, the counterclaim is still in the High Court, to be \[p.675\] tried and determined. In those circumstances, the justice of the case requires that the order of Ampiah J. (as he then was) of 12 November 1985 be enforced and that meanwhile all the plant and machinery of the company be given into the custody of a third party, say Plant Pool Ltd., so that neither party is given any undeserved advantage over the other.
+
+__paragraph__
+In the result, I agree with counsel for the defendant-appellant that:
+
+__paragraph__
+(i) given the ruling of Adadevoh J. on 4 March 1985 and of Ampiah J. (as he then was) on 12 November 1985, Lutterodt J. had no jurisdiction to hear the motion again and deliver the ruling of 27 May 1987; and
+
+__paragraph__
+(ii) that there was indeed an agreement on or before 12 November 1985 solemnly and professionally entered into between the parties represented by their counsel; that agreement bound the plaintiff-company. The learned judge erred when she held the contrary, and proceeded to give them judgment, thus enabling them to profit from their own misconduct in jettisoning that agreement.
+
+__paragraph__
+I would allow the appeal and set aside the decision of the Court of Appeal, as well as that of the High Court.
+
+__paragraph__
+JUDGMENT OF AIKINS J.S.C.
+
+__paragraph__
+I have had the opportunity of reading beforehand the judgment just read by my brother Adade J.S.C. and I entirely agree with the reasons and conclusions.
+
+__paragraph__
+However, I would wish to add a few words. It is my view that since the ruling or order or both of Adadevoh J. on 4 March 1985 had not been set aside on appeal or otherwise, Lutterodt J. lacked jurisdiction to hear and determine the fresh identical application filed on 4 March 1986 seeking the very reliefs which had been refused and dismissed. Be that as it may, as Lutterodt J. had searched and found the order made by Ampiah J. (as he then was) the a firm of chartered accountants should go into the accounts of the company and value the shares and report by 11 February 1986, it is strange for her to hold that the parties are not bound by any such order.
+
+__paragraph__
+The order of Ampiah J. (as he then was) was made as a result of his acceptance of the agreement reached by counsel for both parties, i.e. Mr. Agyeman-Bempah and Mr. Kom, that a firm of accountants be appointed to value the assets and liabilities of the company and value its shares. In spite of this Lutterodt J. held: "I have found that there is no agreement which binds the plaintiff-company and stops them from pressing their claims . . ." Furthermore, when Lutterodt J. was delivering her ruling on 17 July 1987, refusing the stay of execution sought by the defendant she made the following order:
+
+__paragraph__
+\[p.676\]
+
+__paragraph__
+"But for the avoidance of doubt the order of Ampiah J. (as he then was), namely that no party disposes of the company's property until the final disposition of the suit, still stands and is binding on the parties including the plaintiff-company acting through whomsoever."
+
+__paragraph__
+How then can one part of an order bind the party but the other part held not to be binding?
+
+__paragraph__
+In my judgment the majority of the Court of Appeal erred in confirming the decision of Lutterodt J. In its majority judgment the Court of Appeal observed that:
+
+__paragraph__
+"The defendant claims to be a director in the plaintiff-company and yet he has formed Ladco Ltd. in competition with the plaintiffs, this is in direct conflict with his interest as a director in the plaintiff-company, he must not be allowed by it."
+
+__paragraph__
+In making this observation the court conveniently lost sight of the fact that the co-director, G. K. Asafu-Adjaye, and the other shareholders had also formed another company of their own called Asakum Plant Hire Ltd. which is using the machines of the plaintiff-company in their custody.
+
+__paragraph__
+I think in view of the several serious allegations and counter-allegations made by both directors of malpractices and misappropriation of the company's funds, and the orders of the High Court in respect of this case which have not been carried out, justice cannot be seen to be done if this appeal is dismissed. An agreement had been reached that a firm of chartered accountants should be appointed to value the assets and liabilities of the plaintiff-company, and evaluate the shares with a view to the defendant-appellant being paid off. After a consent order had been made by the court, the company had blatantly refused to surrender the company's books and co-operate with the accountants, with the result that the said accountants had made their exit from the work entrusted to them. There is no doubt in my mind that a valuation report would assist the court in making any assessment deemed necessary.
+
+__paragraph__
+In my judgment if litigants are to benefit from their actions the orders of our courts must be respected and obeyed, but should not be flouted with impunity.
+
+__paragraph__
+It is for these other reasons that I would also allow the appeal.
+
+__paragraph__
+DECISION
+
+__paragraph__
+Appeal dismissed.
+
+__paragraph__
+L. K. A.

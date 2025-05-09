@@ -1,0 +1,95 @@
+__section__
+R U L I N G
+
+__paragraph__
+MARFUL –SAU, JA:-The fundamental issue raised in this application is whether this court was seised with jurisdiction when on the 20th day of December 2012 it granted an application for interim injunction pending the determination of an appeal lodged by the Plaintiff/Appellant/Respondent herein against the refusal of the High Court, Fast Track Division to grant an application for interlocutory injunction.
+
+__paragraph__
+The main ground canvassed by counsel for Defendant/Respondent/Applicant herein in seeking to set aside the order granting the injunction is that this court was not seised with jurisdiction because as at the 20th day of December 2012, when this court granted the injunction the record of appeal had not been transmitted to this court and Form 6 had not been issued by the Registrar of the court below, that is the High Court, Fast Track Division.
+
+__paragraph__
+We are being called upon, in this application, to examine the conduct of this court as it sat on the 20th December 2012, to ascertain whether it had jurisdiction to grant the injunction. In other words we are to ascertain whether the court erred in granting the application for injunction pending an appeal against the refusal of an injunction by a lower court in the peculiar circumstances of the case, when the record of appeal had not been transmitted to this court. In conducting this exercise we will like to briefly address the jurisdiction of the Court of Appeal. It is trite learning that an appeal is a creature of Statute and an appellate jurisdiction can only be exercised when the appellant has brought himself/herself within the law creating the appeal.
+
+__paragraph__
+In Frimpong v. Poku(1962) 2 GLR 1 at 6 the Supreme Court held thus:-
+
+__paragraph__
+“A right of appeal is always conferred by statute, and when the statute conferring the right lays down conditions precedent to the raising of that right in a litigant, it is essential that those conditions must be strictly performed otherwise that right does not become vested.”
+
+__paragraph__
+An appeal is deemed to be entered at the Court of Appeal when Form 6 is issued by the Registrar of the court below. The issuance of Form 6 means that the records of appeal are transmitted from the trial court to the Court of Appeal. There is no dispute in law as to when an appeal is deemed to have been entered in the appellate court as the authorities are legion on this matter. In Ampong V Frempong (1965) GLR 350, the Supreme Court speaking through Mills-Odoi JSC, delivered as follows:-
+
+__paragraph__
+“In our opinion the appeal is entered, or is deemed to have been entered, the moment the registrar of the Supreme Court receives the record and all the accompanying documents listed in Rule 15(1) of the aforesaid Rules. It will be observed that the docket on the file which contains all relevant materials for the due prosecution of the appeal would have, at that state, been transmitted from the court below to this court. On receipt of these documents the court below becomes functus officio; the Supreme Court then becomes seised of the whole of the proceeding as between the parties hereto and until the appeal is finally determined every application therein shall be made to the court and not to the court below, but any application may be filed in the court below for transmission to the court.”
+
+__paragraph__
+Then in Ashanti Goldfields Company Ltd v. Westchester Resources Ltd, (unreported Ruling of the Supreme Court, presided over by a single Justice, Dr. Date-Bah JSC, in civil motion No. J8/29/2013 of 27th March 2013)the learned Jurist discussing issues regarding the jurisdiction of the Supreme Court held among others as follows:-
+
+__paragraph__
+“On the face of this provision, before the transmission of the record of appeal to the Supreme Court, it does not have jurisdiction to deal with interlocutory matters relating to a particular appeal, unless an application can be granted on any of its other bases of jurisdiction such as its supervisory jurisdiction.”
+
+__paragraph__
+It is thus clear that generally an appellate court like the Court of Appeal can only invoke its jurisdiction when an appeal is properly entered at its Registry; that is, when the entire record of appeal is received at its Registry after the issuance of Civil Form 6 by the Registrar of the court below.
+
+__paragraph__
+The facts of this case are that the Plaintiff/Appellant/Respondent applied for an interlocutory injunction at the High Court/Fast Track Division and was refused. The Respondent herein then filed an appeal in this court against the order refusing the injunction on 29th July 2012. The Respondent filed an application for an interim injunction pending the final determination of the appeal against the order refusing the injunction. On the 20th December 2012 this court differently composed then granted the application by ordering an injunction against the Defendant/Respondent/Applicant herein. It is this order that the Applicant herein seeks to set aside on grounds that the court had no jurisdiction to so make the order.
+
+__paragraph__
+What then is the jurisdiction of this court to entertain interlocutory applications? This court’s jurisdiction on interlocutory applications is clearly defined by Rules 21, 27A and 28 of C1 19, which provides as follows:
+
+__paragraph__
+“21. Control of Proceedings during Pendency of Appeal:
+
+__paragraph__
+‘’ after the record of appeal has been transmitted from the court below to the court, the court shall be seised of the whole of the proceedings as between the parties and every application shall be made to the court and not to the court below, but an application may be filed in the court below for transmission to the court.”
+
+__paragraph__
+In reviewing the above Rule in the context of the instant proceedings, it is clear that the Respondent’s application for interim injunction which was granted by this court could not have been prosecuted under Rule 21, since at the time of the application the record of appeal had not been transmitted from the court below to this court. What does Rules 27 A and 28 provide?
+
+__paragraph__
+Rule 27 A: Interlocutory Appeals.
+
+__paragraph__
+“The court may in an interlocutory appeal civil or criminal before it grant a stay of proceedings pending the determination of the interlocutory appeal subject to the conditions the court considers fit.”
+
+__paragraph__
+Again under this rule the only application that this court is mandated to grant is one of stay of proceedings and not an order of interim injunction. Rule 27A is followed by Rule 28 which is titled “Court to which application should be made” and provides as follows:
+
+__paragraph__
+“28. Subject to these Rules and to any other enactment, where under an enactment, an application may be made to the court below or to the court, it shall be made in the first instance to the court below, but if the court below refuses to grant the application, the applicant is entitled to have the application determined by the court.”
+
+__paragraph__
+The above rule 28 is speaking to what is commonly referred to in our civil procedure practice as repeat applications. Our understanding of the rule is that before an application could be repeated in the court of appeal after its refusal by the court below an enactment must give right to the repetition of the application. Few examples of such applications that specific enactments sanction the right to repeat in the Court of Appeal are as follows:
+
+__paragraph__
+(a)Application for Stay of Execution when an appeal is filed
+
+__paragraph__
+(b)Motion for extension of time to file an appeal against a final judgment and
+
+__paragraph__
+(c)Motion for leave to appeal against the interlocutory order of the Circuit Court.
+
+__paragraph__
+It is important to state that by the decision of the Supreme Court in the case of Republic v. Fast Track High Court, Accra, Exparte Daniel Kwasi Abodakpi, Civil Motion No. JS/15/2005 dated 25th October 2005, the High Court has no jurisdiction to entertain application of stay of proceedings so there can’t be a repeat application to the Court of Appeal, since the application must now be made directly to the Court of Appeal.
+
+__paragraph__
+Flowing from the requirement in Rule 28 we do not know of any enactment which stipulates that if an application for interlocutory injunction is refused by a trial court and an appeal is taken the application can be repeated as of right. No such enactment has been referred to us by counsel for the Respondent who is opposing the instant application. That being the case the only Rule of this court that could have aided the Respondent is Rule 21, but as observed, at the time the application for interim injunction was heard by this court, the record of appeal had not been transmitted to this court nor had the Registrar of the court below issued civil Form 6 to the parties in this proceedings. As observed the application for interim injunction could also not be taken as a repeat application since no enactment gives that right to the Respondent herein.
+
+__paragraph__
+Indeed our understanding of the nature and essence of repeat applications in this court is not to create an opportunity for the court to determine the appeal, at best it is generally targeted at maintaining the status quo ante, pending the final determination of the appeal. In this proceedings however, the effect of the order was the determination of the appeal itself through the application.
+
+__paragraph__
+In his Notice of Appeal filed on 20th July 2012 the Respondent in this proceeding sought the following major reliefs:-
+
+__paragraph__
+(a)An order to set aside the ruling of the High court on the Plaintiff’s motion for interlocutory injunction.
+
+__paragraph__
+(b)An order for an interlocutory injunction pending the final determination of the suit at the High Court.
+
+__paragraph__
+The remedy that the Respondent was seeking upon the determination of the appeal is a decree of interlocutory injunction against the Applicant herein. The appeal was calling on this court to determine whether the trial court was right or wrong in refusing the Respondent application for interlocutory injunction. By granting an order of interim injunction against the Applicant herein without hearing the appeal on its merit, since the record was not before the court, this court indirectly granted the reliefs sought in the appeal. What this court did when it granted the order of interim injunction was hearing the appeal without having the record of appeal.
+
+__paragraph__
+As addressed in this ruling since the application for injunction could not be taken as a repeat application, we are of the opinion that this court could only have entertained the application if the record of appeal had been transmitted to its Registry and Civil Form 6 issued to vest the court with the requisite jurisdiction to hear same.
