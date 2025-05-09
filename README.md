@@ -8,7 +8,7 @@ This is a Question-Answering (QA) system designed to efficiently retrieve releva
 
 - [Features](#features)
 - [System Requirements](#system-requirements)
-- [Setup and Installation](#setup-and-instal) 
+- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 
 ## Features
@@ -19,39 +19,29 @@ This is a Question-Answering (QA) system designed to efficiently retrieve releva
 - **Flask API:** A well-structured API for interacting with the QA system, including endpoints for querying and document uploading.
 - **Streamlit Frontend:** A user-friendly interface for easy interaction with the QA system, built with Streamlit.
 
-## Prerequisites and System Requirements
+## System Requirements
 
-- Python 3.6 or higher
-- SentenceTransformers
-- Flask, Docker and Streamlit
+- Python 3.6 or higher (if you plan to run services outside of Docker)
 - Docker and Docker Compose
-- An internet connection for building Docker images
+- An internet connection (for downloading base Docker images and dependencies)
 
-**Requirements File**
-- A requirements.txt file that lists all the Python packages required to run the application is the docker directory. You can easily install these with the command:
-    ```bash
-    pip install -r requirements.txt
-    ```
+The necessary Python packages are listed in `docker/requirements.txt`. These are installed automatically when building the Docker images.
+
 ## Setup and Installation
 
-1. **Clone the Repository:**
+1.  **Clone the Repository:**
 
     ```bash
     git clone https://github.com/pmensah28/Question-Answering-System.git
     cd Question-Answering-System
     ```
 
-2. **Build and Start the Docker Containers:**
+2.  **Build and Start the Docker Containers:**
 
     ```bash
     docker-compose up --build -d
     ```
-    This command will build the Docker images and start the containers for the Flask API, Elasticsearch, and Streamlit in detached mode.
-3. **Start Elasticsearch**
-    ````bash
-    sudo service elasticsearch start
-   ````
-   Starting Elasticsearch is a fundamental step in ensuring that the QA system is efficient, scalable, and capable of providing real-time, relevant answers to users’ questions.
+    This command will build the Docker images and start the containers for the Flask API, Elasticsearch, and Streamlit in detached mode. Ensure Docker is running before executing this command.
 
 ## Usage
 
@@ -65,7 +55,9 @@ Use the Streamlit web interface to enter your questions. The system will return 
 
 Access the Streamlit interface at:
 
-```bash
+```
 http://localhost:8501
-````
+```
 Detailed design and implementation insights are in the `technical.pdf` in the `docs/` directory.
+
+
